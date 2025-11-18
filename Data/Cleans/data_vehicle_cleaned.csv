@@ -6,7 +6,7 @@ Toyota,Rural,Male,Married,65,Third Party,Sedan - Liability,20000 to 29000,0,400,
 Honda,Urban,Female,Single,27,Third Party,Sport - Collision,more than 69000,0,400,1,more than 30,none,5 years,No,No,External,none,no change,1 vehicle,26-30,2
 Honda,Urban,Male,Single,20,Third Party,Sport - Collision,more than 69000,0,400,3,more than 30,none,5 years,No,No,External,3 to 5,no change,1 vehicle,21-25,2
 Honda,Urban,Male,Married,36,Third Party,Sport - Collision,more than 69000,0,400,1,more than 30,1,7 years,No,No,External,1 to 2,no change,1 vehicle,36-40,62
-Honda,Urban,Male,Single,16,Policy Holder,Sport - Collision,more than 69000,0,400,4,more than 30,1,new,No,No,External,none,no change,1 vehicle,0-17,23
+Honda,Urban,Male,Single,17,Policy Holder,Sport - Collision,more than 69000,0,400,4,more than 30,1,new,No,No,External,none,no change,1 vehicle,0-17,23
 Honda,Urban,Male,Single,30,Policy Holder,Sport - Collision,more than 69000,0,400,4,more than 30,none,6 years,No,Yes,External,3 to 5,no change,1 vehicle,31-35,61
 Ford,Urban,Male,Married,42,Policy Holder,Utility - All Perils,more than 69000,0,400,1,more than 30,2 to 4,more than 7,No,No,External,3 to 5,no change,1 vehicle,41-50,60
 Mazda,Urban,Male,Single,71,Policy Holder,Sedan - All Perils,more than 69000,0,400,3,more than 30,none,more than 7,No,No,External,none,no change,1 vehicle,65+,61
@@ -30,7 +30,7 @@ Accura,Urban,Male,Married,42,Policy Holder,Sedan - All Perils,30000 to 39000,0,4
 Honda,Urban,Male,Single,17,Policy Holder,Sedan - All Perils,more than 69000,1,400,1,more than 30,none,new,No,No,External,none,no change,1 vehicle,0-17,13
 Mazda,Urban,Female,Married,39,Policy Holder,Sedan - Collision,20000 to 29000,0,400,3,more than 30,none,7 years,No,No,External,none,no change,1 vehicle,36-40,61
 Dodge,Urban,Male,Married,47,Policy Holder,Sedan - Collision,30000 to 39000,0,400,1,more than 30,2 to 4,more than 7,No,No,Internal,none,no change,1 vehicle,41-50,60
-Honda,Urban,Male,Single,16,Policy Holder,Sedan - Collision,more than 69000,0,400,1,more than 30,1,new,No,No,External,none,no change,1 vehicle,0-17,61
+Honda,Urban,Male,Single,17,Policy Holder,Sedan - Collision,more than 69000,0,400,1,more than 30,1,new,No,No,External,none,no change,1 vehicle,0-17,61
 Chevrolet,Urban,Male,Single,42,Policy Holder,Sedan - Collision,20000 to 29000,0,400,3,more than 30,more than 4,7 years,No,No,External,3 to 5,no change,1 vehicle,41-50,60
 Honda,Urban,Male,Single,30,Third Party,Sedan - Collision,20000 to 29000,0,400,4,more than 30,none,6 years,No,No,External,1 to 2,no change,1 vehicle,31-35,60
 Ford,Urban,Male,Married,42,Policy Holder,Utility - All Perils,more than 69000,0,400,1,more than 30,2 to 4,7 years,No,No,External,none,no change,1 vehicle,41-50,60
@@ -119,7 +119,7 @@ Pontiac,Urban,Male,Married,32,Third Party,Sedan - Collision,30000 to 39000,0,400
 Pontiac,Urban,Male,Single,28,Policy Holder,Sedan - Liability,20000 to 29000,0,400,3,more than 30,2 to 4,6 years,No,No,External,3 to 5,no change,1 vehicle,26-30,63
 Mazda,Urban,Male,Single,68,Policy Holder,Sedan - All Perils,20000 to 29000,1,400,3,more than 30,2 to 4,5 years,No,No,External,none,no change,1 vehicle,65+,1
 Honda,Rural,Male,Single,16,Policy Holder,Sedan - All Perils,more than 69000,1,400,3,more than 30,none,new,No,No,External,none,no change,1 vehicle,0-17,62
-Honda,Rural,Male,Single,17,Policy Holder,Sedan - All Perils,more than 69000,0,400,3,more than 30,none,new,No,No,External,none,no change,1 vehicle,0-17,7
+Honda,Rural,Male,Single,16,Policy Holder,Sedan - All Perils,more than 69000,0,400,3,more than 30,none,new,No,No,External,none,no change,1 vehicle,0-17,7
 Honda,Rural,Female,Married,18,Third Party,Sport - Collision,more than 69000,0,400,4,more than 30,none,2 years,No,No,External,1 to 2,no change,1 vehicle,18-20,61
 Pontiac,Urban,Male,Single,30,Policy Holder,Sedan - Collision,more than 69000,0,400,1,more than 30,more than 4,6 years,No,No,External,1 to 2,no change,1 vehicle,31-35,60
 Honda,Urban,Male,Married,51,Policy Holder,Sedan - Collision,20000 to 29000,0,400,4,more than 30,more than 4,more than 7,No,No,External,none,no change,3 to 4,51-65,60
@@ -201,7 +201,7 @@ Pontiac,Urban,Female,Married,52,Policy Holder,Sedan - All Perils,20000 to 29000,
 Pontiac,Urban,Male,Married,29,Third Party,Sedan - All Perils,less than 20000,0,400,4,more than 30,none,6 years,No,No,External,1 to 2,no change,1 vehicle,26-30,3
 Mazda,Urban,Male,Married,38,Third Party,Sedan - Collision,20000 to 29000,0,400,4,more than 30,none,more than 7,No,No,External,none,no change,1 vehicle,36-40,2
 Mazda,Urban,Male,Single,34,Policy Holder,Sedan - Collision,20000 to 29000,0,400,4,more than 30,1,6 years,No,No,External,none,no change,1 vehicle,31-35,2
-Honda,Rural,Male,Single,17,Policy Holder,Sedan - Collision,more than 69000,0,400,3,more than 30,2 to 4,new,No,No,External,none,no change,1 vehicle,0-17,3
+Honda,Rural,Male,Single,16,Policy Holder,Sedan - Collision,more than 69000,0,400,3,more than 30,2 to 4,new,No,No,External,none,no change,1 vehicle,0-17,3
 Honda,Rural,Male,Married,41,Policy Holder,Sedan - Liability,30000 to 39000,0,400,4,more than 30,none,7 years,No,No,External,none,no change,1 vehicle,41-50,60
 Pontiac,Urban,Male,Married,41,Third Party,Sedan - All Perils,less than 20000,1,500,3,none,2 to 4,7 years,No,No,External,none,2 to 3 years,1 vehicle,41-50,5
 Pontiac,Urban,Male,Married,64,Policy Holder,Sedan - Collision,20000 to 29000,0,400,3,more than 30,1,more than 7,No,No,External,none,no change,3 to 4,51-65,2
@@ -242,7 +242,7 @@ Mazda,Urban,Male,Single,26,Policy Holder,Sedan - Liability,30000 to 39000,0,400,
 Chevrolet,Urban,Male,Single,32,Policy Holder,Sedan - Liability,20000 to 29000,0,400,4,more than 30,2 to 4,6 years,No,No,External,1 to 2,no change,1 vehicle,31-35,60
 Mazda,Urban,Female,Single,25,Policy Holder,Sedan - Liability,20000 to 29000,0,400,3,more than 30,2 to 4,4 years,No,No,External,1 to 2,under 6 months,1 vehicle,26-30,60
 Mazda,Urban,Female,Single,23,Policy Holder,Sedan - Liability,20000 to 29000,0,400,3,more than 30,more than 4,5 years,No,No,External,1 to 2,no change,1 vehicle,21-25,25
-Honda,Urban,Male,Single,17,Policy Holder,Sedan - Collision,more than 69000,0,400,1,more than 30,none,new,No,No,External,none,no change,1 vehicle,0-17,34
+Honda,Urban,Male,Single,16,Policy Holder,Sedan - Collision,more than 69000,0,400,1,more than 30,none,new,No,No,External,none,no change,1 vehicle,0-17,34
 Pontiac,Urban,Male,Single,31,Third Party,Sedan - Collision,less than 20000,0,400,1,more than 30,1,6 years,No,No,External,3 to 5,no change,1 vehicle,31-35,6
 Honda,Urban,Male,Single,17,Third Party,Sedan - Collision,more than 69000,0,400,4,more than 30,none,new,No,No,External,none,no change,1 vehicle,0-17,2
 Ford,Urban,Male,Married,42,Policy Holder,Sedan - All Perils,less than 20000,0,400,4,more than 30,1,7 years,No,No,External,3 to 5,no change,3 to 4,41-50,62
@@ -267,7 +267,7 @@ Pontiac,Urban,Female,Married,51,Policy Holder,Sedan - Liability,20000 to 29000,0
 VW,Urban,Male,Married,26,Third Party,Sedan - Collision,more than 69000,0,400,2,more than 30,1,5 years,No,No,External,none,no change,1 vehicle,26-30,2
 Pontiac,Urban,Male,Married,39,Policy Holder,Sedan - Liability,20000 to 29000,0,400,3,more than 30,2 to 4,7 years,No,No,External,none,no change,1 vehicle,36-40,61
 Chevrolet,Urban,Female,Married,30,Third Party,Sedan - All Perils,more than 69000,0,400,2,more than 30,1,6 years,No,No,External,3 to 5,no change,1 vehicle,31-35,60
-Honda,Urban,Male,Single,17,Policy Holder,Sedan - All Perils,more than 69000,0,400,3,more than 30,1,new,No,No,External,none,no change,1 vehicle,0-17,61
+Honda,Urban,Male,Single,16,Policy Holder,Sedan - All Perils,more than 69000,0,400,3,more than 30,1,new,No,No,External,none,no change,1 vehicle,0-17,61
 Honda,Urban,Male,Married,47,Policy Holder,Sedan - Liability,20000 to 29000,0,400,3,more than 30,1,more than 7,No,No,External,3 to 5,no change,1 vehicle,41-50,61
 Chevrolet,Urban,Female,Married,33,Policy Holder,Sedan - Liability,20000 to 29000,0,400,3,more than 30,2 to 4,3 years,No,No,External,3 to 5,no change,1 vehicle,31-35,60
 Pontiac,Urban,Male,Single,31,Policy Holder,Sedan - Collision,20000 to 29000,0,400,4,more than 30,none,6 years,No,No,External,more than 5,no change,1 vehicle,31-35,60
@@ -281,7 +281,7 @@ Pontiac,Urban,Female,Married,48,Policy Holder,Sedan - All Perils,20000 to 29000,
 Honda,Urban,Male,Single,17,Policy Holder,Sedan - Liability,more than 69000,0,400,4,more than 30,1,new,No,No,External,none,no change,1 vehicle,0-17,3
 Honda,Urban,Male,Single,17,Policy Holder,Sedan - All Perils,more than 69000,0,400,4,more than 30,none,new,No,No,External,none,no change,1 vehicle,0-17,9
 Pontiac,Urban,Male,Married,30,Policy Holder,Sedan - Liability,20000 to 29000,0,400,2,more than 30,more than 4,7 years,No,No,External,1 to 2,no change,1 vehicle,31-35,5
-Honda,Urban,Male,Single,16,Policy Holder,Sedan - All Perils,more than 69000,0,400,2,more than 30,none,new,No,No,External,none,no change,1 vehicle,0-17,49
+Honda,Urban,Male,Single,17,Policy Holder,Sedan - All Perils,more than 69000,0,400,2,more than 30,none,new,No,No,External,none,no change,1 vehicle,0-17,49
 Pontiac,Urban,Male,Married,38,Policy Holder,Sedan - Liability,20000 to 29000,0,400,2,more than 30,1,7 years,No,No,External,1 to 2,no change,1 vehicle,36-40,3
 Toyota,Urban,Male,Married,28,Policy Holder,Sedan - All Perils,less than 20000,0,400,3,more than 30,1,7 years,No,No,External,more than 5,no change,1 vehicle,26-30,2
 Honda,Urban,Male,Married,33,Policy Holder,Sedan - All Perils,less than 20000,0,400,4,more than 30,none,6 years,No,No,External,1 to 2,no change,1 vehicle,31-35,1
@@ -314,7 +314,7 @@ Pontiac,Urban,Male,Married,31,Policy Holder,Sedan - Collision,20000 to 29000,0,4
 Mercury,Urban,Female,Single,33,Policy Holder,Sedan - Liability,20000 to 29000,0,400,2,more than 30,more than 4,6 years,No,No,External,more than 5,no change,1 vehicle,31-35,60
 Honda,Urban,Male,Single,35,Policy Holder,Sedan - Collision,30000 to 39000,0,400,3,more than 30,none,7 years,No,No,External,3 to 5,no change,1 vehicle,36-40,61
 Pontiac,Rural,Female,Married,45,Third Party,Sedan - Liability,20000 to 29000,0,400,2,more than 30,1,7 years,No,No,External,none,no change,1 vehicle,41-50,1
-Honda,Urban,Male,Single,17,Policy Holder,Utility - All Perils,more than 69000,1,400,1,more than 30,1,new,No,No,External,none,4 to 8 years,2 vehicles,0-17,2
+Honda,Urban,Male,Single,16,Policy Holder,Utility - All Perils,more than 69000,1,400,1,more than 30,1,new,No,No,External,none,4 to 8 years,2 vehicles,0-17,2
 Accura,Urban,Male,Single,50,Policy Holder,Utility - All Perils,more than 69000,0,400,3,more than 30,none,more than 7,No,No,External,more than 5,no change,1 vehicle,51-65,3
 Honda,Urban,Male,Single,17,Policy Holder,Sedan - Collision,more than 69000,1,400,4,more than 30,1,new,No,No,External,none,no change,1 vehicle,0-17,60
 Pontiac,Urban,Male,Married,42,Policy Holder,Sedan - Collision,20000 to 29000,0,400,1,more than 30,none,7 years,No,No,External,none,no change,1 vehicle,41-50,60
@@ -347,7 +347,7 @@ Chevrolet,Urban,Male,Married,60,Policy Holder,Sedan - All Perils,20000 to 29000,
 Pontiac,Urban,Male,Single,30,Policy Holder,Sedan - Collision,20000 to 29000,0,400,3,more than 30,1,6 years,No,No,External,more than 5,no change,1 vehicle,31-35,61
 Ford,Rural,Male,Married,51,Policy Holder,Sedan - All Perils,40000 to 59000,0,400,2,more than 30,1,more than 7,No,No,External,more than 5,no change,1 vehicle,51-65,1
 Chevrolet,Rural,Male,Married,80,Policy Holder,Sedan - All Perils,30000 to 39000,0,400,3,more than 30,none,more than 7,No,No,External,more than 5,no change,1 vehicle,65+,61
-Honda,Urban,Male,Single,17,Policy Holder,Sedan - All Perils,more than 69000,0,400,2,more than 30,1,new,No,No,External,none,no change,1 vehicle,0-17,61
+Honda,Urban,Male,Single,16,Policy Holder,Sedan - All Perils,more than 69000,0,400,2,more than 30,1,new,No,No,External,none,no change,1 vehicle,0-17,61
 VW,Urban,Male,Married,52,Policy Holder,Sedan - All Perils,more than 69000,0,400,1,more than 30,1,more than 7,No,No,External,none,no change,1 vehicle,51-65,61
 Toyota,Urban,Male,Married,36,Policy Holder,Sedan - Liability,20000 to 29000,0,400,1,more than 30,2 to 4,6 years,No,No,External,none,no change,1 vehicle,36-40,60
 Honda,Urban,Male,Married,67,Third Party,Sedan - All Perils,20000 to 29000,0,400,2,more than 30,2 to 4,7 years,No,No,External,1 to 2,no change,1 vehicle,65+,1
@@ -433,14 +433,14 @@ Chevrolet,Urban,Male,Married,48,Policy Holder,Sedan - Collision,20000 to 29000,0
 Mercury,Rural,Male,Married,41,Policy Holder,Sedan - Collision,more than 69000,0,400,3,more than 30,2 to 4,3 years,No,No,External,1 to 2,no change,1 vehicle,41-50,3
 Toyota,Rural,Male,Married,28,Policy Holder,Sedan - Liability,30000 to 39000,0,400,2,more than 30,more than 4,7 years,No,No,External,more than 5,no change,1 vehicle,26-30,61
 Toyota,Rural,Male,Married,50,Policy Holder,Sedan - Collision,20000 to 29000,0,400,2,more than 30,none,more than 7,No,No,External,none,no change,1 vehicle,51-65,4
-Honda,Urban,Male,Single,17,Policy Holder,Sedan - Liability,more than 69000,0,400,2,more than 30,2 to 4,new,No,No,External,none,no change,1 vehicle,0-17,60
+Honda,Urban,Male,Single,16,Policy Holder,Sedan - Liability,more than 69000,0,400,2,more than 30,2 to 4,new,No,No,External,none,no change,1 vehicle,0-17,60
 Pontiac,Rural,Male,Married,46,Policy Holder,Sedan - All Perils,30000 to 39000,0,400,2,more than 30,2 to 4,more than 7,No,No,External,none,no change,1 vehicle,41-50,3
 Pontiac,Urban,Male,Married,45,Policy Holder,Sedan - All Perils,30000 to 39000,0,400,4,more than 30,2 to 4,7 years,No,No,External,3 to 5,no change,1 vehicle,41-50,61
 Chevrolet,Urban,Male,Married,65,Policy Holder,Sedan - All Perils,30000 to 39000,0,400,3,more than 30,none,more than 7,No,No,External,1 to 2,no change,1 vehicle,65+,60
 Honda,Urban,Male,Married,28,Policy Holder,Sedan - Liability,20000 to 29000,0,400,1,more than 30,more than 4,7 years,No,No,External,1 to 2,no change,1 vehicle,26-30,60
 Honda,Urban,Male,Married,67,Policy Holder,Sedan - Collision,20000 to 29000,0,400,4,more than 30,none,more than 7,No,No,External,none,no change,1 vehicle,65+,4
 Pontiac,Urban,Male,Single,30,Third Party,Sedan - Collision,20000 to 29000,0,400,1,more than 30,2 to 4,5 years,No,No,External,more than 5,no change,1 vehicle,31-35,61
-Honda,Urban,Male,Single,17,Third Party,Sedan - Collision,more than 69000,0,400,4,more than 30,none,new,No,No,External,none,4 to 8 years,2 vehicles,0-17,61
+Honda,Urban,Male,Single,16,Third Party,Sedan - Collision,more than 69000,0,400,4,more than 30,none,new,No,No,External,none,4 to 8 years,2 vehicles,0-17,61
 Chevrolet,Urban,Female,Single,50,Third Party,Sedan - Collision,20000 to 29000,0,400,2,more than 30,2 to 4,7 years,No,No,External,more than 5,no change,1 vehicle,51-65,61
 Mazda,Urban,Male,Single,29,Third Party,Sedan - All Perils,less than 20000,0,400,1,more than 30,none,6 years,No,No,External,none,no change,1 vehicle,26-30,3
 Toyota,Urban,Male,Single,39,Policy Holder,Sedan - Liability,20000 to 29000,0,400,3,more than 30,none,7 years,No,No,External,1 to 2,no change,1 vehicle,36-40,3
@@ -541,14 +541,14 @@ Honda,Urban,Male,Married,37,Policy Holder,Sedan - All Perils,20000 to 29000,1,40
 Chevrolet,Urban,Male,Married,57,Policy Holder,Sedan - Collision,20000 to 29000,0,400,3,more than 30,2 to 4,7 years,No,No,External,none,no change,1 vehicle,51-65,3
 Chevrolet,Urban,Female,Single,32,Policy Holder,Sedan - All Perils,20000 to 29000,0,400,2,more than 30,1,6 years,No,No,External,more than 5,no change,1 vehicle,31-35,2
 Chevrolet,Urban,Male,Married,55,Policy Holder,Sedan - Collision,30000 to 39000,0,400,3,more than 30,2 to 4,7 years,No,No,External,1 to 2,no change,1 vehicle,51-65,60
-Honda,Urban,Male,Single,16,Policy Holder,Sedan - All Perils,more than 69000,1,400,4,more than 30,none,new,No,No,External,none,no change,1 vehicle,0-17,62
+Honda,Urban,Male,Single,17,Policy Holder,Sedan - All Perils,more than 69000,1,400,4,more than 30,none,new,No,No,External,none,no change,1 vehicle,0-17,62
 Pontiac,Urban,Male,Married,38,Policy Holder,Sedan - Liability,20000 to 29000,0,400,4,more than 30,2 to 4,7 years,No,No,External,3 to 5,no change,1 vehicle,36-40,6
 Chevrolet,Urban,Male,Married,49,Policy Holder,Utility - All Perils,more than 69000,0,400,3,more than 30,1,more than 7,No,No,External,more than 5,no change,1 vehicle,41-50,7
 Toyota,Urban,Male,Married,50,Third Party,Sedan - Collision,20000 to 29000,0,400,2,more than 30,none,more than 7,No,No,External,none,no change,1 vehicle,51-65,2
 Chevrolet,Urban,Male,Married,48,Third Party,Sedan - Collision,30000 to 39000,0,400,1,more than 30,2 to 4,more than 7,No,No,External,none,1 year,2 vehicles,41-50,2
 Toyota,Urban,Male,Married,26,Policy Holder,Sedan - All Perils,less than 20000,0,400,1,more than 30,1,6 years,No,No,External,3 to 5,no change,1 vehicle,26-30,4
 Toyota,Urban,Male,Married,46,Policy Holder,Sedan - Liability,30000 to 39000,0,400,1,more than 30,2 to 4,more than 7,No,No,External,3 to 5,no change,1 vehicle,41-50,8
-Honda,Urban,Male,Single,17,Policy Holder,Sedan - Liability,more than 69000,0,400,2,more than 30,none,new,No,No,External,none,no change,1 vehicle,0-17,60
+Honda,Urban,Male,Single,16,Policy Holder,Sedan - Liability,more than 69000,0,400,2,more than 30,none,new,No,No,External,none,no change,1 vehicle,0-17,60
 Chevrolet,Urban,Male,Married,64,Policy Holder,Sedan - All Perils,20000 to 29000,0,400,4,8 to 15,none,more than 7,No,No,External,none,no change,1 vehicle,51-65,61
 Pontiac,Rural,Male,Married,72,Third Party,Sedan - All Perils,20000 to 29000,0,400,2,more than 30,2 to 4,more than 7,No,No,External,more than 5,no change,1 vehicle,65+,62
 VW,Urban,Male,Married,51,Third Party,Sedan - Liability,more than 69000,0,400,2,more than 30,more than 4,more than 7,No,No,External,3 to 5,no change,1 vehicle,51-65,60
@@ -612,7 +612,7 @@ Pontiac,Rural,Male,Married,48,Policy Holder,Sedan - Collision,30000 to 39000,0,4
 Pontiac,Urban,Male,Single,30,Third Party,Sedan - Liability,30000 to 39000,0,400,4,more than 30,2 to 4,6 years,No,No,External,none,no change,1 vehicle,31-35,62
 Toyota,Rural,Male,Single,29,Third Party,Sedan - All Perils,20000 to 29000,0,400,2,more than 30,1,6 years,No,No,External,none,no change,1 vehicle,26-30,1
 Pontiac,Urban,Male,Married,30,Policy Holder,Sedan - Liability,20000 to 29000,0,500,1,more than 30,more than 4,6 years,No,No,External,1 to 2,2 to 3 years,1 vehicle,31-35,60
-Honda,Urban,Male,Single,16,Policy Holder,Sedan - Collision,more than 69000,0,400,4,more than 30,2 to 4,new,No,No,External,none,no change,1 vehicle,0-17,61
+Honda,Urban,Male,Single,17,Policy Holder,Sedan - Collision,more than 69000,0,400,4,more than 30,2 to 4,new,No,No,External,none,no change,1 vehicle,0-17,61
 Pontiac,Urban,Male,Married,34,Policy Holder,Sedan - Collision,30000 to 39000,0,400,4,more than 30,none,7 years,No,No,External,none,no change,1 vehicle,31-35,61
 Honda,Urban,Male,Married,41,Policy Holder,Sedan - Liability,30000 to 39000,0,400,2,more than 30,1,7 years,No,No,External,more than 5,no change,3 to 4,41-50,60
 Honda,Urban,Male,Married,27,Policy Holder,Sedan - Liability,20000 to 29000,0,400,1,more than 30,2 to 4,4 years,No,No,External,3 to 5,no change,1 vehicle,26-30,2
@@ -992,7 +992,7 @@ Chevrolet,Urban,Male,Married,39,Policy Holder,Sedan - Liability,30000 to 39000,0
 Honda,Urban,Male,Married,43,Policy Holder,Sedan - All Perils,30000 to 39000,0,400,3,more than 30,none,6 years,No,No,External,none,no change,1 vehicle,41-50,60
 Pontiac,Urban,Male,Married,47,Policy Holder,Sedan - All Perils,20000 to 29000,0,400,3,more than 30,2 to 4,6 years,No,No,External,none,no change,1 vehicle,41-50,60
 Pontiac,Urban,Male,Single,30,Third Party,Sedan - All Perils,20000 to 29000,0,700,3,more than 30,none,7 years,No,No,External,more than 5,no change,1 vehicle,31-35,1
-Honda,Urban,Male,Single,16,Policy Holder,Sedan - Liability,more than 69000,0,400,4,more than 30,2 to 4,new,No,No,External,none,no change,1 vehicle,0-17,1
+Honda,Urban,Male,Single,17,Policy Holder,Sedan - Liability,more than 69000,0,400,4,more than 30,2 to 4,new,No,No,External,none,no change,1 vehicle,0-17,1
 Toyota,Urban,Male,Married,40,Third Party,Sedan - Liability,30000 to 39000,0,400,1,more than 30,1,7 years,No,No,External,3 to 5,no change,1 vehicle,41-50,1
 Chevrolet,Urban,Male,Single,58,Policy Holder,Sedan - All Perils,more than 69000,0,400,2,more than 30,1,more than 7,No,No,External,none,no change,1 vehicle,51-65,60
 Pontiac,Urban,Male,Single,25,Policy Holder,Sedan - Collision,20000 to 29000,0,400,4,more than 30,1,5 years,No,No,External,1 to 2,no change,1 vehicle,26-30,3
@@ -1037,7 +1037,7 @@ Chevrolet,Urban,Male,Single,27,Third Party,Sedan - All Perils,30000 to 39000,0,4
 Toyota,Rural,Male,Single,64,Policy Holder,Sedan - Collision,20000 to 29000,0,400,2,more than 30,2 to 4,7 years,No,No,External,3 to 5,no change,1 vehicle,51-65,60
 Mazda,Urban,Male,Married,48,Third Party,Sedan - Collision,20000 to 29000,0,400,1,more than 30,1,5 years,No,No,External,1 to 2,no change,1 vehicle,41-50,60
 Chevrolet,Urban,Male,Married,49,Policy Holder,Sedan - Liability,30000 to 39000,0,400,4,more than 30,2 to 4,more than 7,No,No,External,1 to 2,no change,1 vehicle,41-50,61
-Honda,Urban,Male,Single,17,Policy Holder,Sedan - Liability,more than 69000,0,400,1,more than 30,2 to 4,new,No,No,External,none,no change,1 vehicle,0-17,60
+Honda,Urban,Male,Single,16,Policy Holder,Sedan - Liability,more than 69000,0,400,1,more than 30,2 to 4,new,No,No,External,none,no change,1 vehicle,0-17,60
 Chevrolet,Urban,Female,Single,33,Policy Holder,Sedan - Collision,20000 to 29000,0,400,3,more than 30,2 to 4,6 years,No,No,External,3 to 5,no change,1 vehicle,31-35,2
 Honda,Urban,Female,Single,43,Third Party,Sedan - Liability,20000 to 29000,0,400,1,more than 30,2 to 4,7 years,No,No,External,3 to 5,no change,1 vehicle,41-50,60
 Chevrolet,Rural,Male,Single,34,Policy Holder,Sedan - Collision,30000 to 39000,0,400,2,more than 30,2 to 4,6 years,No,No,External,more than 5,no change,1 vehicle,31-35,61
@@ -1070,7 +1070,7 @@ Pontiac,Urban,Male,Married,39,Policy Holder,Sedan - Liability,30000 to 39000,0,4
 Accura,Urban,Male,Married,36,Policy Holder,Sedan - Collision,more than 69000,0,400,2,more than 30,2 to 4,7 years,No,No,External,more than 5,no change,1 vehicle,36-40,1
 Mazda,Urban,Male,Married,28,Policy Holder,Sedan - Collision,20000 to 29000,0,400,1,more than 30,none,5 years,No,No,External,1 to 2,no change,1 vehicle,26-30,2
 Honda,Rural,Male,Single,16,Policy Holder,Sedan - All Perils,more than 69000,0,400,3,more than 30,none,new,No,No,External,none,no change,1 vehicle,0-17,4
-Honda,Rural,Male,Single,17,Policy Holder,Sedan - Collision,more than 69000,1,400,3,more than 30,none,new,No,No,External,none,2 to 3 years,2 vehicles,0-17,61
+Honda,Rural,Male,Single,16,Policy Holder,Sedan - Collision,more than 69000,1,400,3,more than 30,none,new,No,No,External,none,2 to 3 years,2 vehicles,0-17,61
 Honda,Urban,Male,Single,17,Policy Holder,Sedan - All Perils,more than 69000,1,400,1,more than 30,more than 4,new,No,No,External,none,no change,1 vehicle,0-17,62
 Honda,Urban,Male,Married,48,Policy Holder,Sedan - Collision,more than 69000,0,400,4,none,1,more than 7,No,No,External,none,no change,1 vehicle,41-50,3
 Pontiac,Urban,Male,Married,51,Policy Holder,Sedan - Liability,30000 to 39000,0,400,2,more than 30,2 to 4,7 years,No,No,External,none,no change,1 vehicle,51-65,61
@@ -1202,7 +1202,7 @@ Pontiac,Rural,Male,Single,30,Policy Holder,Sedan - Collision,30000 to 39000,1,40
 Mazda,Urban,Male,Married,39,Policy Holder,Sedan - Collision,20000 to 29000,0,400,1,more than 30,2 to 4,7 years,No,No,External,more than 5,no change,1 vehicle,36-40,7
 Honda,Urban,Male,Married,42,Policy Holder,Sedan - Liability,20000 to 29000,0,400,3,more than 30,1,7 years,No,No,External,more than 5,no change,1 vehicle,41-50,60
 Mazda,Urban,Male,Married,35,Policy Holder,Sedan - Liability,30000 to 39000,0,400,1,more than 30,2 to 4,6 years,No,No,External,1 to 2,no change,1 vehicle,36-40,4
-Honda,Urban,Male,Single,17,Policy Holder,Sedan - Liability,more than 69000,0,400,2,more than 30,2 to 4,new,No,No,External,none,no change,1 vehicle,0-17,61
+Honda,Urban,Male,Single,16,Policy Holder,Sedan - Liability,more than 69000,0,400,2,more than 30,2 to 4,new,No,No,External,none,no change,1 vehicle,0-17,61
 Chevrolet,Urban,Male,Married,29,Third Party,Sedan - Liability,more than 69000,0,400,4,more than 30,none,7 years,No,No,External,none,no change,1 vehicle,26-30,60
 Pontiac,Urban,Male,Married,48,Third Party,Sedan - Liability,20000 to 29000,0,400,1,more than 30,2 to 4,more than 7,No,No,External,none,no change,1 vehicle,41-50,61
 Toyota,Urban,Male,Single,23,Policy Holder,Sedan - Liability,20000 to 29000,0,400,3,more than 30,more than 4,5 years,No,No,External,none,no change,1 vehicle,21-25,60
@@ -1255,7 +1255,7 @@ Honda,Urban,Male,Single,30,Policy Holder,Sedan - Liability,20000 to 29000,0,400,
 Toyota,Urban,Male,Married,29,Policy Holder,Sedan - Collision,20000 to 29000,0,400,3,more than 30,2 to 4,7 years,No,No,External,none,no change,1 vehicle,26-30,2
 Toyota,Urban,Male,Married,57,Policy Holder,Sedan - Liability,30000 to 39000,0,400,3,more than 30,2 to 4,7 years,No,No,External,none,no change,1 vehicle,51-65,60
 Chevrolet,Urban,Male,Single,29,Policy Holder,Sedan - All Perils,30000 to 39000,0,400,1,more than 30,1,5 years,No,No,External,none,no change,1 vehicle,26-30,61
-Honda,Urban,Male,Single,16,Third Party,Sedan - All Perils,more than 69000,0,400,3,more than 30,none,new,No,No,External,none,no change,1 vehicle,0-17,60
+Honda,Urban,Male,Single,17,Third Party,Sedan - All Perils,more than 69000,0,400,3,more than 30,none,new,No,No,External,none,no change,1 vehicle,0-17,60
 Chevrolet,Urban,Female,Single,30,Third Party,Sedan - Collision,20000 to 29000,0,400,4,more than 30,2 to 4,5 years,No,No,External,none,no change,1 vehicle,31-35,61
 Ford,Urban,Male,Married,60,Policy Holder,Utility - All Perils,30000 to 39000,0,400,2,more than 30,2 to 4,more than 7,No,No,External,none,no change,1 vehicle,51-65,61
 Chevrolet,Urban,Male,Married,42,Policy Holder,Sedan - All Perils,more than 69000,0,400,1,more than 30,none,7 years,No,No,External,none,no change,1 vehicle,41-50,61
@@ -1418,7 +1418,7 @@ Chevrolet,Urban,Male,Single,33,Policy Holder,Sedan - Collision,20000 to 29000,0,
 Mazda,Urban,Male,Married,46,Policy Holder,Sedan - Liability,30000 to 39000,0,400,3,more than 30,2 to 4,more than 7,No,No,External,3 to 5,no change,1 vehicle,41-50,1
 Pontiac,Urban,Male,Married,33,Third Party,Sedan - Collision,30000 to 39000,0,400,4,more than 30,2 to 4,6 years,No,No,External,3 to 5,no change,1 vehicle,31-35,60
 Pontiac,Urban,Female,Single,32,Policy Holder,Sedan - Liability,20000 to 29000,1,400,3,more than 30,1,5 years,No,No,External,none,no change,1 vehicle,31-35,3
-Honda,Urban,Male,Single,16,Policy Holder,Sedan - All Perils,more than 69000,0,400,2,more than 30,none,new,No,No,External,none,no change,1 vehicle,0-17,63
+Honda,Urban,Male,Single,17,Policy Holder,Sedan - All Perils,more than 69000,0,400,2,more than 30,none,new,No,No,External,none,no change,1 vehicle,0-17,63
 Chevrolet,Urban,Male,Married,42,Policy Holder,Sedan - Liability,40000 to 59000,0,400,2,more than 30,more than 4,7 years,No,No,External,1 to 2,no change,1 vehicle,41-50,60
 Chevrolet,Urban,Male,Single,31,Third Party,Sedan - All Perils,more than 69000,0,400,4,more than 30,1,6 years,No,No,External,1 to 2,no change,1 vehicle,31-35,61
 Honda,Urban,Male,Single,26,Third Party,Sedan - Collision,20000 to 29000,0,400,4,more than 30,1,6 years,No,No,External,none,no change,1 vehicle,26-30,60
@@ -1455,7 +1455,7 @@ Honda,Urban,Female,Single,33,Policy Holder,Sedan - Liability,30000 to 39000,0,40
 Chevrolet,Urban,Male,Single,48,Policy Holder,Utility - All Perils,more than 69000,0,400,1,none,2 to 4,7 years,No,No,External,none,no change,1 vehicle,41-50,3
 Honda,Urban,Male,Married,54,Third Party,Sport - Collision,more than 69000,0,400,2,more than 30,1,7 years,No,No,External,3 to 5,no change,1 vehicle,51-65,60
 Toyota,Urban,Male,Single,29,Third Party,Sedan - Collision,20000 to 29000,0,400,3,more than 30,1,7 years,No,No,External,none,no change,1 vehicle,26-30,60
-Honda,Urban,Male,Single,16,Policy Holder,Sedan - All Perils,more than 69000,1,400,3,more than 30,2 to 4,new,No,No,External,none,1 year,1 vehicle,0-17,60
+Honda,Urban,Male,Single,17,Policy Holder,Sedan - All Perils,more than 69000,1,400,3,more than 30,2 to 4,new,No,No,External,none,1 year,1 vehicle,0-17,60
 Toyota,Urban,Male,Married,55,Policy Holder,Sedan - All Perils,20000 to 29000,0,700,4,more than 30,2 to 4,7 years,No,No,External,1 to 2,no change,1 vehicle,51-65,60
 Honda,Urban,Female,Married,42,Policy Holder,Sedan - Collision,20000 to 29000,0,400,3,more than 30,none,7 years,No,No,External,1 to 2,no change,1 vehicle,41-50,1
 Mazda,Urban,Male,Married,28,Policy Holder,Sedan - Liability,20000 to 29000,0,400,4,more than 30,2 to 4,7 years,No,No,External,none,no change,1 vehicle,26-30,60
@@ -1529,7 +1529,7 @@ Chevrolet,Urban,Male,Single,27,Third Party,Sedan - Liability,20000 to 29000,0,40
 Pontiac,Urban,Female,Single,45,Policy Holder,Sedan - Liability,20000 to 29000,0,400,4,more than 30,more than 4,7 years,No,No,External,more than 5,no change,1 vehicle,41-50,61
 Ford,Urban,Male,Married,32,Policy Holder,Sedan - All Perils,40000 to 59000,0,400,3,more than 30,more than 4,6 years,No,No,External,3 to 5,no change,1 vehicle,31-35,5
 Honda,Urban,Male,Single,17,Policy Holder,Sedan - Liability,more than 69000,0,400,2,more than 30,2 to 4,new,No,No,External,none,2 to 3 years,1 vehicle,0-17,62
-Honda,Urban,Male,Single,17,Third Party,Sport - All Perils,more than 69000,0,400,1,more than 30,2 to 4,new,No,No,External,none,no change,1 vehicle,0-17,9
+Honda,Urban,Male,Single,16,Third Party,Sport - All Perils,more than 69000,0,400,1,more than 30,2 to 4,new,No,No,External,none,no change,1 vehicle,0-17,9
 Chevrolet,Urban,Female,Single,27,Policy Holder,Sedan - Liability,40000 to 59000,0,400,2,more than 30,more than 4,7 years,No,No,External,more than 5,no change,1 vehicle,26-30,60
 Toyota,Urban,Male,Married,53,Policy Holder,Sedan - Liability,30000 to 39000,0,400,1,more than 30,more than 4,more than 7,No,No,External,3 to 5,4 to 8 years,2 vehicles,51-65,60
 Honda,Urban,Female,Married,44,Policy Holder,Sedan - Liability,30000 to 39000,0,400,3,more than 30,more than 4,7 years,No,No,External,more than 5,no change,1 vehicle,41-50,60
@@ -1553,7 +1553,7 @@ Ford,Urban,Male,Married,43,Policy Holder,Utility - All Perils,more than 69000,0,
 Toyota,Urban,Male,Married,54,Policy Holder,Sedan - Collision,20000 to 29000,0,400,3,more than 30,1,more than 7,No,No,External,more than 5,no change,1 vehicle,51-65,7
 Toyota,Urban,Male,Married,37,Policy Holder,Sedan - Collision,30000 to 39000,0,400,4,more than 30,1,7 years,No,No,External,more than 5,no change,1 vehicle,36-40,60
 Pontiac,Rural,Male,Single,27,Policy Holder,Sedan - Liability,30000 to 39000,0,400,4,more than 30,2 to 4,7 years,No,No,External,more than 5,4 to 8 years,2 vehicles,26-30,60
-Honda,Urban,Male,Single,17,Policy Holder,Sedan - All Perils,more than 69000,1,400,2,more than 30,none,new,Yes,No,External,none,no change,1 vehicle,0-17,5
+Honda,Urban,Male,Single,16,Policy Holder,Sedan - All Perils,more than 69000,1,400,2,more than 30,none,new,Yes,No,External,none,no change,1 vehicle,0-17,5
 Pontiac,Urban,Male,Single,18,Policy Holder,Sedan - Collision,20000 to 29000,0,400,4,more than 30,more than 4,4 years,No,No,External,more than 5,no change,1 vehicle,18-20,61
 Accura,Urban,Male,Married,39,Policy Holder,Sedan - Liability,30000 to 39000,0,400,4,more than 30,more than 4,7 years,No,No,External,more than 5,no change,1 vehicle,36-40,6
 Pontiac,Urban,Male,Married,66,Policy Holder,Sedan - Collision,20000 to 29000,1,400,2,more than 30,1,7 years,No,No,External,more than 5,no change,3 to 4,65+,3
@@ -1615,7 +1615,7 @@ Mazda,Urban,Female,Married,37,Policy Holder,Sedan - Liability,30000 to 39000,0,4
 Pontiac,Urban,Male,Married,49,Policy Holder,Sedan - Collision,20000 to 29000,0,400,1,more than 30,2 to 4,more than 7,No,No,External,more than 5,no change,1 vehicle,41-50,61
 VW,Urban,Male,Married,50,Policy Holder,Sedan - Liability,30000 to 39000,0,400,2,more than 30,2 to 4,more than 7,No,No,External,none,no change,1 vehicle,51-65,6
 VW,Urban,Male,Married,54,Third Party,Sedan - Collision,30000 to 39000,0,400,3,more than 30,none,more than 7,No,No,External,none,no change,1 vehicle,51-65,3
-Honda,Urban,Male,Single,17,Third Party,Sedan - Collision,more than 69000,0,400,4,more than 30,none,new,No,No,External,none,4 to 8 years,2 vehicles,0-17,6
+Honda,Urban,Male,Single,16,Third Party,Sedan - Collision,more than 69000,0,400,4,more than 30,none,new,No,No,External,none,4 to 8 years,2 vehicles,0-17,6
 Honda,Urban,Male,Married,55,Third Party,Sedan - Collision,20000 to 29000,0,400,3,more than 30,2 to 4,more than 7,No,No,External,3 to 5,no change,1 vehicle,51-65,61
 Toyota,Urban,Male,Married,47,Policy Holder,Sedan - Liability,less than 20000,0,400,1,more than 30,more than 4,more than 7,No,No,External,none,no change,1 vehicle,41-50,60
 Mazda,Urban,Male,Single,27,Third Party,Sedan - Collision,20000 to 29000,0,400,4,more than 30,1,6 years,No,No,External,none,no change,1 vehicle,26-30,2
@@ -1686,7 +1686,7 @@ Chevrolet,Rural,Male,Single,30,Policy Holder,Sedan - All Perils,more than 69000,
 Pontiac,Urban,Male,Single,33,Policy Holder,Sedan - Liability,20000 to 29000,0,400,1,more than 30,more than 4,6 years,No,No,External,more than 5,no change,1 vehicle,31-35,60
 Ford,Urban,Male,Single,32,Policy Holder,Sedan - Collision,40000 to 59000,1,400,2,more than 30,2 to 4,3 years,No,No,External,3 to 5,no change,1 vehicle,31-35,60
 Chevrolet,Urban,Female,Married,49,Policy Holder,Sedan - Liability,20000 to 29000,0,400,1,more than 30,2 to 4,more than 7,No,No,External,none,no change,1 vehicle,41-50,61
-Honda,Urban,Male,Single,17,Policy Holder,Sedan - All Perils,more than 69000,1,400,4,more than 30,none,new,No,No,External,none,no change,1 vehicle,0-17,60
+Honda,Urban,Male,Single,16,Policy Holder,Sedan - All Perils,more than 69000,1,400,4,more than 30,none,new,No,No,External,none,no change,1 vehicle,0-17,60
 Toyota,Rural,Male,Single,34,Policy Holder,Sedan - Collision,20000 to 29000,1,400,4,more than 30,1,5 years,No,No,External,none,no change,1 vehicle,31-35,60
 Saturn,Urban,Male,Married,31,Policy Holder,Sedan - Collision,30000 to 39000,0,400,2,more than 30,1,6 years,No,No,External,none,no change,1 vehicle,31-35,6
 Mazda,Urban,Male,Married,40,Policy Holder,Sedan - Collision,20000 to 29000,0,400,1,more than 30,2 to 4,more than 7,No,No,External,3 to 5,no change,1 vehicle,41-50,61
@@ -1789,7 +1789,7 @@ Pontiac,Rural,Male,Married,40,Third Party,Sedan - Collision,20000 to 29000,0,400
 Honda,Urban,Male,Single,17,Policy Holder,Sport - Collision,more than 69000,0,400,3,more than 30,2 to 4,2 years,No,No,External,none,no change,1 vehicle,18-20,12
 Toyota,Urban,Male,Married,51,Policy Holder,Sedan - Collision,30000 to 39000,1,400,4,more than 30,2 to 4,more than 7,No,No,External,1 to 2,no change,1 vehicle,51-65,61
 Pontiac,Urban,Male,Married,47,Policy Holder,Sedan - All Perils,20000 to 29000,0,400,4,more than 30,2 to 4,more than 7,No,No,External,1 to 2,no change,1 vehicle,41-50,7
-Honda,Urban,Male,Single,17,Policy Holder,Sedan - All Perils,more than 69000,0,400,2,more than 30,2 to 4,new,No,No,External,none,no change,1 vehicle,0-17,4
+Honda,Urban,Male,Single,16,Policy Holder,Sedan - All Perils,more than 69000,0,400,2,more than 30,2 to 4,new,No,No,External,none,no change,1 vehicle,0-17,4
 Pontiac,Rural,Male,Single,27,Policy Holder,Sedan - All Perils,less than 20000,0,400,4,more than 30,none,6 years,No,No,External,none,no change,1 vehicle,26-30,10
 Pontiac,Urban,Male,Married,55,Policy Holder,Sedan - Liability,20000 to 29000,0,400,2,more than 30,2 to 4,6 years,No,No,External,none,no change,1 vehicle,51-65,27
 Ford,Urban,Male,Married,67,Policy Holder,Utility - All Perils,more than 69000,0,400,3,more than 30,none,more than 7,No,No,External,3 to 5,no change,1 vehicle,65+,3
@@ -1898,13 +1898,13 @@ Honda,Urban,Male,Married,28,Policy Holder,Sedan - Collision,30000 to 39000,0,400
 Pontiac,Urban,Female,Single,35,Policy Holder,Sedan - Liability,20000 to 29000,0,400,4,more than 30,more than 4,6 years,No,No,External,3 to 5,no change,1 vehicle,36-40,61
 Honda,Urban,Male,Married,27,Policy Holder,Sedan - Collision,20000 to 29000,0,400,1,more than 30,2 to 4,7 years,No,No,External,more than 5,no change,1 vehicle,26-30,60
 Chevrolet,Urban,Male,Married,43,Policy Holder,Sedan - Liability,20000 to 29000,0,400,1,more than 30,2 to 4,more than 7,No,No,External,more than 5,no change,1 vehicle,41-50,60
-Honda,Urban,Male,Single,16,Policy Holder,Sedan - Liability,more than 69000,0,400,4,more than 30,2 to 4,new,No,No,External,none,no change,1 vehicle,0-17,60
+Honda,Urban,Male,Single,17,Policy Holder,Sedan - Liability,more than 69000,0,400,4,more than 30,2 to 4,new,No,No,External,none,no change,1 vehicle,0-17,60
 Pontiac,Urban,Male,Married,28,Third Party,Sedan - All Perils,30000 to 39000,0,400,3,more than 30,none,5 years,No,No,External,more than 5,no change,1 vehicle,26-30,4
 Mazda,Urban,Male,Married,48,Third Party,Sedan - Collision,20000 to 29000,0,400,2,more than 30,1,7 years,No,No,External,none,no change,1 vehicle,41-50,60
 Honda,Urban,Male,Divorced,35,Third Party,Sedan - All Perils,20000 to 29000,0,400,1,more than 30,2 to 4,7 years,No,No,External,none,no change,1 vehicle,36-40,62
 Pontiac,Urban,Male,Married,29,Policy Holder,Sedan - All Perils,20000 to 29000,0,400,2,more than 30,none,5 years,No,No,External,3 to 5,no change,1 vehicle,26-30,60
 Honda,Urban,Male,Single,16,Third Party,Sedan - Collision,more than 69000,0,400,2,more than 30,none,new,No,No,External,none,no change,1 vehicle,0-17,61
-Honda,Urban,Male,Single,16,Policy Holder,Sedan - Liability,more than 69000,0,400,2,more than 30,more than 4,new,No,No,External,none,no change,1 vehicle,0-17,60
+Honda,Urban,Male,Single,17,Policy Holder,Sedan - Liability,more than 69000,0,400,2,more than 30,more than 4,new,No,No,External,none,no change,1 vehicle,0-17,60
 Pontiac,Urban,Male,Married,54,Third Party,Sedan - All Perils,less than 20000,0,400,2,more than 30,1,more than 7,No,No,External,none,no change,1 vehicle,51-65,60
 Honda,Urban,Male,Married,28,Policy Holder,Sedan - Liability,20000 to 29000,0,400,1,more than 30,more than 4,6 years,No,No,External,3 to 5,no change,1 vehicle,26-30,60
 Honda,Urban,Male,Married,45,Third Party,Sedan - All Perils,20000 to 29000,0,400,2,more than 30,1,7 years,No,No,External,more than 5,no change,1 vehicle,41-50,60
@@ -1952,11 +1952,11 @@ Honda,Urban,Male,Single,16,Third Party,Sedan - Liability,more than 69000,0,400,1
 Honda,Urban,Male,Single,17,Policy Holder,Sedan - All Perils,more than 69000,0,400,2,more than 30,none,new,No,No,External,none,no change,1 vehicle,0-17,3
 Ford,Urban,Male,Married,45,Policy Holder,Sedan - All Perils,20000 to 29000,0,400,3,more than 30,none,7 years,No,No,External,1 to 2,no change,1 vehicle,41-50,3
 Chevrolet,Urban,Male,Married,37,Policy Holder,Sedan - All Perils,20000 to 29000,0,700,3,more than 30,none,7 years,No,No,External,none,4 to 8 years,2 vehicles,36-40,2
-Honda,Urban,Male,Single,16,Policy Holder,Sedan - Collision,more than 69000,0,400,3,more than 30,none,new,No,No,External,none,no change,1 vehicle,0-17,3
+Honda,Urban,Male,Single,17,Policy Holder,Sedan - Collision,more than 69000,0,400,3,more than 30,none,new,No,No,External,none,no change,1 vehicle,0-17,3
 Chevrolet,Urban,Male,Married,72,Policy Holder,Utility - All Perils,more than 69000,0,400,3,more than 30,2 to 4,more than 7,No,No,External,1 to 2,no change,1 vehicle,65+,15
 Chevrolet,Urban,Male,Married,39,Policy Holder,Utility - All Perils,more than 69000,0,400,3,more than 30,2 to 4,7 years,No,No,External,none,no change,1 vehicle,36-40,1
-Honda,Urban,Male,Single,16,Third Party,Sedan - All Perils,more than 69000,0,400,4,more than 30,1,new,No,No,External,none,no change,1 vehicle,0-17,4
-Honda,Urban,Male,Single,16,Policy Holder,Sedan - Collision,more than 69000,0,400,3,more than 30,1,new,No,No,External,none,no change,1 vehicle,0-17,62
+Honda,Urban,Male,Single,17,Third Party,Sedan - All Perils,more than 69000,0,400,4,more than 30,1,new,No,No,External,none,no change,1 vehicle,0-17,4
+Honda,Urban,Male,Single,17,Policy Holder,Sedan - Collision,more than 69000,0,400,3,more than 30,1,new,No,No,External,none,no change,1 vehicle,0-17,62
 Mazda,Urban,Male,Married,28,Policy Holder,Sedan - Liability,20000 to 29000,0,400,3,more than 30,2 to 4,6 years,No,No,External,none,no change,1 vehicle,26-30,60
 Accura,Urban,Male,Single,26,Policy Holder,Utility - All Perils,more than 69000,0,400,2,more than 30,none,6 years,No,No,External,none,no change,1 vehicle,26-30,62
 Honda,Rural,Male,Married,29,Policy Holder,Sedan - Liability,20000 to 29000,0,400,2,more than 30,2 to 4,6 years,No,No,External,none,no change,1 vehicle,26-30,61
@@ -2037,7 +2037,7 @@ Mazda,Urban,Male,Single,41,Policy Holder,Sedan - Collision,20000 to 29000,0,400,
 Pontiac,Urban,Male,Married,43,Third Party,Sedan - All Perils,20000 to 29000,0,400,2,more than 30,none,more than 7,No,No,External,none,no change,1 vehicle,41-50,60
 Pontiac,Rural,Male,Single,32,Third Party,Sedan - Collision,20000 to 29000,0,400,4,more than 30,2 to 4,6 years,No,No,External,none,4 to 8 years,2 vehicles,31-35,60
 Chevrolet,Urban,Male,Married,39,Policy Holder,Utility - All Perils,more than 69000,0,400,4,more than 30,2 to 4,5 years,No,No,External,more than 5,no change,1 vehicle,36-40,61
-Honda,Urban,Male,Single,16,Policy Holder,Sedan - Liability,more than 69000,0,400,1,more than 30,1,new,No,No,External,none,no change,1 vehicle,0-17,60
+Honda,Urban,Male,Single,17,Policy Holder,Sedan - Liability,more than 69000,0,400,1,more than 30,1,new,No,No,External,none,no change,1 vehicle,0-17,60
 Chevrolet,Rural,Male,Married,41,Third Party,Sedan - Collision,more than 69000,1,500,4,more than 30,none,7 years,No,No,External,1 to 2,2 to 3 years,1 vehicle,41-50,60
 Pontiac,Urban,Male,Married,55,Policy Holder,Sedan - Collision,30000 to 39000,1,400,4,more than 30,2 to 4,6 years,No,No,External,more than 5,no change,1 vehicle,51-65,60
 Chevrolet,Urban,Male,Single,33,Third Party,Sedan - All Perils,more than 69000,0,400,3,more than 30,1,6 years,No,No,External,3 to 5,no change,1 vehicle,31-35,60
@@ -2101,7 +2101,7 @@ Mazda,Urban,Male,Married,33,Third Party,Sedan - All Perils,20000 to 29000,0,400,
 Toyota,Urban,Male,Single,18,Policy Holder,Sedan - All Perils,20000 to 29000,0,400,3,more than 30,none,4 years,No,No,External,1 to 2,4 to 8 years,2 vehicles,18-20,62
 Toyota,Urban,Male,Married,30,Policy Holder,Sedan - Liability,30000 to 39000,0,400,3,more than 30,1,6 years,No,No,External,more than 5,no change,1 vehicle,31-35,60
 Pontiac,Urban,Male,Married,66,Policy Holder,Sedan - Liability,less than 20000,0,400,1,more than 30,2 to 4,7 years,No,No,External,1 to 2,no change,1 vehicle,65+,60
-Honda,Urban,Male,Single,16,Policy Holder,Sedan - Collision,more than 69000,1,400,1,more than 30,none,new,No,No,External,none,no change,1 vehicle,0-17,60
+Honda,Urban,Male,Single,17,Policy Holder,Sedan - Collision,more than 69000,1,400,1,more than 30,none,new,No,No,External,none,no change,1 vehicle,0-17,60
 Mazda,Urban,Female,Married,55,Policy Holder,Sedan - Liability,20000 to 29000,0,400,3,more than 30,2 to 4,6 years,No,No,External,1 to 2,no change,1 vehicle,51-65,60
 Pontiac,Urban,Male,Married,56,Third Party,Sedan - All Perils,more than 69000,0,400,3,more than 30,2 to 4,more than 7,No,No,External,none,no change,1 vehicle,51-65,60
 Chevrolet,Urban,Male,Single,21,Policy Holder,Sedan - Liability,20000 to 29000,0,400,1,more than 30,2 to 4,6 years,No,No,External,3 to 5,no change,1 vehicle,21-25,1
@@ -2124,7 +2124,7 @@ Toyota,Urban,Female,Single,48,Third Party,Sedan - Collision,20000 to 29000,0,400
 Chevrolet,Urban,Male,Married,40,Policy Holder,Utility - Liability,more than 69000,0,400,3,more than 30,2 to 4,7 years,No,No,External,none,no change,1 vehicle,41-50,60
 Accura,Urban,Male,Married,38,Policy Holder,Sedan - Liability,30000 to 39000,0,400,1,more than 30,2 to 4,7 years,No,No,External,3 to 5,no change,1 vehicle,36-40,1
 Honda,Urban,Male,Single,17,Policy Holder,Sedan - Collision,more than 69000,0,400,3,more than 30,1,new,No,No,External,none,no change,1 vehicle,0-17,33
-Honda,Urban,Male,Single,16,Policy Holder,Sedan - Collision,more than 69000,0,400,4,more than 30,1,new,No,No,External,none,no change,1 vehicle,0-17,45
+Honda,Urban,Male,Single,17,Policy Holder,Sedan - Collision,more than 69000,0,400,4,more than 30,1,new,No,No,External,none,no change,1 vehicle,0-17,45
 Toyota,Urban,Female,Married,29,Third Party,Sedan - Collision,20000 to 29000,0,400,1,more than 30,2 to 4,6 years,No,No,External,more than 5,no change,1 vehicle,26-30,61
 Mazda,Urban,Male,Married,67,Policy Holder,Sedan - All Perils,20000 to 29000,0,400,1,more than 30,1,more than 7,No,No,External,none,no change,1 vehicle,65+,60
 Honda,Urban,Male,Married,36,Policy Holder,Sport - Collision,more than 69000,0,400,4,more than 30,1,3 years,No,No,External,none,no change,1 vehicle,36-40,61
@@ -2159,7 +2159,7 @@ Pontiac,Urban,Male,Married,39,Policy Holder,Sedan - Collision,20000 to 29000,0,4
 Toyota,Rural,Male,Married,53,Policy Holder,Sedan - Collision,20000 to 29000,0,400,1,more than 30,1,7 years,No,No,External,none,no change,1 vehicle,51-65,1
 Honda,Urban,Male,Married,46,Third Party,Sport - Collision,more than 69000,0,400,2,more than 30,none,more than 7,No,No,External,none,no change,1 vehicle,41-50,62
 Toyota,Urban,Female,Married,33,Third Party,Sedan - Collision,20000 to 29000,0,400,3,more than 30,1,6 years,No,No,External,none,no change,1 vehicle,31-35,6
-Honda,Urban,Male,Single,17,Third Party,Sedan - Collision,more than 69000,0,400,3,more than 30,1,new,No,No,External,none,no change,1 vehicle,0-17,61
+Honda,Urban,Male,Single,16,Third Party,Sedan - Collision,more than 69000,0,400,3,more than 30,1,new,No,No,External,none,no change,1 vehicle,0-17,61
 Toyota,Urban,Male,Married,56,Third Party,Sedan - Collision,20000 to 29000,0,400,4,more than 30,2 to 4,more than 7,No,No,External,none,no change,1 vehicle,51-65,6
 Chevrolet,Urban,Male,Single,34,Policy Holder,Sedan - Collision,20000 to 29000,0,400,1,more than 30,2 to 4,5 years,No,No,External,none,4 to 8 years,2 vehicles,31-35,4
 Ford,Urban,Male,Married,38,Third Party,Sedan - Collision,more than 69000,0,400,4,more than 30,1,6 years,No,No,External,none,no change,1 vehicle,36-40,60
@@ -2239,7 +2239,7 @@ Toyota,Urban,Male,Married,29,Policy Holder,Sedan - Liability,30000 to 39000,0,40
 Mazda,Rural,Female,Married,52,Third Party,Sedan - All Perils,20000 to 29000,0,400,3,more than 30,none,7 years,No,No,External,3 to 5,no change,1 vehicle,51-65,2
 Honda,Rural,Male,Married,46,Policy Holder,Sedan - Collision,30000 to 39000,0,400,2,more than 30,none,more than 7,No,No,External,1 to 2,no change,1 vehicle,41-50,5
 Toyota,Urban,Male,Married,52,Policy Holder,Sedan - All Perils,more than 69000,1,400,1,more than 30,1,more than 7,No,No,External,none,no change,1 vehicle,51-65,22
-Honda,Urban,Male,Single,16,Policy Holder,Sedan - Liability,more than 69000,0,400,3,more than 30,2 to 4,new,No,No,External,none,no change,1 vehicle,0-17,60
+Honda,Urban,Male,Single,17,Policy Holder,Sedan - Liability,more than 69000,0,400,3,more than 30,2 to 4,new,No,No,External,none,no change,1 vehicle,0-17,60
 Honda,Urban,Male,Single,16,Policy Holder,Sedan - Liability,more than 69000,0,400,3,more than 30,1,new,No,No,External,none,no change,1 vehicle,0-17,61
 Ford,Rural,Male,Married,48,Policy Holder,Utility - All Perils,more than 69000,0,400,4,more than 30,none,more than 7,No,No,External,none,no change,1 vehicle,41-50,5
 Toyota,Urban,Male,Married,41,Third Party,Sedan - Liability,30000 to 39000,0,500,4,more than 30,2 to 4,7 years,No,No,External,more than 5,2 to 3 years,1 vehicle,41-50,60
@@ -2357,7 +2357,7 @@ Honda,Urban,Male,Married,34,Policy Holder,Sedan - Liability,more than 69000,0,40
 Honda,Urban,Female,Married,28,Policy Holder,Sedan - Liability,20000 to 29000,0,400,1,more than 30,2 to 4,6 years,No,No,External,more than 5,no change,1 vehicle,26-30,60
 Jaguar,Rural,Male,Married,39,Third Party,Sedan - All Perils,30000 to 39000,0,400,2,more than 30,none,7 years,No,No,External,3 to 5,no change,1 vehicle,36-40,2
 Pontiac,Urban,Female,Single,30,Policy Holder,Sedan - Liability,30000 to 39000,0,400,1,more than 30,1,5 years,No,No,External,none,no change,1 vehicle,31-35,60
-Honda,Urban,Male,Single,16,Policy Holder,Sedan - All Perils,more than 69000,0,400,1,more than 30,1,new,No,No,External,none,no change,1 vehicle,0-17,61
+Honda,Urban,Male,Single,17,Policy Holder,Sedan - All Perils,more than 69000,0,400,1,more than 30,1,new,No,No,External,none,no change,1 vehicle,0-17,61
 Honda,Urban,Male,Single,19,Policy Holder,Sedan - Collision,20000 to 29000,0,400,3,more than 30,2 to 4,4 years,No,No,External,more than 5,no change,1 vehicle,18-20,60
 Pontiac,Rural,Female,Married,34,Policy Holder,Sedan - Collision,30000 to 39000,1,400,2,more than 30,2 to 4,7 years,No,No,External,1 to 2,no change,1 vehicle,31-35,61
 Toyota,Urban,Female,Married,45,Third Party,Sedan - Liability,30000 to 39000,0,400,2,more than 30,2 to 4,7 years,No,No,External,none,no change,1 vehicle,41-50,60
@@ -2470,7 +2470,7 @@ Toyota,Urban,Male,Married,61,Policy Holder,Sedan - All Perils,30000 to 39000,1,4
 Toyota,Urban,Male,Married,66,Policy Holder,Sedan - All Perils,less than 20000,0,400,4,more than 30,none,7 years,No,No,External,1 to 2,no change,1 vehicle,65+,7
 Honda,Urban,Male,Married,58,Policy Holder,Sedan - Liability,30000 to 39000,0,400,3,more than 30,2 to 4,more than 7,No,No,External,more than 5,no change,1 vehicle,51-65,2
 Mazda,Urban,Male,Single,32,Policy Holder,Sedan - Liability,20000 to 29000,0,400,1,more than 30,1,5 years,No,No,External,1 to 2,no change,1 vehicle,31-35,4
-Honda,Urban,Male,Single,17,Policy Holder,Sedan - Liability,more than 69000,0,400,1,more than 30,2 to 4,new,No,No,External,none,no change,1 vehicle,0-17,61
+Honda,Urban,Male,Single,16,Policy Holder,Sedan - Liability,more than 69000,0,400,1,more than 30,2 to 4,new,No,No,External,none,no change,1 vehicle,0-17,61
 Pontiac,Urban,Male,Married,54,Third Party,Sedan - All Perils,20000 to 29000,0,400,1,more than 30,none,more than 7,No,No,External,more than 5,no change,1 vehicle,51-65,61
 Mazda,Urban,Male,Single,27,Policy Holder,Sedan - Liability,30000 to 39000,0,400,1,more than 30,2 to 4,6 years,No,No,External,none,no change,1 vehicle,26-30,62
 Pontiac,Urban,Male,Married,37,Policy Holder,Sedan - Liability,20000 to 29000,0,400,4,more than 30,2 to 4,7 years,No,No,External,none,no change,1 vehicle,36-40,3
@@ -2693,7 +2693,7 @@ Toyota,Urban,Male,Married,54,Third Party,Sedan - Collision,20000 to 29000,0,400,
 Accura,Rural,Male,Married,65,Policy Holder,Utility - All Perils,more than 69000,0,400,1,more than 30,none,more than 7,No,No,External,none,no change,1 vehicle,65+,60
 Pontiac,Urban,Male,Married,39,Policy Holder,Sedan - Liability,30000 to 39000,0,400,4,more than 30,2 to 4,7 years,No,No,External,none,no change,1 vehicle,36-40,60
 Pontiac,Rural,Male,Single,36,Third Party,Sedan - Liability,20000 to 29000,0,400,1,more than 30,1,7 years,No,No,External,more than 5,no change,1 vehicle,36-40,4
-Honda,Urban,Male,Single,16,Policy Holder,Sedan - Liability,more than 69000,0,400,1,more than 30,1,new,No,No,External,none,no change,1 vehicle,0-17,4
+Honda,Urban,Male,Single,17,Policy Holder,Sedan - Liability,more than 69000,0,400,1,more than 30,1,new,No,No,External,none,no change,1 vehicle,0-17,4
 Pontiac,Urban,Male,Married,28,Policy Holder,Sedan - Liability,20000 to 29000,0,400,1,more than 30,more than 4,6 years,No,No,External,1 to 2,no change,1 vehicle,26-30,60
 Toyota,Urban,Female,Married,52,Policy Holder,Sedan - Liability,20000 to 29000,0,700,3,more than 30,2 to 4,7 years,No,No,External,1 to 2,no change,1 vehicle,51-65,60
 Mazda,Urban,Male,Married,70,Third Party,Sport - Collision,more than 69000,0,400,2,more than 30,none,more than 7,No,No,External,none,no change,1 vehicle,65+,1
@@ -2871,7 +2871,7 @@ Honda,Urban,Male,Married,44,Policy Holder,Sedan - Collision,20000 to 29000,0,400
 Pontiac,Urban,Male,Married,42,Third Party,Sedan - All Perils,20000 to 29000,0,400,1,more than 30,none,more than 7,No,No,External,none,no change,3 to 4,41-50,60
 Pontiac,Urban,Male,Married,53,Policy Holder,Sedan - All Perils,20000 to 29000,0,400,1,more than 30,none,more than 7,No,No,External,3 to 5,no change,1 vehicle,51-65,1
 Pontiac,Urban,Male,Married,30,Policy Holder,Sedan - Liability,20000 to 29000,0,400,3,more than 30,none,7 years,No,No,Internal,more than 5,no change,1 vehicle,31-35,60
-Honda,Urban,Male,Single,16,Policy Holder,Sport - All Perils,more than 69000,0,400,1,more than 30,none,new,No,No,External,none,no change,1 vehicle,0-17,14
+Honda,Urban,Male,Single,17,Policy Holder,Sport - All Perils,more than 69000,0,400,1,more than 30,none,new,No,No,External,none,no change,1 vehicle,0-17,14
 Mazda,Urban,Male,Married,39,Policy Holder,Sedan - All Perils,less than 20000,0,400,1,more than 30,1,more than 7,No,No,External,3 to 5,no change,1 vehicle,36-40,61
 Honda,Urban,Female,Single,41,Policy Holder,Sedan - Collision,less than 20000,0,400,4,more than 30,none,7 years,No,No,External,3 to 5,no change,1 vehicle,41-50,60
 Ford,Urban,Male,Married,48,Policy Holder,Sedan - Collision,60000 to 69000,0,400,4,more than 30,2 to 4,more than 7,No,No,External,more than 5,no change,1 vehicle,41-50,2
@@ -2949,7 +2949,7 @@ Toyota,Urban,Male,Married,44,Third Party,Sedan - All Perils,less than 20000,0,40
 Toyota,Urban,Male,Married,53,Policy Holder,Sedan - All Perils,more than 69000,0,400,3,more than 30,none,more than 7,No,No,External,3 to 5,no change,1 vehicle,51-65,60
 Chevrolet,Urban,Male,Married,35,Policy Holder,Sedan - Collision,more than 69000,0,400,1,more than 30,1,7 years,No,No,External,1 to 2,no change,1 vehicle,36-40,60
 Mazda,Urban,Male,Married,28,Third Party,Sedan - Collision,30000 to 39000,0,400,2,more than 30,2 to 4,6 years,No,No,External,3 to 5,no change,1 vehicle,26-30,6
-Honda,Rural,Male,Single,16,Policy Holder,Sport - Collision,more than 69000,0,400,4,more than 30,none,new,No,No,External,none,no change,1 vehicle,0-17,60
+Honda,Rural,Male,Single,17,Policy Holder,Sport - Collision,more than 69000,0,400,4,more than 30,none,new,No,No,External,none,no change,1 vehicle,0-17,60
 Honda,Urban,Male,Married,26,Policy Holder,Sedan - Liability,20000 to 29000,0,400,4,more than 30,more than 4,7 years,No,No,External,more than 5,no change,3 to 4,26-30,61
 Mazda,Urban,Male,Married,32,Policy Holder,Sedan - Collision,30000 to 39000,1,400,2,more than 30,2 to 4,6 years,No,No,External,more than 5,no change,1 vehicle,31-35,60
 Pontiac,Urban,Male,Married,63,Policy Holder,Sedan - Liability,30000 to 39000,0,400,4,more than 30,1,more than 7,No,No,Internal,none,no change,1 vehicle,51-65,61
@@ -2965,7 +2965,7 @@ Toyota,Rural,Male,Married,28,Third Party,Sedan - All Perils,less than 20000,0,40
 Chevrolet,Urban,Male,Married,42,Policy Holder,Sedan - Liability,30000 to 39000,0,400,2,more than 30,2 to 4,more than 7,No,No,External,more than 5,no change,1 vehicle,41-50,60
 Mazda,Urban,Male,Married,50,Policy Holder,Sedan - Liability,20000 to 29000,0,400,3,more than 30,2 to 4,more than 7,No,No,External,3 to 5,no change,1 vehicle,51-65,60
 Toyota,Urban,Male,Single,34,Policy Holder,Sedan - Liability,more than 69000,0,400,3,more than 30,2 to 4,6 years,No,No,External,none,no change,1 vehicle,31-35,60
-Honda,Urban,Male,Single,16,Policy Holder,Sedan - Liability,more than 69000,1,400,4,more than 30,more than 4,new,No,No,External,none,no change,1 vehicle,0-17,60
+Honda,Urban,Male,Single,17,Policy Holder,Sedan - Liability,more than 69000,1,400,4,more than 30,more than 4,new,No,No,External,none,no change,1 vehicle,0-17,60
 Pontiac,Rural,Male,Single,23,Policy Holder,Sedan - Liability,20000 to 29000,0,400,1,none,1,5 years,No,No,External,1 to 2,no change,1 vehicle,21-25,3
 Dodge,Urban,Male,Married,64,Third Party,Sedan - Collision,30000 to 39000,0,400,1,more than 30,1,more than 7,No,No,External,more than 5,no change,1 vehicle,51-65,61
 Honda,Urban,Male,Single,77,Policy Holder,Sedan - Liability,20000 to 29000,0,400,2,more than 30,more than 4,more than 7,No,No,External,none,no change,1 vehicle,65+,60
@@ -3127,7 +3127,7 @@ Pontiac,Urban,Male,Married,28,Third Party,Sedan - Collision,30000 to 39000,0,400
 Toyota,Urban,Female,Single,34,Policy Holder,Sedan - Liability,20000 to 29000,0,400,2,more than 30,2 to 4,5 years,No,No,External,none,no change,1 vehicle,31-35,61
 Chevrolet,Rural,Male,Married,45,Third Party,Sedan - Collision,more than 69000,0,400,2,more than 30,none,7 years,No,No,External,none,no change,1 vehicle,41-50,61
 Honda,Rural,Male,Married,34,Third Party,Sedan - Collision,20000 to 29000,0,400,2,more than 30,1,5 years,No,No,External,3 to 5,no change,1 vehicle,31-35,61
-Honda,Urban,Male,Single,17,Policy Holder,Sedan - All Perils,more than 69000,1,400,3,more than 30,none,new,No,No,External,none,4 to 8 years,2 vehicles,0-17,2
+Honda,Urban,Male,Single,16,Policy Holder,Sedan - All Perils,more than 69000,1,400,3,more than 30,none,new,No,No,External,none,4 to 8 years,2 vehicles,0-17,2
 VW,Urban,Male,Single,34,Third Party,Sedan - Liability,more than 69000,0,400,3,more than 30,more than 4,5 years,No,No,External,none,no change,1 vehicle,31-35,60
 Toyota,Urban,Male,Married,36,Policy Holder,Sedan - Liability,30000 to 39000,1,700,3,more than 30,2 to 4,7 years,No,No,External,none,no change,1 vehicle,36-40,60
 Pontiac,Urban,Male,Married,26,Third Party,Sedan - All Perils,20000 to 29000,0,400,2,more than 30,none,7 years,No,No,External,none,no change,1 vehicle,26-30,3
@@ -3170,7 +3170,7 @@ VW,Rural,Male,Married,40,Policy Holder,Sedan - All Perils,30000 to 39000,0,400,4
 VW,Urban,Male,Married,47,Third Party,Sedan - Liability,40000 to 59000,0,400,2,more than 30,none,7 years,No,No,External,none,no change,1 vehicle,41-50,4
 Mazda,Urban,Female,Single,27,Policy Holder,Sedan - Liability,30000 to 39000,0,400,1,more than 30,1,7 years,No,No,External,more than 5,no change,1 vehicle,26-30,61
 Toyota,Urban,Male,Married,57,Policy Holder,Sedan - Collision,20000 to 29000,0,400,4,more than 30,1,more than 7,Yes,No,External,3 to 5,4 to 8 years,2 vehicles,51-65,6
-Honda,Urban,Male,Single,17,Policy Holder,Sedan - All Perils,more than 69000,1,400,1,more than 30,none,new,No,No,External,none,no change,1 vehicle,0-17,2
+Honda,Urban,Male,Single,16,Policy Holder,Sedan - All Perils,more than 69000,1,400,1,more than 30,none,new,No,No,External,none,no change,1 vehicle,0-17,2
 Mazda,Urban,Male,Single,30,Policy Holder,Sedan - Liability,20000 to 29000,0,400,1,more than 30,2 to 4,6 years,No,No,External,none,no change,1 vehicle,31-35,60
 Pontiac,Rural,Male,Married,50,Policy Holder,Sedan - Collision,20000 to 29000,0,400,2,more than 30,2 to 4,6 years,No,No,External,more than 5,no change,1 vehicle,51-65,61
 Chevrolet,Urban,Male,Married,34,Third Party,Sedan - Liability,30000 to 39000,0,400,2,more than 30,2 to 4,6 years,No,No,External,more than 5,no change,1 vehicle,31-35,60
@@ -3256,7 +3256,7 @@ Pontiac,Urban,Male,Married,27,Policy Holder,Sedan - All Perils,20000 to 29000,0,
 Toyota,Urban,Female,Married,21,Third Party,Sedan - All Perils,20000 to 29000,0,400,4,more than 30,1,2 years,No,No,External,more than 5,4 to 8 years,2 vehicles,21-25,61
 Pontiac,Urban,Male,Married,46,Policy Holder,Sedan - All Perils,20000 to 29000,0,400,4,more than 30,2 to 4,more than 7,No,No,External,3 to 5,no change,1 vehicle,41-50,60
 Chevrolet,Urban,Male,Married,51,Policy Holder,Sedan - Liability,30000 to 39000,0,400,4,more than 30,none,more than 7,No,No,External,more than 5,no change,1 vehicle,51-65,60
-Honda,Urban,Male,Single,17,Policy Holder,Sedan - All Perils,more than 69000,1,400,2,more than 30,none,new,No,No,External,none,no change,1 vehicle,0-17,60
+Honda,Urban,Male,Single,16,Policy Holder,Sedan - All Perils,more than 69000,1,400,2,more than 30,none,new,No,No,External,none,no change,1 vehicle,0-17,60
 Honda,Urban,Male,Single,37,Policy Holder,Sedan - Collision,20000 to 29000,0,400,3,more than 30,more than 4,7 years,No,No,External,1 to 2,no change,1 vehicle,36-40,62
 Pontiac,Urban,Male,Married,31,Policy Holder,Sedan - Collision,20000 to 29000,0,400,4,more than 30,2 to 4,6 years,No,No,External,3 to 5,no change,1 vehicle,31-35,61
 Toyota,Urban,Male,Married,44,Policy Holder,Sedan - Liability,40000 to 59000,0,400,2,more than 30,more than 4,7 years,No,No,External,more than 5,no change,1 vehicle,41-50,62
@@ -3346,7 +3346,7 @@ Chevrolet,Urban,Male,Single,44,Third Party,Sedan - Liability,20000 to 29000,0,40
 Mazda,Rural,Male,Married,55,Third Party,Sedan - Collision,30000 to 39000,0,400,2,more than 30,none,more than 7,No,No,External,more than 5,no change,1 vehicle,51-65,60
 Ford,Urban,Male,Single,55,Third Party,Sedan - All Perils,less than 20000,0,400,4,more than 30,1,more than 7,No,No,External,3 to 5,no change,1 vehicle,51-65,61
 Chevrolet,Urban,Male,Married,26,Policy Holder,Sedan - Collision,20000 to 29000,0,400,4,more than 30,1,6 years,No,No,External,1 to 2,no change,1 vehicle,26-30,60
-Honda,Urban,Male,Single,16,Policy Holder,Sedan - Liability,more than 69000,0,400,2,more than 30,2 to 4,new,No,No,External,none,no change,1 vehicle,0-17,60
+Honda,Urban,Male,Single,17,Policy Holder,Sedan - Liability,more than 69000,0,400,2,more than 30,2 to 4,new,No,No,External,none,no change,1 vehicle,0-17,60
 Accura,Urban,Male,Married,31,Policy Holder,Utility - All Perils,more than 69000,0,400,4,more than 30,1,6 years,No,No,External,none,no change,1 vehicle,31-35,61
 Pontiac,Urban,Female,Single,31,Policy Holder,Sedan - Collision,20000 to 29000,0,400,4,more than 30,1,6 years,No,No,External,none,no change,1 vehicle,31-35,60
 Chevrolet,Urban,Male,Married,53,Policy Holder,Sedan - Collision,30000 to 39000,0,400,2,more than 30,1,more than 7,No,No,External,none,no change,1 vehicle,51-65,60
@@ -3541,8 +3541,8 @@ Honda,Urban,Male,Married,61,Third Party,Sedan - Collision,20000 to 29000,0,400,2
 Pontiac,Urban,Male,Married,26,Policy Holder,Utility - All Perils,40000 to 59000,0,400,1,more than 30,more than 4,7 years,No,No,External,none,no change,1 vehicle,26-30,5
 Accura,Urban,Male,Married,34,Policy Holder,Sedan - All Perils,more than 69000,0,400,4,more than 30,2 to 4,7 years,No,No,External,3 to 5,no change,1 vehicle,31-35,8
 Honda,Urban,Male,Married,37,Third Party,Sedan - All Perils,less than 20000,0,400,1,more than 30,2 to 4,7 years,No,No,External,more than 5,no change,1 vehicle,36-40,60
-Honda,Urban,Male,Single,16,Policy Holder,Sedan - All Perils,more than 69000,0,400,3,more than 30,none,new,No,No,External,none,no change,1 vehicle,0-17,2
-Honda,Urban,Male,Single,17,Policy Holder,Sedan - Liability,more than 69000,0,400,2,more than 30,2 to 4,new,No,No,External,none,no change,1 vehicle,0-17,60
+Honda,Urban,Male,Single,17,Policy Holder,Sedan - All Perils,more than 69000,0,400,3,more than 30,none,new,No,No,External,none,no change,1 vehicle,0-17,2
+Honda,Urban,Male,Single,16,Policy Holder,Sedan - Liability,more than 69000,0,400,2,more than 30,2 to 4,new,No,No,External,none,no change,1 vehicle,0-17,60
 Pontiac,Rural,Male,Married,33,Policy Holder,Sedan - Collision,30000 to 39000,0,400,4,more than 30,1,5 years,No,No,External,none,no change,1 vehicle,31-35,60
 Accura,Urban,Male,Single,40,Third Party,Sedan - Collision,more than 69000,0,400,3,more than 30,2 to 4,3 years,No,No,External,more than 5,no change,1 vehicle,41-50,62
 Honda,Urban,Male,Married,40,Policy Holder,Sedan - Liability,20000 to 29000,0,400,1,more than 30,more than 4,7 years,No,No,External,none,no change,1 vehicle,41-50,60
@@ -3666,7 +3666,7 @@ Chevrolet,Urban,Male,Single,42,Policy Holder,Sedan - Collision,more than 69000,0
 Toyota,Urban,Female,Married,50,Policy Holder,Sedan - Collision,20000 to 29000,0,400,4,more than 30,2 to 4,7 years,No,No,External,1 to 2,no change,1 vehicle,51-65,60
 Pontiac,Urban,Male,Married,45,Policy Holder,Sedan - Liability,30000 to 39000,0,400,4,more than 30,2 to 4,more than 7,No,No,External,more than 5,no change,1 vehicle,41-50,60
 Chevrolet,Urban,Male,Married,71,Policy Holder,Sedan - All Perils,20000 to 29000,0,400,2,more than 30,2 to 4,more than 7,No,No,External,3 to 5,no change,1 vehicle,65+,60
-Honda,Urban,Male,Single,16,Third Party,Sedan - Liability,more than 69000,0,400,1,more than 30,1,new,No,No,External,none,no change,1 vehicle,0-17,60
+Honda,Urban,Male,Single,17,Third Party,Sedan - Liability,more than 69000,0,400,1,more than 30,1,new,No,No,External,none,no change,1 vehicle,0-17,60
 Pontiac,Urban,Male,Married,54,Policy Holder,Sedan - Liability,30000 to 39000,0,400,1,more than 30,2 to 4,more than 7,No,No,External,more than 5,no change,1 vehicle,51-65,60
 Toyota,Rural,Male,Single,34,Policy Holder,Sedan - Liability,more than 69000,0,400,2,more than 30,more than 4,6 years,No,No,External,none,no change,1 vehicle,31-35,60
 Toyota,Urban,Male,Married,48,Policy Holder,Sedan - Collision,30000 to 39000,0,400,3,more than 30,none,7 years,No,No,External,none,no change,1 vehicle,41-50,61
@@ -3854,7 +3854,7 @@ Chevrolet,Urban,Male,Married,52,Policy Holder,Sedan - Liability,40000 to 59000,0
 Pontiac,Urban,Female,Single,41,Third Party,Sedan - Collision,30000 to 39000,0,400,1,more than 30,1,7 years,No,No,External,none,no change,1 vehicle,41-50,60
 Pontiac,Rural,Male,Married,37,Third Party,Sedan - Liability,30000 to 39000,0,400,2,more than 30,2 to 4,more than 7,No,No,External,3 to 5,no change,3 to 4,36-40,60
 Honda,Urban,Male,Married,35,Policy Holder,Sport - Collision,more than 69000,0,400,1,more than 30,none,5 years,No,No,External,none,no change,1 vehicle,36-40,2
-Honda,Urban,Male,Single,16,Policy Holder,Sedan - All Perils,more than 69000,1,400,1,more than 30,2 to 4,new,No,No,External,none,no change,1 vehicle,0-17,60
+Honda,Urban,Male,Single,17,Policy Holder,Sedan - All Perils,more than 69000,1,400,1,more than 30,2 to 4,new,No,No,External,none,no change,1 vehicle,0-17,60
 Toyota,Urban,Male,Married,51,Third Party,Sedan - All Perils,20000 to 29000,0,400,3,more than 30,none,7 years,No,No,External,none,no change,1 vehicle,51-65,61
 Mazda,Urban,Male,Single,25,Policy Holder,Sport - Collision,more than 69000,0,400,2,more than 30,2 to 4,5 years,No,No,External,3 to 5,no change,1 vehicle,26-30,22
 Pontiac,Urban,Female,Married,44,Policy Holder,Sedan - Liability,20000 to 29000,0,400,1,more than 30,1,7 years,No,No,External,none,no change,1 vehicle,41-50,60
@@ -3896,7 +3896,7 @@ Toyota,Urban,Female,Divorced,43,Policy Holder,Sedan - All Perils,less than 20000
 Pontiac,Urban,Male,Married,44,Policy Holder,Sedan - All Perils,20000 to 29000,0,400,3,more than 30,2 to 4,more than 7,No,No,External,more than 5,no change,3 to 4,41-50,60
 Pontiac,Urban,Male,Single,26,Policy Holder,Sedan - Collision,20000 to 29000,0,400,1,more than 30,1,6 years,No,No,External,none,no change,1 vehicle,26-30,60
 Saab,Urban,Male,Married,45,Third Party,Sedan - Collision,30000 to 39000,0,400,1,more than 30,none,more than 7,No,No,External,none,no change,1 vehicle,41-50,2
-Honda,Rural,Male,Single,17,Policy Holder,Sedan - Collision,more than 69000,0,400,4,more than 30,1,new,No,No,External,none,no change,1 vehicle,0-17,60
+Honda,Rural,Male,Single,16,Policy Holder,Sedan - Collision,more than 69000,0,400,4,more than 30,1,new,No,No,External,none,no change,1 vehicle,0-17,60
 Mazda,Urban,Male,Married,51,Policy Holder,Utility - All Perils,more than 69000,0,400,4,more than 30,2 to 4,7 years,No,No,External,more than 5,no change,1 vehicle,51-65,60
 Mazda,Urban,Male,Single,45,Third Party,Sedan - All Perils,30000 to 39000,0,400,1,more than 30,2 to 4,7 years,No,No,External,none,no change,1 vehicle,41-50,60
 Honda,Urban,Male,Married,34,Policy Holder,Sport - Collision,more than 69000,0,400,2,more than 30,1,6 years,No,No,External,1 to 2,no change,1 vehicle,31-35,60
@@ -3970,7 +3970,7 @@ Pontiac,Urban,Male,Single,24,Policy Holder,Sedan - Collision,20000 to 29000,0,40
 Mazda,Urban,Male,Married,27,Third Party,Sedan - Collision,20000 to 29000,0,400,2,more than 30,none,7 years,No,No,External,more than 5,4 to 8 years,2 vehicles,26-30,2
 Chevrolet,Urban,Male,Married,38,Third Party,Sedan - Collision,more than 69000,0,400,2,more than 30,2 to 4,7 years,No,No,External,3 to 5,no change,1 vehicle,36-40,61
 Mazda,Urban,Male,Married,30,Policy Holder,Sedan - All Perils,20000 to 29000,0,400,3,15 to 30,2 to 4,6 years,No,No,External,none,no change,1 vehicle,31-35,60
-Honda,Urban,Male,Single,16,Third Party,Sedan - All Perils,more than 69000,0,400,1,more than 30,1,new,No,No,External,none,no change,1 vehicle,0-17,16
+Honda,Urban,Male,Single,17,Third Party,Sedan - All Perils,more than 69000,0,400,1,more than 30,1,new,No,No,External,none,no change,1 vehicle,0-17,16
 Mazda,Urban,Male,Single,29,Policy Holder,Utility - All Perils,more than 69000,0,400,3,more than 30,2 to 4,7 years,No,No,External,1 to 2,no change,1 vehicle,26-30,61
 Pontiac,Urban,Male,Married,47,Policy Holder,Sedan - All Perils,20000 to 29000,0,400,3,more than 30,none,more than 7,No,No,External,none,no change,1 vehicle,41-50,11
 Pontiac,Urban,Male,Single,39,Policy Holder,Sedan - Collision,more than 69000,0,400,4,more than 30,2 to 4,6 years,No,No,External,3 to 5,no change,1 vehicle,36-40,1
@@ -3980,7 +3980,7 @@ Pontiac,Urban,Male,Married,26,Third Party,Sedan - Collision,more than 69000,1,50
 Honda,Urban,Male,Single,35,Third Party,Sedan - All Perils,20000 to 29000,0,400,3,more than 30,none,7 years,No,No,External,none,no change,1 vehicle,36-40,60
 Toyota,Urban,Male,Single,33,Third Party,Sedan - Liability,30000 to 39000,0,400,1,more than 30,more than 4,5 years,No,No,External,more than 5,no change,1 vehicle,31-35,60
 Honda,Urban,Male,Single,34,Policy Holder,Sedan - Liability,30000 to 39000,0,400,4,more than 30,2 to 4,6 years,No,No,External,1 to 2,no change,1 vehicle,31-35,2
-Honda,Urban,Male,Single,17,Policy Holder,Sport - All Perils,more than 69000,0,400,2,more than 30,more than 4,new,No,No,External,none,no change,1 vehicle,0-17,61
+Honda,Urban,Male,Single,16,Policy Holder,Sport - All Perils,more than 69000,0,400,2,more than 30,more than 4,new,No,No,External,none,no change,1 vehicle,0-17,61
 Accura,Urban,Male,Married,64,Policy Holder,Utility - All Perils,more than 69000,0,400,4,more than 30,none,more than 7,No,No,External,none,no change,1 vehicle,51-65,60
 Toyota,Urban,Male,Married,30,Policy Holder,Sedan - Liability,20000 to 29000,0,400,3,more than 30,more than 4,6 years,No,No,External,none,no change,1 vehicle,31-35,60
 Accura,Urban,Male,Married,37,Policy Holder,Sedan - Liability,30000 to 39000,0,400,3,more than 30,2 to 4,more than 7,No,No,External,more than 5,no change,1 vehicle,36-40,1
@@ -4220,7 +4220,7 @@ VW,Urban,Male,Married,47,Policy Holder,Sedan - Liability,more than 69000,0,400,2
 Pontiac,Urban,Male,Married,70,Third Party,Sedan - All Perils,30000 to 39000,0,400,2,more than 30,none,more than 7,No,No,External,1 to 2,no change,1 vehicle,65+,60
 Toyota,Urban,Male,Single,35,Policy Holder,Sedan - Collision,20000 to 29000,0,400,4,more than 30,none,7 years,No,No,External,none,no change,1 vehicle,36-40,60
 Toyota,Rural,Male,Single,26,Third Party,Sedan - Collision,20000 to 29000,0,400,4,more than 30,1,7 years,No,No,External,more than 5,4 to 8 years,2 vehicles,26-30,61
-Honda,Urban,Male,Single,17,Policy Holder,Sedan - All Perils,more than 69000,1,400,4,more than 30,none,new,No,No,External,none,no change,1 vehicle,0-17,64
+Honda,Urban,Male,Single,16,Policy Holder,Sedan - All Perils,more than 69000,1,400,4,more than 30,none,new,No,No,External,none,no change,1 vehicle,0-17,64
 Chevrolet,Urban,Female,Married,45,Third Party,Sedan - Liability,20000 to 29000,0,400,2,more than 30,2 to 4,7 years,No,No,External,none,no change,3 to 4,41-50,61
 Mazda,Urban,Female,Divorced,45,Policy Holder,Sedan - Collision,20000 to 29000,0,400,1,more than 30,more than 4,7 years,No,No,External,more than 5,no change,1 vehicle,41-50,60
 Chevrolet,Urban,Male,Married,40,Third Party,Sedan - All Perils,30000 to 39000,0,400,4,more than 30,2 to 4,7 years,No,No,External,more than 5,no change,1 vehicle,41-50,15
@@ -4378,7 +4378,7 @@ Honda,Urban,Female,Married,32,Third Party,Sedan - Liability,less than 20000,0,40
 Accura,Rural,Female,Married,52,Policy Holder,Sedan - Collision,20000 to 29000,1,400,2,more than 30,2 to 4,7 years,No,No,External,1 to 2,no change,1 vehicle,51-65,62
 Pontiac,Urban,Male,Married,47,Policy Holder,Sedan - All Perils,20000 to 29000,0,400,1,more than 30,1,more than 7,No,No,External,more than 5,no change,1 vehicle,41-50,60
 Pontiac,Urban,Male,Married,29,Policy Holder,Sedan - Collision,20000 to 29000,0,400,2,more than 30,1,4 years,No,No,External,more than 5,no change,1 vehicle,26-30,60
-Honda,Urban,Male,Single,17,Policy Holder,Sedan - Liability,more than 69000,0,400,3,more than 30,2 to 4,new,No,No,External,none,no change,1 vehicle,0-17,62
+Honda,Urban,Male,Single,16,Policy Holder,Sedan - Liability,more than 69000,0,400,3,more than 30,2 to 4,new,No,No,External,none,no change,1 vehicle,0-17,62
 Toyota,Urban,Male,Married,46,Policy Holder,Sedan - Liability,20000 to 29000,0,400,4,more than 30,2 to 4,more than 7,No,No,External,1 to 2,no change,1 vehicle,41-50,60
 Honda,Urban,Male,Married,27,Third Party,Sedan - Liability,20000 to 29000,0,400,2,more than 30,none,6 years,No,No,External,more than 5,no change,1 vehicle,26-30,60
 Mazda,Urban,Male,Married,53,Policy Holder,Sedan - Collision,20000 to 29000,0,400,1,more than 30,none,7 years,No,No,External,none,no change,1 vehicle,51-65,6
@@ -4764,7 +4764,7 @@ Mazda,Urban,Male,Married,54,Third Party,Sedan - Liability,20000 to 29000,0,400,4
 Pontiac,Rural,Male,Married,46,Policy Holder,Sedan - Liability,30000 to 39000,0,400,3,more than 30,2 to 4,more than 7,No,No,External,3 to 5,no change,1 vehicle,41-50,60
 Accura,Urban,Male,Married,43,Policy Holder,Sedan - Liability,30000 to 39000,0,400,3,more than 30,2 to 4,7 years,No,No,External,more than 5,no change,1 vehicle,41-50,61
 Chevrolet,Urban,Male,Married,44,Policy Holder,Sedan - Liability,20000 to 29000,0,400,1,more than 30,more than 4,7 years,No,No,External,none,no change,1 vehicle,41-50,60
-Honda,Urban,Male,Single,17,Policy Holder,Sedan - Liability,more than 69000,0,400,3,more than 30,more than 4,new,No,No,External,none,no change,1 vehicle,0-17,61
+Honda,Urban,Male,Single,16,Policy Holder,Sedan - Liability,more than 69000,0,400,3,more than 30,more than 4,new,No,No,External,none,no change,1 vehicle,0-17,61
 Toyota,Urban,Male,Married,45,Policy Holder,Sedan - Collision,30000 to 39000,0,400,2,more than 30,2 to 4,7 years,No,No,External,none,4 to 8 years,2 vehicles,41-50,60
 Toyota,Urban,Male,Married,39,Policy Holder,Sedan - All Perils,more than 69000,0,400,2,more than 30,2 to 4,7 years,No,No,External,none,no change,1 vehicle,36-40,4
 Ford,Urban,Male,Married,34,Third Party,Sedan - Collision,less than 20000,0,400,2,more than 30,1,7 years,No,No,External,none,no change,1 vehicle,31-35,60
@@ -4810,7 +4810,7 @@ Chevrolet,Urban,Male,Married,62,Policy Holder,Sedan - Liability,30000 to 39000,0
 Mazda,Urban,Male,Married,38,Policy Holder,Sedan - Collision,20000 to 29000,0,400,2,more than 30,2 to 4,more than 7,No,Yes,External,1 to 2,4 to 8 years,2 vehicles,36-40,34
 Pontiac,Urban,Male,Married,47,Third Party,Sedan - All Perils,20000 to 29000,0,400,1,more than 30,none,more than 7,No,No,External,none,no change,1 vehicle,41-50,61
 Mazda,Urban,Male,Married,47,Policy Holder,Sedan - All Perils,40000 to 59000,1,400,1,more than 30,none,more than 7,No,No,External,none,no change,1 vehicle,41-50,60
-Honda,Urban,Male,Single,16,Policy Holder,Sedan - Liability,more than 69000,0,400,1,more than 30,none,new,No,No,External,none,no change,1 vehicle,0-17,60
+Honda,Urban,Male,Single,17,Policy Holder,Sedan - Liability,more than 69000,0,400,1,more than 30,none,new,No,No,External,none,no change,1 vehicle,0-17,60
 Toyota,Urban,Female,Married,34,Policy Holder,Sedan - Collision,20000 to 29000,0,400,2,more than 30,2 to 4,5 years,No,No,External,none,no change,1 vehicle,31-35,60
 Mazda,Urban,Male,Married,30,Policy Holder,Sedan - Liability,more than 69000,0,400,2,more than 30,2 to 4,6 years,No,No,External,none,no change,1 vehicle,31-35,2
 Mazda,Urban,Female,Single,30,Third Party,Sport - Collision,more than 69000,0,400,1,more than 30,2 to 4,6 years,No,No,External,3 to 5,no change,1 vehicle,31-35,60
@@ -5058,7 +5058,7 @@ Pontiac,Rural,Male,Married,50,Policy Holder,Sedan - Liability,30000 to 39000,0,4
 Pontiac,Urban,Male,Married,47,Policy Holder,Sedan - Liability,30000 to 39000,0,400,2,more than 30,2 to 4,more than 7,No,No,External,more than 5,no change,1 vehicle,41-50,61
 Toyota,Urban,Female,Single,24,Third Party,Sedan - Collision,20000 to 29000,0,400,2,more than 30,2 to 4,4 years,No,No,External,none,no change,1 vehicle,21-25,6
 Toyota,Urban,Male,Married,24,Policy Holder,Sedan - Liability,20000 to 29000,0,400,3,more than 30,2 to 4,5 years,No,No,External,3 to 5,no change,1 vehicle,21-25,61
-Honda,Urban,Male,Single,17,Policy Holder,Sedan - All Perils,more than 69000,1,400,4,more than 30,2 to 4,new,No,No,External,none,no change,1 vehicle,0-17,5
+Honda,Urban,Male,Single,16,Policy Holder,Sedan - All Perils,more than 69000,1,400,4,more than 30,2 to 4,new,No,No,External,none,no change,1 vehicle,0-17,5
 Mazda,Urban,Female,Married,55,Policy Holder,Sedan - All Perils,20000 to 29000,0,400,1,more than 30,none,more than 7,No,No,External,more than 5,4 to 8 years,2 vehicles,51-65,5
 VW,Urban,Male,Married,42,Policy Holder,Sedan - All Perils,more than 69000,0,400,3,more than 30,none,6 years,No,No,External,none,no change,1 vehicle,41-50,29
 Honda,Urban,Female,Married,39,Policy Holder,Sedan - Liability,40000 to 59000,0,400,1,more than 30,2 to 4,more than 7,No,No,External,1 to 2,no change,1 vehicle,36-40,9
@@ -5248,11 +5248,11 @@ Ford,Urban,Male,Married,49,Policy Holder,Utility - Liability,more than 69000,0,4
 Pontiac,Urban,Male,Married,48,Policy Holder,Sedan - All Perils,20000 to 29000,0,400,3,more than 30,1,more than 7,No,No,External,none,no change,1 vehicle,41-50,59
 Pontiac,Urban,Female,Single,27,Third Party,Sedan - All Perils,less than 20000,0,400,4,more than 30,none,5 years,No,No,External,none,no change,3 to 4,26-30,60
 Pontiac,Urban,Male,Married,37,Policy Holder,Sedan - All Perils,20000 to 29000,0,400,4,more than 30,none,6 years,No,No,External,none,no change,1 vehicle,36-40,24
-Honda,Rural,Male,Single,16,Policy Holder,Sedan - All Perils,more than 69000,0,400,4,more than 30,none,new,No,No,External,none,4 to 8 years,2 vehicles,0-17,62
+Honda,Rural,Male,Single,17,Policy Holder,Sedan - All Perils,more than 69000,0,400,4,more than 30,none,new,No,No,External,none,4 to 8 years,2 vehicles,0-17,62
 Mazda,Urban,Male,Single,26,Policy Holder,Sedan - Liability,30000 to 39000,0,400,1,more than 30,1,7 years,No,No,External,more than 5,no change,1 vehicle,26-30,60
 Chevrolet,Urban,Male,Married,30,Third Party,Sedan - All Perils,20000 to 29000,0,400,3,more than 30,1,7 years,No,No,External,more than 5,no change,1 vehicle,31-35,61
 Toyota,Urban,Female,Single,38,Third Party,Sedan - Liability,20000 to 29000,0,500,4,more than 30,none,7 years,No,No,External,more than 5,2 to 3 years,1 vehicle,36-40,60
-Honda,Urban,Male,Single,17,Policy Holder,Sedan - Collision,more than 69000,0,400,2,more than 30,1,new,No,No,External,none,no change,1 vehicle,0-17,61
+Honda,Urban,Male,Single,16,Policy Holder,Sedan - Collision,more than 69000,0,400,2,more than 30,1,new,No,No,External,none,no change,1 vehicle,0-17,61
 Pontiac,Rural,Male,Single,35,Policy Holder,Sedan - Liability,30000 to 39000,0,400,3,more than 30,more than 4,5 years,No,No,External,more than 5,no change,1 vehicle,36-40,2
 Mazda,Urban,Male,Married,30,Third Party,Sedan - Collision,20000 to 29000,0,400,4,more than 30,more than 4,7 years,No,No,External,1 to 2,no change,1 vehicle,31-35,3
 Pontiac,Urban,Male,Married,51,Third Party,Sedan - All Perils,30000 to 39000,0,400,2,more than 30,none,more than 7,No,No,External,none,no change,1 vehicle,51-65,61
@@ -5280,7 +5280,7 @@ Toyota,Rural,Male,Married,61,Policy Holder,Sedan - Collision,20000 to 29000,0,40
 Toyota,Urban,Male,Married,32,Policy Holder,Sedan - Collision,less than 20000,0,400,2,more than 30,1,6 years,No,No,External,none,no change,1 vehicle,31-35,60
 Mazda,Urban,Male,Married,51,Policy Holder,Utility - All Perils,more than 69000,0,400,1,more than 30,2 to 4,7 years,No,No,External,none,no change,1 vehicle,51-65,61
 Pontiac,Urban,Male,Married,40,Third Party,Sedan - All Perils,20000 to 29000,0,400,3,more than 30,2 to 4,more than 7,No,No,External,none,no change,1 vehicle,41-50,60
-Honda,Urban,Male,Single,16,Third Party,Sedan - All Perils,more than 69000,0,400,3,more than 30,1,new,No,No,External,none,no change,1 vehicle,0-17,61
+Honda,Urban,Male,Single,17,Third Party,Sedan - All Perils,more than 69000,0,400,3,more than 30,1,new,No,No,External,none,no change,1 vehicle,0-17,61
 Pontiac,Urban,Female,Married,28,Policy Holder,Sedan - Collision,20000 to 29000,0,400,4,more than 30,more than 4,5 years,No,No,External,more than 5,no change,1 vehicle,26-30,61
 Honda,Urban,Male,Married,51,Third Party,Sedan - All Perils,20000 to 29000,0,400,4,more than 30,1,more than 7,No,No,External,1 to 2,no change,1 vehicle,51-65,61
 Toyota,Urban,Male,Married,41,Policy Holder,Sedan - Collision,20000 to 29000,0,400,4,more than 30,none,7 years,No,No,External,more than 5,no change,1 vehicle,41-50,61
@@ -5294,7 +5294,7 @@ Honda,Urban,Male,Married,41,Policy Holder,Sedan - All Perils,less than 20000,0,4
 Mazda,Urban,Female,Married,50,Policy Holder,Sedan - Liability,20000 to 29000,0,400,1,more than 30,2 to 4,7 years,No,No,External,none,no change,1 vehicle,51-65,60
 Honda,Urban,Male,Married,19,Policy Holder,Sport - Collision,more than 69000,1,400,4,more than 30,none,2 years,No,No,External,none,no change,1 vehicle,18-20,61
 Mazda,Urban,Male,Married,45,Third Party,Sedan - Liability,more than 69000,0,400,3,more than 30,2 to 4,7 years,No,No,External,3 to 5,no change,1 vehicle,41-50,60
-Honda,Urban,Male,Single,16,Policy Holder,Sedan - Liability,more than 69000,0,400,2,more than 30,more than 4,new,No,No,External,none,no change,1 vehicle,0-17,61
+Honda,Urban,Male,Single,17,Policy Holder,Sedan - Liability,more than 69000,0,400,2,more than 30,more than 4,new,No,No,External,none,no change,1 vehicle,0-17,61
 Toyota,Urban,Male,Married,51,Policy Holder,Sedan - Liability,20000 to 29000,0,400,1,more than 30,more than 4,5 years,No,No,External,3 to 5,no change,1 vehicle,51-65,61
 Mazda,Urban,Female,Married,33,Third Party,Sedan - All Perils,more than 69000,0,400,4,more than 30,1,6 years,No,No,External,none,no change,1 vehicle,31-35,61
 Mercury,Urban,Male,Married,44,Policy Holder,Sedan - Liability,more than 69000,0,400,2,more than 30,1,7 years,No,No,External,3 to 5,no change,1 vehicle,41-50,60
@@ -5309,7 +5309,7 @@ VW,Urban,Male,Married,50,Policy Holder,Sedan - All Perils,60000 to 69000,0,400,3
 Toyota,Urban,Male,Married,42,Policy Holder,Sedan - All Perils,20000 to 29000,0,400,1,more than 30,none,7 years,No,No,External,3 to 5,no change,1 vehicle,41-50,60
 Pontiac,Urban,Male,Married,27,Policy Holder,Sedan - All Perils,20000 to 29000,0,400,1,more than 30,none,6 years,No,No,External,1 to 2,no change,1 vehicle,26-30,5
 Accura,Urban,Male,Married,34,Third Party,Sedan - All Perils,20000 to 29000,0,400,2,more than 30,1,7 years,No,No,External,3 to 5,no change,1 vehicle,31-35,6
-Honda,Rural,Male,Single,16,Policy Holder,Sedan - Liability,more than 69000,0,400,3,more than 30,none,new,Yes,No,External,none,no change,1 vehicle,0-17,3
+Honda,Rural,Male,Single,17,Policy Holder,Sedan - Liability,more than 69000,0,400,3,more than 30,none,new,Yes,No,External,none,no change,1 vehicle,0-17,3
 Chevrolet,Urban,Female,Single,34,Policy Holder,Sedan - Collision,more than 69000,0,400,3,more than 30,none,6 years,No,No,External,more than 5,no change,1 vehicle,31-35,61
 Pontiac,Urban,Male,Married,31,Policy Holder,Sedan - Liability,20000 to 29000,0,400,2,more than 30,more than 4,6 years,No,No,External,3 to 5,4 to 8 years,2 vehicles,31-35,8
 Honda,Urban,Male,Single,17,Third Party,Sedan - All Perils,more than 69000,0,400,4,more than 30,1,new,No,No,External,none,no change,1 vehicle,0-17,61
@@ -5371,7 +5371,7 @@ Pontiac,Urban,Male,Married,27,Policy Holder,Sedan - All Perils,20000 to 29000,0,
 Pontiac,Urban,Male,Married,44,Policy Holder,Sedan - Collision,30000 to 39000,0,400,4,more than 30,2 to 4,7 years,No,No,External,none,no change,1 vehicle,41-50,9
 Ford,Urban,Male,Married,38,Third Party,Sedan - Collision,40000 to 59000,0,400,3,more than 30,1,7 years,No,No,External,more than 5,no change,3 to 4,36-40,61
 Mazda,Urban,Male,Married,66,Policy Holder,Sedan - Collision,20000 to 29000,0,400,1,more than 30,none,more than 7,No,No,External,none,no change,1 vehicle,65+,60
-Honda,Urban,Male,Single,16,Policy Holder,Sedan - Liability,more than 69000,0,400,1,more than 30,2 to 4,new,No,No,External,none,no change,1 vehicle,0-17,60
+Honda,Urban,Male,Single,17,Policy Holder,Sedan - Liability,more than 69000,0,400,1,more than 30,2 to 4,new,No,No,External,none,no change,1 vehicle,0-17,60
 Ford,Urban,Male,Married,43,Policy Holder,Utility - All Perils,more than 69000,0,400,3,more than 30,none,7 years,No,No,External,more than 5,no change,1 vehicle,41-50,61
 Toyota,Urban,Female,Married,60,Policy Holder,Sedan - Liability,less than 20000,0,400,1,more than 30,1,5 years,No,No,External,none,no change,1 vehicle,51-65,60
 Chevrolet,Urban,Male,Single,28,Policy Holder,Utility - All Perils,more than 69000,0,400,1,more than 30,more than 4,6 years,No,No,External,none,4 to 8 years,2 vehicles,26-30,14
@@ -5414,7 +5414,7 @@ Jaguar,Urban,Male,Married,41,Policy Holder,Sedan - Liability,40000 to 59000,0,40
 Pontiac,Urban,Male,Married,49,Policy Holder,Sedan - All Perils,20000 to 29000,0,400,3,more than 30,none,more than 7,No,No,External,1 to 2,no change,1 vehicle,41-50,60
 Pontiac,Urban,Male,Married,59,Policy Holder,Sedan - Collision,20000 to 29000,0,400,4,more than 30,none,more than 7,No,No,External,1 to 2,no change,1 vehicle,51-65,61
 Toyota,Urban,Male,Married,39,Policy Holder,Sedan - Liability,20000 to 29000,0,400,2,more than 30,more than 4,7 years,No,No,External,more than 5,no change,1 vehicle,36-40,60
-Honda,Urban,Male,Single,17,Policy Holder,Sedan - Collision,more than 69000,0,400,1,more than 30,none,new,No,No,External,none,no change,1 vehicle,0-17,60
+Honda,Urban,Male,Single,16,Policy Holder,Sedan - Collision,more than 69000,0,400,1,more than 30,none,new,No,No,External,none,no change,1 vehicle,0-17,60
 Honda,Urban,Female,Single,31,Policy Holder,Sedan - Collision,20000 to 29000,0,400,2,more than 30,1,5 years,No,No,External,1 to 2,no change,1 vehicle,31-35,61
 Toyota,Rural,Male,Married,45,Third Party,Sedan - Liability,20000 to 29000,0,400,3,more than 30,none,7 years,No,No,External,more than 5,4 to 8 years,2 vehicles,41-50,60
 Pontiac,Urban,Male,Single,36,Policy Holder,Sedan - Liability,20000 to 29000,0,400,3,more than 30,more than 4,7 years,No,No,External,none,no change,1 vehicle,36-40,3
@@ -5427,7 +5427,7 @@ Toyota,Urban,Male,Single,57,Third Party,Sedan - All Perils,more than 69000,0,700
 Mazda,Urban,Male,Single,35,Third Party,Sedan - Collision,20000 to 29000,0,400,3,more than 30,2 to 4,5 years,No,No,External,more than 5,no change,1 vehicle,36-40,60
 Mazda,Rural,Male,Single,32,Third Party,Sedan - Collision,20000 to 29000,0,400,3,more than 30,2 to 4,6 years,No,No,External,1 to 2,no change,1 vehicle,31-35,61
 Toyota,Urban,Male,Married,37,Third Party,Sedan - Collision,20000 to 29000,0,400,4,more than 30,none,7 years,No,No,External,none,no change,1 vehicle,36-40,60
-Honda,Urban,Male,Single,16,Policy Holder,Sedan - All Perils,more than 69000,0,400,4,more than 30,none,new,No,No,External,none,no change,1 vehicle,0-17,6
+Honda,Urban,Male,Single,17,Policy Holder,Sedan - All Perils,more than 69000,0,400,4,more than 30,none,new,No,No,External,none,no change,1 vehicle,0-17,6
 Toyota,Urban,Male,Married,50,Policy Holder,Sedan - Collision,less than 20000,0,400,3,more than 30,2 to 4,7 years,No,No,External,none,no change,1 vehicle,51-65,60
 Pontiac,Urban,Male,Single,52,Third Party,Sedan - All Perils,20000 to 29000,0,400,1,more than 30,2 to 4,more than 7,No,No,External,none,no change,1 vehicle,51-65,2
 Honda,Urban,Male,Single,31,Policy Holder,Sedan - Liability,more than 69000,0,400,2,more than 30,more than 4,6 years,No,No,External,3 to 5,no change,1 vehicle,31-35,61
@@ -5667,7 +5667,7 @@ Pontiac,Urban,Male,Single,33,Third Party,Sedan - Collision,20000 to 29000,0,400,
 Toyota,Urban,Female,Single,29,Third Party,Sedan - Liability,20000 to 29000,0,400,4,more than 30,2 to 4,5 years,No,No,External,none,no change,1 vehicle,26-30,60
 Honda,Urban,Male,Single,17,Policy Holder,Sedan - Collision,more than 69000,0,400,1,more than 30,1,new,No,No,External,none,no change,1 vehicle,0-17,62
 Pontiac,Urban,Male,Married,38,Policy Holder,Utility - All Perils,40000 to 59000,0,400,1,more than 30,more than 4,6 years,No,No,External,none,no change,1 vehicle,36-40,4
-Honda,Urban,Male,Single,16,Third Party,Sedan - Liability,more than 69000,0,400,4,more than 30,2 to 4,new,No,No,External,none,no change,1 vehicle,0-17,64
+Honda,Urban,Male,Single,17,Third Party,Sedan - Liability,more than 69000,0,400,4,more than 30,2 to 4,new,No,No,External,none,no change,1 vehicle,0-17,64
 Toyota,Urban,Male,Married,54,Third Party,Sedan - Collision,20000 to 29000,0,400,4,more than 30,none,more than 7,No,No,External,none,4 to 8 years,2 vehicles,51-65,1
 Chevrolet,Urban,Male,Single,35,Policy Holder,Sedan - Liability,20000 to 29000,0,400,3,more than 30,2 to 4,6 years,No,No,External,none,no change,1 vehicle,36-40,4
 Pontiac,Urban,Male,Married,47,Policy Holder,Sedan - All Perils,20000 to 29000,0,400,1,more than 30,2 to 4,more than 7,No,No,External,3 to 5,no change,1 vehicle,41-50,61
@@ -5827,7 +5827,7 @@ Toyota,Urban,Male,Single,45,Policy Holder,Sedan - Liability,30000 to 39000,0,400
 Pontiac,Urban,Male,Married,36,Policy Holder,Sedan - Liability,30000 to 39000,0,400,2,more than 30,more than 4,7 years,No,No,External,none,no change,1 vehicle,36-40,60
 Pontiac,Urban,Male,Married,23,Policy Holder,Sedan - Collision,20000 to 29000,0,400,2,more than 30,1,4 years,No,No,External,none,no change,1 vehicle,21-25,61
 Honda,Urban,Male,Single,24,Policy Holder,Sedan - Liability,20000 to 29000,0,400,3,more than 30,1,5 years,No,No,External,3 to 5,no change,1 vehicle,21-25,61
-Honda,Urban,Male,Single,16,Third Party,Sedan - All Perils,less than 20000,0,400,1,more than 30,none,more than 7,Yes,No,External,3 to 5,no change,1 vehicle,0-17,61
+Honda,Urban,Male,Single,17,Third Party,Sedan - All Perils,less than 20000,0,400,1,more than 30,none,more than 7,Yes,No,External,3 to 5,no change,1 vehicle,0-17,61
 Toyota,Urban,Female,Single,31,Policy Holder,Sedan - Liability,20000 to 29000,0,400,3,more than 30,1,4 years,No,No,External,none,no change,1 vehicle,31-35,62
 Pontiac,Urban,Male,Single,43,Third Party,Sedan - All Perils,20000 to 29000,0,400,3,more than 30,2 to 4,7 years,No,No,External,1 to 2,no change,1 vehicle,41-50,2
 Pontiac,Urban,Male,Married,32,Policy Holder,Sedan - All Perils,20000 to 29000,0,400,3,more than 30,1,6 years,No,No,External,none,no change,1 vehicle,31-35,60
@@ -5932,7 +5932,7 @@ Honda,Urban,Male,Married,30,Policy Holder,Sedan - Liability,20000 to 29000,0,400
 Honda,Urban,Female,Single,34,Policy Holder,Sedan - Liability,20000 to 29000,0,400,4,more than 30,2 to 4,6 years,No,No,External,1 to 2,no change,1 vehicle,31-35,60
 Accura,Urban,Male,Married,55,Policy Holder,Sedan - Collision,30000 to 39000,0,400,2,more than 30,2 to 4,more than 7,No,No,External,none,no change,1 vehicle,51-65,60
 Mazda,Urban,Male,Married,26,Policy Holder,Sedan - Collision,20000 to 29000,0,400,3,more than 30,more than 4,7 years,No,No,External,1 to 2,no change,1 vehicle,26-30,60
-Honda,Urban,Male,Single,16,Policy Holder,Sport - All Perils,more than 69000,0,400,2,more than 30,none,new,No,No,External,none,no change,1 vehicle,0-17,46
+Honda,Urban,Male,Single,17,Policy Holder,Sport - All Perils,more than 69000,0,400,2,more than 30,none,new,No,No,External,none,no change,1 vehicle,0-17,46
 Chevrolet,Urban,Male,Single,35,Policy Holder,Sedan - Liability,30000 to 39000,0,400,2,more than 30,1,6 years,No,No,External,none,no change,1 vehicle,36-40,60
 Mazda,Urban,Male,Married,45,Policy Holder,Sedan - Liability,30000 to 39000,0,400,3,more than 30,2 to 4,6 years,No,No,External,1 to 2,no change,1 vehicle,41-50,61
 Honda,Urban,Male,Married,28,Policy Holder,Sedan - Liability,20000 to 29000,0,400,4,more than 30,more than 4,7 years,No,No,External,more than 5,no change,1 vehicle,26-30,27
@@ -5973,7 +5973,7 @@ Toyota,Urban,Male,Married,37,Policy Holder,Sedan - Collision,20000 to 29000,0,40
 Mazda,Urban,Male,Married,51,Policy Holder,Sedan - All Perils,more than 69000,0,400,1,more than 30,1,7 years,No,No,External,1 to 2,no change,1 vehicle,51-65,4
 Pontiac,Urban,Male,Single,33,Policy Holder,Sedan - Liability,20000 to 29000,0,400,3,more than 30,1,6 years,No,No,External,none,no change,1 vehicle,31-35,8
 Toyota,Urban,Male,Married,36,Policy Holder,Sedan - All Perils,20000 to 29000,0,400,2,more than 30,none,7 years,No,No,External,none,no change,1 vehicle,36-40,61
-Honda,Rural,Male,Single,16,Policy Holder,Sedan - Collision,more than 69000,0,400,4,more than 30,1,new,No,No,External,none,no change,1 vehicle,0-17,7
+Honda,Rural,Male,Single,17,Policy Holder,Sedan - Collision,more than 69000,0,400,4,more than 30,1,new,No,No,External,none,no change,1 vehicle,0-17,7
 Pontiac,Urban,Male,Single,30,Policy Holder,Sedan - Liability,30000 to 39000,0,400,2,more than 30,2 to 4,7 years,No,No,External,none,no change,1 vehicle,31-35,61
 Ford,Rural,Male,Single,30,Policy Holder,Sedan - All Perils,more than 69000,1,400,3,15 to 30,none,6 years,No,No,External,none,no change,1 vehicle,31-35,11
 Mazda,Urban,Male,Married,35,Third Party,Sedan - All Perils,30000 to 39000,0,400,1,more than 30,none,7 years,No,No,External,none,no change,1 vehicle,36-40,61
@@ -6177,7 +6177,7 @@ Toyota,Urban,Male,Single,30,Policy Holder,Sedan - Liability,20000 to 29000,0,400
 Mazda,Urban,Female,Married,40,Policy Holder,Sedan - Liability,more than 69000,0,400,3,more than 30,more than 4,7 years,No,No,External,more than 5,no change,1 vehicle,41-50,61
 Honda,Rural,Male,Single,17,Policy Holder,Sport - Collision,more than 69000,1,400,3,more than 30,none,3 years,No,No,External,none,no change,1 vehicle,18-20,60
 Toyota,Urban,Male,Married,58,Third Party,Sedan - Liability,30000 to 39000,0,400,4,more than 30,1,more than 7,No,No,External,more than 5,no change,1 vehicle,51-65,60
-Honda,Urban,Male,Single,16,Third Party,Sedan - Liability,more than 69000,0,400,1,more than 30,2 to 4,new,No,No,External,none,no change,1 vehicle,0-17,61
+Honda,Urban,Male,Single,17,Third Party,Sedan - Liability,more than 69000,0,400,1,more than 30,2 to 4,new,No,No,External,none,no change,1 vehicle,0-17,61
 Pontiac,Urban,Male,Married,59,Policy Holder,Sedan - Liability,20000 to 29000,0,400,3,more than 30,more than 4,more than 7,No,No,External,1 to 2,no change,1 vehicle,51-65,60
 Pontiac,Urban,Male,Married,56,Policy Holder,Sedan - Collision,20000 to 29000,0,400,4,more than 30,2 to 4,more than 7,No,No,External,more than 5,no change,1 vehicle,51-65,60
 Mazda,Urban,Male,Single,39,Policy Holder,Sedan - Liability,30000 to 39000,0,400,3,more than 30,more than 4,more than 7,No,No,External,more than 5,no change,1 vehicle,36-40,61
@@ -6469,7 +6469,7 @@ Toyota,Urban,Male,Single,33,Policy Holder,Sedan - Liability,20000 to 29000,0,400
 Pontiac,Rural,Male,Married,28,Policy Holder,Sedan - Collision,30000 to 39000,0,400,2,more than 30,1,6 years,No,No,External,none,4 to 8 years,2 vehicles,26-30,61
 Toyota,Urban,Male,Married,30,Policy Holder,Sedan - Liability,20000 to 29000,0,400,1,more than 30,1,7 years,No,No,External,1 to 2,no change,1 vehicle,31-35,2
 Mazda,Urban,Male,Single,38,Policy Holder,Sedan - Liability,20000 to 29000,0,400,2,more than 30,none,7 years,No,No,External,none,no change,1 vehicle,36-40,3
-Honda,Urban,Male,Single,16,Policy Holder,Sedan - All Perils,more than 69000,0,400,2,more than 30,none,new,No,No,External,none,no change,1 vehicle,0-17,62
+Honda,Urban,Male,Single,17,Policy Holder,Sedan - All Perils,more than 69000,0,400,2,more than 30,none,new,No,No,External,none,no change,1 vehicle,0-17,62
 VW,Urban,Male,Single,40,Third Party,Sedan - All Perils,more than 69000,0,400,3,more than 30,none,7 years,No,No,External,3 to 5,no change,1 vehicle,41-50,60
 Mazda,Urban,Male,Single,21,Third Party,Sedan - Collision,20000 to 29000,0,400,1,more than 30,2 to 4,5 years,No,No,External,1 to 2,no change,1 vehicle,21-25,62
 Pontiac,Urban,Male,Single,51,Third Party,Sedan - All Perils,20000 to 29000,0,400,3,more than 30,none,more than 7,No,No,External,1 to 2,no change,1 vehicle,51-65,61
@@ -6900,7 +6900,7 @@ Pontiac,Urban,Male,Married,50,Policy Holder,Sedan - All Perils,30000 to 39000,0,
 Pontiac,Rural,Male,Married,63,Policy Holder,Sedan - Liability,20000 to 29000,0,400,1,more than 30,1,7 years,No,No,External,more than 5,no change,1 vehicle,51-65,60
 Honda,Urban,Female,Married,26,Third Party,Sedan - Liability,20000 to 29000,0,400,4,more than 30,none,6 years,No,No,External,1 to 2,no change,1 vehicle,26-30,60
 Pontiac,Urban,Male,Married,27,Policy Holder,Sedan - All Perils,20000 to 29000,0,400,4,more than 30,more than 4,6 years,No,No,External,more than 5,no change,1 vehicle,26-30,60
-Honda,Urban,Male,Single,16,Policy Holder,Sedan - Liability,more than 69000,0,400,3,more than 30,2 to 4,new,No,No,External,none,no change,1 vehicle,0-17,60
+Honda,Urban,Male,Single,17,Policy Holder,Sedan - Liability,more than 69000,0,400,3,more than 30,2 to 4,new,No,No,External,none,no change,1 vehicle,0-17,60
 Mazda,Urban,Male,Married,26,Third Party,Sedan - Collision,20000 to 29000,0,400,1,more than 30,2 to 4,6 years,No,No,External,more than 5,no change,1 vehicle,26-30,2
 Pontiac,Urban,Male,Single,28,Policy Holder,Sedan - Liability,30000 to 39000,0,400,3,more than 30,1,7 years,No,No,External,more than 5,no change,1 vehicle,26-30,60
 BMW,Urban,Female,Married,35,Policy Holder,Sedan - Liability,30000 to 39000,0,400,3,more than 30,2 to 4,6 years,No,No,External,none,no change,1 vehicle,36-40,60
@@ -6936,7 +6936,7 @@ Pontiac,Urban,Female,Married,53,Third Party,Sedan - Collision,20000 to 29000,0,4
 VW,Rural,Male,Married,35,Policy Holder,Sedan - Collision,30000 to 39000,0,400,4,more than 30,1,6 years,No,No,External,more than 5,no change,1 vehicle,36-40,61
 Chevrolet,Urban,Male,Single,46,Policy Holder,Sedan - All Perils,20000 to 29000,0,500,1,more than 30,none,more than 7,No,No,External,none,2 to 3 years,1 vehicle,41-50,11
 Honda,Rural,Male,Single,16,Policy Holder,Sedan - All Perils,more than 69000,0,400,2,more than 30,2 to 4,new,No,No,External,none,no change,1 vehicle,0-17,10
-Honda,Urban,Male,Single,17,Third Party,Sedan - All Perils,more than 69000,0,400,1,more than 30,none,new,No,No,External,none,no change,1 vehicle,0-17,4
+Honda,Urban,Male,Single,16,Third Party,Sedan - All Perils,more than 69000,0,400,1,more than 30,none,new,No,No,External,none,no change,1 vehicle,0-17,4
 Mazda,Urban,Male,Married,41,Policy Holder,Sedan - Collision,less than 20000,0,400,2,more than 30,1,7 years,No,No,External,none,no change,1 vehicle,41-50,60
 Mazda,Urban,Male,Single,24,Policy Holder,Sedan - All Perils,20000 to 29000,0,400,1,more than 30,none,5 years,No,No,External,1 to 2,no change,1 vehicle,21-25,60
 Honda,Urban,Male,Married,61,Policy Holder,Sedan - Collision,20000 to 29000,0,400,1,more than 30,2 to 4,more than 7,No,No,External,1 to 2,no change,1 vehicle,51-65,60
@@ -7289,7 +7289,7 @@ Honda,Urban,Male,Single,16,Policy Holder,Sedan - All Perils,more than 69000,0,40
 Toyota,Urban,Male,Married,39,Policy Holder,Sedan - Liability,20000 to 29000,0,400,1,more than 30,2 to 4,7 years,No,No,External,more than 5,no change,1 vehicle,36-40,60
 Mazda,Urban,Male,Married,40,Policy Holder,Sedan - Liability,20000 to 29000,0,400,3,more than 30,1,7 years,No,No,External,none,no change,1 vehicle,41-50,60
 Toyota,Urban,Male,Married,37,Policy Holder,Sedan - All Perils,20000 to 29000,0,400,2,more than 30,2 to 4,more than 7,No,No,External,more than 5,no change,1 vehicle,36-40,62
-Honda,Urban,Male,Single,16,Policy Holder,Sedan - Liability,more than 69000,0,400,3,more than 30,1,new,No,No,External,none,no change,1 vehicle,0-17,60
+Honda,Urban,Male,Single,17,Policy Holder,Sedan - Liability,more than 69000,0,400,3,more than 30,1,new,No,No,External,none,no change,1 vehicle,0-17,60
 Pontiac,Urban,Male,Single,33,Policy Holder,Sedan - All Perils,less than 20000,0,400,3,more than 30,none,5 years,No,No,External,none,no change,1 vehicle,31-35,60
 Toyota,Urban,Female,Single,24,Policy Holder,Sedan - Liability,20000 to 29000,0,400,3,more than 30,none,3 years,No,No,External,none,2 to 3 years,1 vehicle,21-25,60
 Toyota,Urban,Female,Divorced,51,Policy Holder,Sedan - All Perils,less than 20000,0,400,4,more than 30,1,7 years,No,No,External,more than 5,no change,1 vehicle,51-65,61
@@ -7345,7 +7345,7 @@ Honda,Urban,Male,Married,28,Third Party,Sedan - Collision,20000 to 29000,0,400,4
 Mazda,Urban,Female,Single,30,Policy Holder,Sedan - Liability,30000 to 39000,0,500,4,more than 30,2 to 4,7 years,No,No,External,3 to 5,2 to 3 years,1 vehicle,31-35,60
 Mazda,Urban,Male,Married,51,Policy Holder,Sedan - Liability,30000 to 39000,0,400,1,more than 30,2 to 4,more than 7,No,No,External,none,no change,1 vehicle,51-65,60
 Toyota,Urban,Male,Married,58,Policy Holder,Sedan - Liability,20000 to 29000,0,400,2,more than 30,more than 4,7 years,No,No,External,none,no change,1 vehicle,51-65,1
-Honda,Urban,Male,Single,16,Policy Holder,Sedan - Liability,more than 69000,0,400,2,more than 30,2 to 4,new,No,No,External,none,no change,1 vehicle,0-17,63
+Honda,Urban,Male,Single,17,Policy Holder,Sedan - Liability,more than 69000,0,400,2,more than 30,2 to 4,new,No,No,External,none,no change,1 vehicle,0-17,63
 Pontiac,Urban,Male,Married,65,Policy Holder,Sedan - All Perils,more than 69000,0,400,2,more than 30,1,more than 7,No,No,External,more than 5,no change,1 vehicle,65+,60
 Toyota,Urban,Male,Single,32,Policy Holder,Sedan - Collision,20000 to 29000,0,400,4,more than 30,none,7 years,No,No,External,more than 5,no change,1 vehicle,31-35,61
 Pontiac,Urban,Male,Single,32,Policy Holder,Sedan - Liability,20000 to 29000,0,400,4,more than 30,2 to 4,7 years,No,No,External,more than 5,4 to 8 years,2 vehicles,31-35,60
@@ -7374,7 +7374,7 @@ Mazda,Rural,Male,Married,65,Policy Holder,Sedan - All Perils,more than 69000,0,4
 Chevrolet,Rural,Male,Single,32,Policy Holder,Sedan - All Perils,20000 to 29000,0,400,2,more than 30,none,6 years,No,No,External,none,no change,1 vehicle,31-35,11
 Mazda,Urban,Male,Married,64,Policy Holder,Sedan - All Perils,20000 to 29000,0,400,1,more than 30,none,more than 7,No,No,External,1 to 2,no change,1 vehicle,51-65,16
 Chevrolet,Urban,Male,Married,37,Policy Holder,Sedan - Liability,30000 to 39000,0,400,3,more than 30,2 to 4,7 years,No,No,External,1 to 2,no change,1 vehicle,36-40,9
-Honda,Urban,Male,Single,17,Policy Holder,Sport - All Perils,more than 69000,0,400,3,more than 30,1,new,No,No,External,none,no change,1 vehicle,0-17,35
+Honda,Urban,Male,Single,16,Policy Holder,Sport - All Perils,more than 69000,0,400,3,more than 30,1,new,No,No,External,none,no change,1 vehicle,0-17,35
 Honda,Urban,Male,Married,41,Third Party,Sedan - Collision,30000 to 39000,0,400,2,more than 30,none,7 years,No,No,External,none,no change,1 vehicle,41-50,60
 Honda,Urban,Male,Single,41,Policy Holder,Sedan - All Perils,30000 to 39000,0,700,1,more than 30,1,7 years,No,No,External,3 to 5,no change,1 vehicle,41-50,60
 Pontiac,Urban,Male,Married,56,Policy Holder,Sedan - All Perils,less than 20000,0,400,2,more than 30,2 to 4,7 years,No,No,External,none,no change,1 vehicle,51-65,61
@@ -7387,7 +7387,7 @@ Mazda,Urban,Male,Married,30,Third Party,Sport - All Perils,20000 to 29000,0,400,
 Toyota,Urban,Male,Married,38,Third Party,Sedan - Collision,20000 to 29000,0,400,3,more than 30,1,7 years,No,Yes,External,1 to 2,no change,1 vehicle,36-40,4
 Toyota,Urban,Male,Married,46,Policy Holder,Sedan - Liability,20000 to 29000,0,400,4,more than 30,1,7 years,No,No,External,none,no change,1 vehicle,41-50,60
 Chevrolet,Urban,Male,Single,26,Policy Holder,Sedan - Liability,30000 to 39000,0,400,1,more than 30,2 to 4,4 years,No,No,External,none,no change,1 vehicle,26-30,60
-Honda,Urban,Male,Single,17,Policy Holder,Sedan - Liability,more than 69000,0,400,4,more than 30,none,new,No,No,External,none,no change,1 vehicle,0-17,61
+Honda,Urban,Male,Single,16,Policy Holder,Sedan - Liability,more than 69000,0,400,4,more than 30,none,new,No,No,External,none,no change,1 vehicle,0-17,61
 Mazda,Urban,Male,Married,80,Policy Holder,Sedan - Collision,30000 to 39000,0,400,2,more than 30,more than 4,7 years,No,No,External,none,no change,1 vehicle,65+,60
 Toyota,Urban,Male,Married,59,Third Party,Sedan - Collision,more than 69000,0,400,2,more than 30,1,more than 7,No,No,External,none,no change,1 vehicle,51-65,5
 Pontiac,Urban,Male,Married,35,Policy Holder,Sedan - Collision,20000 to 29000,0,400,2,more than 30,1,6 years,No,No,External,more than 5,4 to 8 years,2 vehicles,36-40,60
@@ -7427,7 +7427,7 @@ Pontiac,Urban,Female,Married,44,Policy Holder,Sedan - Collision,20000 to 29000,0
 Honda,Urban,Male,Single,29,Policy Holder,Sedan - All Perils,less than 20000,0,400,2,more than 30,1,6 years,No,No,External,none,no change,1 vehicle,26-30,61
 Pontiac,Urban,Female,Single,31,Policy Holder,Sedan - Collision,less than 20000,1,400,3,more than 30,none,7 years,No,No,External,none,no change,1 vehicle,31-35,60
 Toyota,Urban,Male,Married,41,Policy Holder,Sedan - Liability,20000 to 29000,0,400,1,more than 30,more than 4,more than 7,No,No,External,none,no change,1 vehicle,41-50,7
-Honda,Urban,Male,Single,17,Policy Holder,Sedan - Liability,more than 69000,0,400,2,more than 30,2 to 4,new,No,No,External,none,no change,1 vehicle,0-17,60
+Honda,Urban,Male,Single,16,Policy Holder,Sedan - Liability,more than 69000,0,400,2,more than 30,2 to 4,new,No,No,External,none,no change,1 vehicle,0-17,60
 Mazda,Urban,Male,Married,36,Third Party,Sedan - Collision,20000 to 29000,0,400,3,more than 30,1,7 years,No,No,External,3 to 5,no change,1 vehicle,36-40,61
 Pontiac,Urban,Female,Single,45,Policy Holder,Sedan - Liability,less than 20000,0,400,2,more than 30,2 to 4,7 years,No,No,External,more than 5,no change,1 vehicle,41-50,60
 Pontiac,Rural,Male,Married,63,Policy Holder,Sedan - Liability,30000 to 39000,0,400,3,more than 30,none,more than 7,No,No,Internal,3 to 5,no change,1 vehicle,51-65,60
@@ -7456,7 +7456,7 @@ Honda,Rural,Male,Married,37,Third Party,Sedan - All Perils,less than 20000,0,400
 Toyota,Urban,Male,Married,26,Policy Holder,Sedan - Collision,20000 to 29000,0,400,3,more than 30,none,7 years,No,No,External,none,4 to 8 years,2 vehicles,26-30,62
 Mazda,Urban,Male,Married,35,Third Party,Sedan - Liability,30000 to 39000,0,400,1,more than 30,more than 4,5 years,No,No,External,1 to 2,no change,1 vehicle,36-40,61
 Chevrolet,Rural,Male,Married,60,Policy Holder,Sedan - Collision,30000 to 39000,0,400,1,more than 30,1,more than 7,No,No,External,none,no change,1 vehicle,51-65,60
-Honda,Rural,Male,Single,17,Policy Holder,Sedan - All Perils,more than 69000,0,400,3,more than 30,1,new,No,No,External,none,no change,1 vehicle,0-17,64
+Honda,Rural,Male,Single,16,Policy Holder,Sedan - All Perils,more than 69000,0,400,3,more than 30,1,new,No,No,External,none,no change,1 vehicle,0-17,64
 Mazda,Urban,Male,Married,33,Third Party,Sedan - Collision,20000 to 29000,0,400,1,more than 30,none,7 years,No,No,External,more than 5,no change,1 vehicle,31-35,60
 Mazda,Urban,Female,Married,31,Policy Holder,Sedan - Collision,20000 to 29000,1,400,1,more than 30,2 to 4,6 years,No,No,External,more than 5,no change,1 vehicle,31-35,60
 Mazda,Urban,Male,Married,45,Policy Holder,Sedan - All Perils,20000 to 29000,1,400,1,more than 30,none,7 years,No,No,External,more than 5,no change,1 vehicle,41-50,60
@@ -7478,7 +7478,7 @@ Toyota,Urban,Male,Married,50,Policy Holder,Sedan - All Perils,20000 to 29000,1,4
 Honda,Rural,Male,Married,47,Policy Holder,Sedan - All Perils,20000 to 29000,0,400,3,more than 30,none,more than 7,No,No,External,1 to 2,no change,1 vehicle,41-50,60
 Honda,Urban,Male,Married,42,Third Party,Sedan - All Perils,20000 to 29000,0,400,4,more than 30,none,7 years,No,No,External,none,no change,1 vehicle,41-50,60
 Mazda,Urban,Female,Single,27,Policy Holder,Sedan - Collision,20000 to 29000,0,400,4,more than 30,2 to 4,6 years,No,No,External,1 to 2,no change,1 vehicle,26-30,61
-Honda,Urban,Male,Single,16,Policy Holder,Sedan - Liability,more than 69000,0,400,3,more than 30,more than 4,new,No,No,External,none,no change,1 vehicle,0-17,2
+Honda,Urban,Male,Single,17,Policy Holder,Sedan - Liability,more than 69000,0,400,3,more than 30,more than 4,new,No,No,External,none,no change,1 vehicle,0-17,2
 Chevrolet,Urban,Male,Married,40,Policy Holder,Sedan - Liability,20000 to 29000,0,400,4,more than 30,1,more than 7,No,No,External,none,no change,1 vehicle,41-50,4
 Toyota,Urban,Female,Single,42,Policy Holder,Sedan - Liability,20000 to 29000,0,400,3,more than 30,more than 4,5 years,No,No,External,1 to 2,no change,1 vehicle,41-50,3
 Pontiac,Urban,Male,Married,26,Third Party,Sedan - All Perils,less than 20000,0,400,1,more than 30,2 to 4,5 years,No,No,External,1 to 2,no change,1 vehicle,26-30,2
@@ -7611,7 +7611,7 @@ Toyota,Urban,Female,Single,29,Policy Holder,Sedan - All Perils,less than 20000,0
 Chevrolet,Urban,Male,Married,55,Third Party,Sedan - Liability,30000 to 39000,0,400,2,more than 30,more than 4,more than 7,No,No,External,more than 5,no change,1 vehicle,51-65,60
 Mazda,Rural,Male,Married,46,Policy Holder,Sedan - All Perils,less than 20000,1,400,1,more than 30,2 to 4,7 years,No,No,External,more than 5,no change,1 vehicle,41-50,1
 Pontiac,Urban,Male,Married,50,Policy Holder,Sedan - Liability,30000 to 39000,0,400,4,more than 30,2 to 4,more than 7,No,No,External,none,no change,1 vehicle,51-65,6
-Honda,Rural,Male,Single,16,Policy Holder,Sedan - Liability,more than 69000,0,400,1,more than 30,2 to 4,new,Yes,No,External,none,no change,1 vehicle,0-17,61
+Honda,Rural,Male,Single,17,Policy Holder,Sedan - Liability,more than 69000,0,400,1,more than 30,2 to 4,new,Yes,No,External,none,no change,1 vehicle,0-17,61
 Toyota,Rural,Male,Married,21,Policy Holder,Sedan - Collision,20000 to 29000,0,400,3,more than 30,none,5 years,No,No,External,none,no change,1 vehicle,21-25,61
 Chevrolet,Urban,Male,Single,35,Policy Holder,Sedan - Liability,20000 to 29000,0,400,3,more than 30,2 to 4,7 years,No,No,External,more than 5,no change,1 vehicle,36-40,60
 Ford,Urban,Male,Married,51,Third Party,Sedan - All Perils,30000 to 39000,0,400,1,more than 30,2 to 4,more than 7,No,No,External,1 to 2,no change,1 vehicle,51-65,60
@@ -7632,7 +7632,7 @@ Honda,Urban,Female,Single,28,Policy Holder,Sedan - Collision,20000 to 29000,0,40
 Pontiac,Urban,Male,Married,53,Policy Holder,Sedan - Liability,20000 to 29000,0,400,4,more than 30,2 to 4,more than 7,No,No,External,1 to 2,no change,1 vehicle,51-65,60
 Toyota,Urban,Male,Married,38,Policy Holder,Sedan - All Perils,less than 20000,0,400,3,more than 30,1,7 years,No,No,External,none,no change,1 vehicle,36-40,10
 Toyota,Urban,Male,Married,45,Policy Holder,Sedan - All Perils,20000 to 29000,0,400,4,more than 30,none,7 years,No,No,External,none,no change,1 vehicle,41-50,63
-Honda,Urban,Male,Single,16,Policy Holder,Sedan - Liability,more than 69000,0,400,1,more than 30,2 to 4,new,No,No,External,none,no change,1 vehicle,0-17,60
+Honda,Urban,Male,Single,17,Policy Holder,Sedan - Liability,more than 69000,0,400,1,more than 30,2 to 4,new,No,No,External,none,no change,1 vehicle,0-17,60
 Chevrolet,Urban,Male,Married,35,Policy Holder,Utility - All Perils,more than 69000,0,400,2,more than 30,more than 4,6 years,No,No,External,more than 5,no change,1 vehicle,36-40,62
 Toyota,Urban,Male,Married,61,Policy Holder,Sedan - Collision,more than 69000,0,400,1,more than 30,1,more than 7,No,No,External,none,no change,1 vehicle,51-65,60
 Toyota,Urban,Male,Married,49,Third Party,Sedan - Collision,20000 to 29000,0,400,4,more than 30,none,more than 7,No,No,External,more than 5,no change,1 vehicle,41-50,60
@@ -7670,7 +7670,7 @@ Pontiac,Urban,Male,Married,38,Policy Holder,Sedan - Collision,20000 to 29000,0,4
 Chevrolet,Urban,Male,Single,24,Policy Holder,Sedan - Liability,20000 to 29000,0,400,2,more than 30,2 to 4,5 years,No,No,External,none,no change,1 vehicle,21-25,60
 Pontiac,Urban,Male,Married,46,Policy Holder,Sedan - All Perils,less than 20000,0,400,2,more than 30,1,7 years,No,No,External,none,no change,1 vehicle,41-50,60
 Pontiac,Urban,Male,Married,50,Third Party,Sedan - Collision,20000 to 29000,0,400,1,more than 30,1,more than 7,No,No,External,3 to 5,no change,1 vehicle,51-65,60
-Honda,Urban,Male,Single,17,Policy Holder,Sedan - Liability,more than 69000,0,400,2,more than 30,1,new,No,No,External,none,no change,1 vehicle,0-17,61
+Honda,Urban,Male,Single,16,Policy Holder,Sedan - Liability,more than 69000,0,400,2,more than 30,1,new,No,No,External,none,no change,1 vehicle,0-17,61
 Mazda,Urban,Male,Married,37,Policy Holder,Sedan - Collision,30000 to 39000,0,400,4,more than 30,1,7 years,No,No,External,none,no change,1 vehicle,36-40,61
 Chevrolet,Urban,Male,Married,57,Policy Holder,Utility - All Perils,more than 69000,0,400,3,more than 30,1,more than 7,No,No,External,3 to 5,no change,1 vehicle,51-65,61
 Chevrolet,Urban,Male,Married,35,Policy Holder,Sedan - Collision,30000 to 39000,0,400,4,more than 30,more than 4,5 years,No,No,External,3 to 5,no change,1 vehicle,36-40,60
@@ -7851,7 +7851,7 @@ Pontiac,Urban,Male,Married,65,Third Party,Sedan - Collision,20000 to 29000,0,400
 Toyota,Urban,Female,Married,33,Policy Holder,Sedan - Collision,30000 to 39000,0,400,1,more than 30,1,6 years,No,No,External,none,no change,1 vehicle,31-35,60
 Chevrolet,Urban,Male,Single,39,Policy Holder,Utility - All Perils,more than 69000,0,400,4,more than 30,2 to 4,7 years,No,No,External,3 to 5,no change,1 vehicle,36-40,3
 Chevrolet,Urban,Female,Married,52,Policy Holder,Sedan - Liability,20000 to 29000,0,400,3,more than 30,none,6 years,No,No,External,1 to 2,no change,1 vehicle,51-65,60
-Honda,Urban,Male,Single,16,Policy Holder,Sedan - Liability,more than 69000,0,400,4,more than 30,2 to 4,new,No,No,External,none,no change,1 vehicle,0-17,60
+Honda,Urban,Male,Single,17,Policy Holder,Sedan - Liability,more than 69000,0,400,4,more than 30,2 to 4,new,No,No,External,none,no change,1 vehicle,0-17,60
 Pontiac,Urban,Male,Married,56,Third Party,Sedan - Liability,20000 to 29000,0,500,2,more than 30,none,more than 7,No,No,External,none,2 to 3 years,2 vehicles,51-65,61
 Honda,Urban,Male,Married,45,Policy Holder,Sedan - Collision,20000 to 29000,0,400,3,more than 30,1,5 years,No,No,External,1 to 2,no change,1 vehicle,41-50,3
 Mazda,Urban,Female,Single,34,Policy Holder,Sedan - Liability,more than 69000,0,400,3,more than 30,2 to 4,5 years,No,No,External,1 to 2,no change,1 vehicle,31-35,60
@@ -7908,7 +7908,7 @@ Toyota,Urban,Male,Married,31,Third Party,Sedan - Collision,30000 to 39000,0,400,
 Honda,Urban,Male,Married,47,Policy Holder,Sedan - All Perils,20000 to 29000,0,400,1,more than 30,2 to 4,7 years,No,No,External,none,no change,1 vehicle,41-50,4
 Chevrolet,Urban,Male,Married,36,Policy Holder,Sedan - All Perils,more than 69000,0,400,2,more than 30,none,7 years,No,No,External,none,no change,1 vehicle,36-40,60
 Mazda,Urban,Male,Single,20,Third Party,Sedan - Collision,20000 to 29000,0,400,3,more than 30,2 to 4,4 years,No,No,External,none,no change,1 vehicle,21-25,8
-Honda,Urban,Male,Single,17,Policy Holder,Sedan - Liability,more than 69000,0,400,1,more than 30,2 to 4,new,No,No,External,none,no change,1 vehicle,0-17,60
+Honda,Urban,Male,Single,16,Policy Holder,Sedan - Liability,more than 69000,0,400,1,more than 30,2 to 4,new,No,No,External,none,no change,1 vehicle,0-17,60
 Toyota,Urban,Male,Married,38,Policy Holder,Sedan - Collision,20000 to 29000,0,400,4,more than 30,none,6 years,No,No,External,1 to 2,no change,1 vehicle,36-40,60
 Pontiac,Urban,Female,Married,26,Policy Holder,Sedan - Liability,less than 20000,0,400,4,more than 30,1,6 years,No,No,External,more than 5,no change,1 vehicle,26-30,2
 Chevrolet,Rural,Female,Married,33,Third Party,Sedan - All Perils,more than 69000,0,400,1,more than 30,1,7 years,No,No,External,more than 5,no change,3 to 4,31-35,60
@@ -8085,7 +8085,7 @@ Toyota,Urban,Male,Married,59,Third Party,Sedan - All Perils,20000 to 29000,0,400
 Accura,Urban,Male,Married,40,Policy Holder,Sedan - Liability,30000 to 39000,0,400,4,more than 30,more than 4,7 years,No,No,Internal,more than 5,no change,1 vehicle,41-50,60
 Honda,Urban,Male,Married,30,Policy Holder,Sedan - Collision,20000 to 29000,0,400,4,more than 30,2 to 4,6 years,No,No,External,none,4 to 8 years,2 vehicles,31-35,60
 Toyota,Urban,Male,Married,52,Policy Holder,Sedan - All Perils,20000 to 29000,0,400,1,more than 30,none,more than 7,No,No,External,none,no change,1 vehicle,51-65,7
-Honda,Urban,Male,Single,17,Policy Holder,Sedan - Liability,more than 69000,0,400,1,more than 30,more than 4,new,No,No,External,none,no change,1 vehicle,0-17,60
+Honda,Urban,Male,Single,16,Policy Holder,Sedan - Liability,more than 69000,0,400,1,more than 30,more than 4,new,No,No,External,none,no change,1 vehicle,0-17,60
 Pontiac,Urban,Male,Married,48,Policy Holder,Sedan - Collision,20000 to 29000,0,400,3,more than 30,2 to 4,7 years,No,No,External,none,no change,1 vehicle,41-50,5
 Saturn,Urban,Male,Married,37,Policy Holder,Sedan - All Perils,20000 to 29000,0,400,4,more than 30,1,7 years,No,No,External,none,no change,1 vehicle,36-40,61
 Mazda,Urban,Male,Married,29,Policy Holder,Sedan - All Perils,20000 to 29000,0,400,3,more than 30,none,7 years,No,No,External,none,no change,1 vehicle,26-30,60
@@ -8158,7 +8158,7 @@ Honda,Urban,Male,Married,59,Policy Holder,Sedan - Liability,30000 to 39000,0,400
 VW,Rural,Male,Married,48,Policy Holder,Sedan - Liability,more than 69000,0,400,4,more than 30,1,more than 7,No,No,External,none,no change,1 vehicle,41-50,61
 VW,Urban,Male,Married,35,Third Party,Sedan - Liability,40000 to 59000,0,400,4,more than 30,2 to 4,7 years,No,No,External,more than 5,no change,1 vehicle,36-40,60
 Saab,Rural,Male,Married,32,Third Party,Sedan - All Perils,30000 to 39000,0,400,3,more than 30,1,6 years,No,No,External,none,no change,3 to 4,31-35,60
-Honda,Urban,Male,Single,17,Policy Holder,Sedan - Collision,more than 69000,0,400,2,more than 30,none,new,No,No,External,none,2 to 3 years,1 vehicle,0-17,60
+Honda,Urban,Male,Single,16,Policy Holder,Sedan - Collision,more than 69000,0,400,2,more than 30,none,new,No,No,External,none,2 to 3 years,1 vehicle,0-17,60
 Pontiac,Urban,Male,Married,54,Policy Holder,Sedan - Collision,20000 to 29000,0,400,4,more than 30,2 to 4,more than 7,No,No,External,more than 5,no change,1 vehicle,51-65,60
 Ford,Rural,Male,Married,53,Third Party,Sedan - Collision,40000 to 59000,0,400,2,more than 30,more than 4,more than 7,No,No,External,3 to 5,no change,1 vehicle,51-65,60
 Mazda,Urban,Female,Single,32,Policy Holder,Sedan - Liability,20000 to 29000,0,400,3,more than 30,1,7 years,No,No,External,none,no change,1 vehicle,31-35,60
@@ -8222,7 +8222,7 @@ VW,Urban,Male,Single,32,Third Party,Sedan - Collision,30000 to 39000,0,400,4,mor
 Pontiac,Urban,Male,Married,41,Policy Holder,Sedan - Collision,less than 20000,0,400,3,none,none,7 years,No,No,External,none,no change,1 vehicle,41-50,61
 Accura,Urban,Male,Married,37,Third Party,Sedan - Collision,20000 to 29000,0,400,3,more than 30,1,7 years,No,No,External,3 to 5,no change,1 vehicle,36-40,60
 Pontiac,Urban,Male,Married,52,Third Party,Sedan - Collision,20000 to 29000,0,400,4,more than 30,2 to 4,7 years,No,No,External,none,no change,1 vehicle,51-65,60
-Honda,Urban,Male,Single,17,Policy Holder,Sedan - Liability,more than 69000,0,400,3,more than 30,2 to 4,new,No,No,External,none,no change,1 vehicle,0-17,62
+Honda,Urban,Male,Single,16,Policy Holder,Sedan - Liability,more than 69000,0,400,3,more than 30,2 to 4,new,No,No,External,none,no change,1 vehicle,0-17,62
 Pontiac,Urban,Male,Married,27,Third Party,Sedan - Collision,less than 20000,0,400,2,more than 30,none,6 years,No,No,External,more than 5,no change,1 vehicle,26-30,4
 Pontiac,Urban,Male,Married,37,Policy Holder,Sedan - Collision,20000 to 29000,0,400,4,more than 30,1,7 years,No,No,External,3 to 5,no change,1 vehicle,36-40,62
 Toyota,Urban,Male,Married,55,Policy Holder,Sedan - Liability,30000 to 39000,0,400,3,more than 30,more than 4,more than 7,No,No,External,none,no change,1 vehicle,51-65,60
@@ -8271,7 +8271,7 @@ Toyota,Urban,Male,Married,35,Policy Holder,Sedan - Collision,more than 69000,0,4
 Pontiac,Rural,Male,Married,64,Third Party,Sedan - Liability,40000 to 59000,0,400,3,more than 30,more than 4,more than 7,No,No,External,more than 5,no change,1 vehicle,51-65,60
 Chevrolet,Rural,Male,Single,56,Policy Holder,Utility - Collision,more than 69000,0,400,4,more than 30,2 to 4,more than 7,No,No,External,none,no change,1 vehicle,51-65,62
 Honda,Urban,Male,Married,27,Policy Holder,Sedan - All Perils,more than 69000,0,400,2,more than 30,1,7 years,No,No,External,3 to 5,no change,1 vehicle,26-30,60
-Honda,Urban,Male,Single,16,Policy Holder,Sedan - Collision,more than 69000,0,400,2,more than 30,more than 4,new,No,No,External,none,no change,1 vehicle,0-17,61
+Honda,Urban,Male,Single,17,Policy Holder,Sedan - Collision,more than 69000,0,400,2,more than 30,more than 4,new,No,No,External,none,no change,1 vehicle,0-17,61
 VW,Urban,Male,Married,34,Policy Holder,Sedan - Collision,40000 to 59000,0,400,2,more than 30,none,7 years,No,No,External,more than 5,4 to 8 years,2 vehicles,31-35,60
 Ford,Urban,Male,Married,39,Third Party,Sedan - All Perils,20000 to 29000,0,400,4,more than 30,2 to 4,7 years,No,No,External,none,no change,1 vehicle,36-40,60
 Honda,Urban,Male,Married,55,Policy Holder,Sedan - Collision,20000 to 29000,0,400,1,more than 30,1,more than 7,No,No,External,none,no change,1 vehicle,51-65,60
@@ -8465,7 +8465,7 @@ Chevrolet,Urban,Male,Single,33,Policy Holder,Sedan - Collision,20000 to 29000,0,
 Honda,Urban,Male,Married,42,Policy Holder,Sedan - All Perils,20000 to 29000,0,400,2,more than 30,none,6 years,No,No,External,more than 5,no change,1 vehicle,41-50,60
 Pontiac,Urban,Female,Married,30,Policy Holder,Sedan - All Perils,less than 20000,1,400,3,more than 30,1,6 years,No,No,External,more than 5,no change,1 vehicle,31-35,60
 Ford,Urban,Male,Married,56,Policy Holder,Sedan - Collision,40000 to 59000,0,500,2,more than 30,1,more than 7,No,No,External,3 to 5,2 to 3 years,1 vehicle,51-65,60
-Honda,Urban,Male,Single,16,Policy Holder,Sedan - Liability,more than 69000,0,400,4,more than 30,1,new,No,No,External,none,no change,1 vehicle,0-17,62
+Honda,Urban,Male,Single,17,Policy Holder,Sedan - Liability,more than 69000,0,400,4,more than 30,1,new,No,No,External,none,no change,1 vehicle,0-17,62
 Saab,Urban,Male,Married,53,Policy Holder,Sedan - Liability,30000 to 39000,0,400,3,more than 30,2 to 4,more than 7,No,No,External,more than 5,no change,1 vehicle,51-65,60
 Toyota,Urban,Male,Single,28,Policy Holder,Sedan - Collision,20000 to 29000,0,400,1,more than 30,none,5 years,No,No,External,none,no change,1 vehicle,26-30,2
 Accura,Urban,Male,Married,31,Third Party,Sedan - Liability,more than 69000,0,400,1,more than 30,more than 4,7 years,No,No,External,3 to 5,no change,1 vehicle,31-35,62
@@ -8697,7 +8697,7 @@ Mazda,Rural,Male,Married,49,Policy Holder,Sedan - Liability,20000 to 29000,0,400
 Chevrolet,Urban,Male,Married,31,Policy Holder,Utility - Liability,more than 69000,0,400,1,more than 30,2 to 4,7 years,No,No,External,3 to 5,no change,1 vehicle,31-35,6
 Honda,Urban,Male,Married,80,Policy Holder,Sedan - All Perils,less than 20000,0,400,4,more than 30,none,more than 7,No,No,External,1 to 2,no change,1 vehicle,65+,4
 Pontiac,Urban,Male,Married,47,Third Party,Sedan - Collision,30000 to 39000,0,400,1,more than 30,none,more than 7,No,No,External,more than 5,no change,1 vehicle,41-50,4
-Honda,Rural,Male,Single,16,Policy Holder,Sedan - Collision,more than 69000,0,400,2,more than 30,none,new,No,No,External,none,no change,1 vehicle,0-17,3
+Honda,Rural,Male,Single,17,Policy Holder,Sedan - Collision,more than 69000,0,400,2,more than 30,none,new,No,No,External,none,no change,1 vehicle,0-17,3
 Honda,Urban,Male,Single,17,Policy Holder,Sedan - Collision,more than 69000,0,400,2,more than 30,1,new,No,No,External,none,no change,1 vehicle,0-17,2
 Mazda,Urban,Male,Married,27,Third Party,Sedan - All Perils,more than 69000,0,400,2,more than 30,2 to 4,5 years,No,No,External,3 to 5,no change,1 vehicle,26-30,1
 Pontiac,Urban,Male,Married,34,Policy Holder,Sedan - All Perils,20000 to 29000,1,400,1,more than 30,none,7 years,No,No,External,none,no change,1 vehicle,31-35,3
@@ -8730,7 +8730,7 @@ Chevrolet,Urban,Male,Married,45,Policy Holder,Sedan - Collision,20000 to 29000,0
 Accura,Urban,Male,Married,72,Policy Holder,Utility - All Perils,more than 69000,0,400,4,more than 30,none,7 years,No,No,External,3 to 5,no change,1 vehicle,65+,2
 Honda,Urban,Male,Married,64,Policy Holder,Sedan - Collision,20000 to 29000,0,400,4,more than 30,2 to 4,more than 7,No,No,External,none,no change,1 vehicle,51-65,1
 Mazda,Urban,Male,Married,51,Policy Holder,Sedan - Collision,30000 to 39000,0,400,4,more than 30,none,7 years,No,No,External,1 to 2,no change,1 vehicle,51-65,61
-Honda,Urban,Male,Single,16,Policy Holder,Sedan - Liability,more than 69000,0,400,1,more than 30,2 to 4,new,No,No,External,none,no change,1 vehicle,0-17,61
+Honda,Urban,Male,Single,17,Policy Holder,Sedan - Liability,more than 69000,0,400,1,more than 30,2 to 4,new,No,No,External,none,no change,1 vehicle,0-17,61
 Toyota,Urban,Male,Married,44,Policy Holder,Sedan - All Perils,more than 69000,0,400,1,more than 30,1,7 years,No,No,External,none,no change,5 to 8,41-50,60
 Toyota,Rural,Female,Married,31,Third Party,Sedan - Collision,20000 to 29000,0,400,2,more than 30,none,6 years,No,No,External,none,no change,1 vehicle,31-35,60
 Mazda,Urban,Male,Married,29,Third Party,Sedan - All Perils,30000 to 39000,0,400,1,more than 30,more than 4,6 years,No,No,External,more than 5,no change,1 vehicle,26-30,3
@@ -8800,7 +8800,7 @@ Pontiac,Urban,Male,Single,29,Policy Holder,Sedan - Liability,20000 to 29000,0,40
 Toyota,Urban,Male,Married,28,Third Party,Sedan - Liability,20000 to 29000,0,400,1,more than 30,2 to 4,7 years,No,No,External,none,4 to 8 years,2 vehicles,26-30,60
 Mercury,Urban,Male,Married,30,Policy Holder,Sedan - All Perils,more than 69000,0,400,4,more than 30,none,7 years,No,No,External,1 to 2,no change,1 vehicle,31-35,60
 Mazda,Urban,Female,Single,54,Policy Holder,Sedan - Collision,20000 to 29000,0,400,2,more than 30,more than 4,more than 7,No,No,External,none,no change,1 vehicle,51-65,60
-Honda,Urban,Male,Single,17,Policy Holder,Sedan - Liability,more than 69000,0,400,1,more than 30,2 to 4,new,No,No,External,none,no change,1 vehicle,0-17,60
+Honda,Urban,Male,Single,16,Policy Holder,Sedan - Liability,more than 69000,0,400,1,more than 30,2 to 4,new,No,No,External,none,no change,1 vehicle,0-17,60
 Pontiac,Urban,Female,Single,33,Third Party,Sedan - Liability,20000 to 29000,0,400,4,more than 30,none,6 years,No,No,External,none,no change,1 vehicle,31-35,62
 Pontiac,Rural,Male,Married,48,Policy Holder,Sedan - Collision,20000 to 29000,0,700,2,more than 30,none,7 years,No,No,External,none,no change,1 vehicle,41-50,22
 Mazda,Urban,Male,Single,41,Policy Holder,Sedan - Liability,20000 to 29000,0,400,2,more than 30,2 to 4,5 years,No,No,External,none,no change,1 vehicle,41-50,6
@@ -8890,7 +8890,7 @@ Pontiac,Urban,Male,Married,26,Policy Holder,Sedan - Collision,20000 to 29000,0,4
 VW,Rural,Male,Single,26,Third Party,Sedan - Liability,40000 to 59000,0,400,1,more than 30,2 to 4,7 years,No,No,External,more than 5,no change,1 vehicle,26-30,60
 Pontiac,Urban,Male,Married,46,Third Party,Sedan - Collision,30000 to 39000,0,400,3,more than 30,2 to 4,7 years,No,No,External,none,no change,1 vehicle,41-50,61
 Honda,Rural,Male,Married,36,Policy Holder,Sedan - Liability,20000 to 29000,0,400,4,more than 30,1,7 years,No,No,External,more than 5,no change,1 vehicle,36-40,60
-Honda,Rural,Male,Single,16,Policy Holder,Sedan - Liability,more than 69000,0,400,1,more than 30,none,new,No,No,External,none,no change,1 vehicle,0-17,60
+Honda,Rural,Male,Single,17,Policy Holder,Sedan - Liability,more than 69000,0,400,1,more than 30,none,new,No,No,External,none,no change,1 vehicle,0-17,60
 Pontiac,Urban,Male,Married,33,Policy Holder,Sedan - Collision,30000 to 39000,0,400,1,more than 30,2 to 4,6 years,No,No,External,more than 5,no change,1 vehicle,31-35,2
 Saab,Urban,Male,Married,57,Third Party,Sedan - Collision,more than 69000,0,400,3,more than 30,more than 4,more than 7,No,No,External,1 to 2,no change,1 vehicle,51-65,60
 Ford,Urban,Male,Married,79,Policy Holder,Sedan - All Perils,40000 to 59000,0,400,2,more than 30,none,more than 7,No,No,External,3 to 5,no change,1 vehicle,65+,60
@@ -8915,7 +8915,7 @@ Mazda,Urban,Female,Single,35,Third Party,Sedan - Collision,30000 to 39000,0,400,
 Honda,Urban,Male,Single,17,Policy Holder,Sedan - Liability,more than 69000,0,400,3,more than 30,more than 4,new,No,No,External,none,no change,1 vehicle,0-17,60
 VW,Urban,Male,Married,42,Policy Holder,Sedan - Liability,30000 to 39000,0,400,4,more than 30,more than 4,7 years,No,No,External,more than 5,no change,1 vehicle,41-50,61
 Mazda,Urban,Male,Married,26,Policy Holder,Sedan - Collision,30000 to 39000,0,400,1,more than 30,none,6 years,No,No,External,none,no change,1 vehicle,26-30,62
-Honda,Urban,Male,Single,16,Policy Holder,Sedan - Liability,more than 69000,0,400,1,more than 30,2 to 4,new,No,No,External,none,no change,1 vehicle,0-17,4
+Honda,Urban,Male,Single,17,Policy Holder,Sedan - Liability,more than 69000,0,400,1,more than 30,2 to 4,new,No,No,External,none,no change,1 vehicle,0-17,4
 Pontiac,Urban,Male,Married,28,Third Party,Sedan - Collision,20000 to 29000,0,400,3,more than 30,none,6 years,No,No,External,none,1 year,1 vehicle,26-30,61
 Pontiac,Urban,Male,Married,27,Policy Holder,Sedan - Liability,20000 to 29000,0,400,4,more than 30,2 to 4,6 years,No,No,Internal,3 to 5,no change,1 vehicle,26-30,60
 Pontiac,Rural,Male,Married,26,Policy Holder,Sedan - Collision,30000 to 39000,0,400,4,more than 30,none,7 years,No,No,External,more than 5,no change,1 vehicle,26-30,60
@@ -9067,7 +9067,7 @@ Pontiac,Urban,Male,Single,40,Policy Holder,Sedan - Liability,less than 20000,0,4
 Pontiac,Urban,Male,Married,34,Third Party,Sedan - Collision,20000 to 29000,0,400,3,more than 30,1,6 years,No,No,External,1 to 2,no change,1 vehicle,31-35,61
 Honda,Urban,Female,Married,35,Policy Holder,Sedan - All Perils,20000 to 29000,0,400,2,more than 30,none,5 years,No,No,External,more than 5,no change,1 vehicle,36-40,60
 Chevrolet,Urban,Male,Married,32,Third Party,Sedan - Collision,30000 to 39000,0,400,4,more than 30,1,6 years,No,No,External,more than 5,no change,1 vehicle,31-35,61
-Honda,Urban,Male,Single,16,Policy Holder,Sedan - Liability,more than 69000,0,400,1,more than 30,2 to 4,new,No,No,External,none,no change,1 vehicle,0-17,62
+Honda,Urban,Male,Single,17,Policy Holder,Sedan - Liability,more than 69000,0,400,1,more than 30,2 to 4,new,No,No,External,none,no change,1 vehicle,0-17,62
 Toyota,Urban,Male,Single,47,Policy Holder,Sedan - Collision,20000 to 29000,1,400,1,more than 30,none,more than 7,No,No,External,none,no change,1 vehicle,41-50,61
 Toyota,Urban,Male,Married,42,Policy Holder,Sedan - Collision,20000 to 29000,0,400,1,more than 30,none,7 years,No,No,External,more than 5,no change,1 vehicle,41-50,8
 Honda,Urban,Male,Married,32,Policy Holder,Sedan - Collision,20000 to 29000,0,400,4,more than 30,2 to 4,6 years,No,No,External,none,4 to 8 years,2 vehicles,31-35,61
@@ -9303,7 +9303,7 @@ Honda,Urban,Male,Widow,37,Third Party,Sedan - Collision,20000 to 29000,0,400,1,m
 Mazda,Urban,Male,Married,30,Policy Holder,Sedan - Collision,20000 to 29000,0,400,3,more than 30,none,7 years,No,No,External,1 to 2,no change,1 vehicle,31-35,61
 Mazda,Urban,Female,Single,29,Third Party,Sedan - Collision,20000 to 29000,0,400,1,more than 30,none,6 years,No,No,External,none,4 to 8 years,2 vehicles,26-30,60
 Ford,Urban,Male,Married,58,Policy Holder,Sedan - Liability,60000 to 69000,0,400,3,more than 30,2 to 4,more than 7,No,No,External,more than 5,no change,1 vehicle,51-65,60
-Honda,Urban,Male,Single,16,Policy Holder,Sedan - Liability,more than 69000,0,400,4,more than 30,2 to 4,new,No,No,External,none,no change,1 vehicle,0-17,60
+Honda,Urban,Male,Single,17,Policy Holder,Sedan - Liability,more than 69000,0,400,4,more than 30,2 to 4,new,No,No,External,none,no change,1 vehicle,0-17,60
 Pontiac,Urban,Male,Married,28,Policy Holder,Sedan - Liability,20000 to 29000,0,400,3,more than 30,more than 4,6 years,No,No,External,3 to 5,no change,1 vehicle,26-30,60
 Toyota,Urban,Male,Married,41,Policy Holder,Sedan - Collision,20000 to 29000,0,400,3,more than 30,1,more than 7,No,No,External,more than 5,no change,3 to 4,41-50,2
 Mazda,Urban,Male,Married,35,Policy Holder,Sedan - All Perils,20000 to 29000,1,400,2,more than 30,2 to 4,6 years,No,No,External,none,no change,1 vehicle,36-40,60
@@ -9459,7 +9459,7 @@ Honda,Urban,Male,Married,29,Policy Holder,Sedan - All Perils,20000 to 29000,0,40
 Honda,Urban,Female,Single,33,Policy Holder,Sedan - Liability,20000 to 29000,0,400,2,more than 30,2 to 4,5 years,No,No,External,more than 5,no change,1 vehicle,31-35,60
 Accura,Rural,Male,Married,55,Third Party,Sedan - Liability,more than 69000,0,400,4,more than 30,2 to 4,more than 7,No,No,External,more than 5,no change,1 vehicle,51-65,60
 Chevrolet,Rural,Male,Married,29,Policy Holder,Sedan - Collision,30000 to 39000,1,400,1,more than 30,1,7 years,No,No,External,none,no change,1 vehicle,26-30,7
-Honda,Urban,Male,Single,17,Policy Holder,Sedan - Liability,more than 69000,0,400,3,more than 30,2 to 4,new,No,No,External,none,no change,1 vehicle,0-17,60
+Honda,Urban,Male,Single,16,Policy Holder,Sedan - Liability,more than 69000,0,400,3,more than 30,2 to 4,new,No,No,External,none,no change,1 vehicle,0-17,60
 Honda,Urban,Male,Married,71,Policy Holder,Sedan - Liability,30000 to 39000,0,400,3,more than 30,2 to 4,more than 7,No,No,External,none,no change,1 vehicle,65+,3
 Pontiac,Urban,Male,Married,47,Third Party,Sedan - All Perils,20000 to 29000,0,400,3,more than 30,more than 4,more than 7,No,No,External,none,no change,1 vehicle,41-50,2
 Pontiac,Urban,Male,Married,63,Policy Holder,Sedan - Collision,30000 to 39000,0,400,3,more than 30,none,more than 7,No,No,External,none,1 year,1 vehicle,51-65,3
@@ -9538,7 +9538,7 @@ Pontiac,Urban,Male,Single,33,Policy Holder,Sedan - Liability,20000 to 29000,0,40
 Mazda,Urban,Male,Married,47,Policy Holder,Sedan - Liability,20000 to 29000,0,500,2,more than 30,more than 4,more than 7,No,No,External,none,2 to 3 years,1 vehicle,41-50,1
 Pontiac,Urban,Male,Single,35,Policy Holder,Sedan - Liability,30000 to 39000,0,400,2,more than 30,2 to 4,6 years,No,No,Internal,none,no change,1 vehicle,36-40,6
 Accura,Urban,Male,Single,48,Policy Holder,Sedan - Liability,20000 to 29000,0,400,3,more than 30,1,7 years,No,No,External,none,no change,1 vehicle,41-50,62
-Honda,Urban,Male,Single,16,Policy Holder,Utility - All Perils,more than 69000,0,400,3,more than 30,2 to 4,new,No,No,External,none,no change,1 vehicle,0-17,20
+Honda,Urban,Male,Single,17,Policy Holder,Utility - All Perils,more than 69000,0,400,3,more than 30,2 to 4,new,No,No,External,none,no change,1 vehicle,0-17,20
 Pontiac,Urban,Male,Married,40,Policy Holder,Sedan - Liability,30000 to 39000,0,400,4,more than 30,1,more than 7,No,No,External,more than 5,no change,1 vehicle,41-50,1
 Pontiac,Urban,Female,Single,31,Policy Holder,Sedan - Liability,20000 to 29000,0,400,4,more than 30,2 to 4,5 years,No,No,External,1 to 2,no change,1 vehicle,31-35,61
 Ford,Urban,Male,Married,42,Policy Holder,Sedan - All Perils,less than 20000,0,400,3,more than 30,2 to 4,7 years,No,No,External,more than 5,no change,1 vehicle,41-50,13
@@ -9551,14 +9551,14 @@ Pontiac,Urban,Female,Married,39,Policy Holder,Sedan - Collision,20000 to 29000,0
 Mercury,Urban,Male,Married,29,Policy Holder,Sedan - Liability,20000 to 29000,0,400,3,more than 30,more than 4,7 years,No,No,External,more than 5,no change,1 vehicle,26-30,11
 Honda,Urban,Male,Married,54,Policy Holder,Sedan - Liability,30000 to 39000,0,400,3,more than 30,2 to 4,7 years,No,No,External,more than 5,no change,1 vehicle,51-65,60
 Toyota,Urban,Female,Married,41,Policy Holder,Sedan - Collision,20000 to 29000,0,400,4,more than 30,2 to 4,7 years,No,No,External,3 to 5,no change,1 vehicle,41-50,61
-Honda,Urban,Male,Single,17,Policy Holder,Sport - All Perils,more than 69000,0,400,4,more than 30,none,new,Yes,No,External,none,no change,1 vehicle,0-17,58
+Honda,Urban,Male,Single,16,Policy Holder,Sport - All Perils,more than 69000,0,400,4,more than 30,none,new,Yes,No,External,none,no change,1 vehicle,0-17,58
 Toyota,Urban,Male,Married,45,Policy Holder,Sedan - Liability,20000 to 29000,0,400,2,more than 30,2 to 4,7 years,No,No,External,1 to 2,no change,1 vehicle,41-50,60
 Toyota,Urban,Male,Married,80,Policy Holder,Sedan - All Perils,less than 20000,0,400,2,more than 30,1,more than 7,No,No,External,none,1 year,2 vehicles,65+,60
 Honda,Urban,Male,Married,42,Policy Holder,Sedan - Liability,30000 to 39000,0,400,2,more than 30,1,7 years,No,No,External,none,no change,1 vehicle,41-50,19
 Honda,Urban,Male,Married,51,Third Party,Sedan - All Perils,20000 to 29000,0,400,1,more than 30,2 to 4,more than 7,No,No,External,none,no change,1 vehicle,51-65,60
 Toyota,Urban,Male,Married,33,Policy Holder,Sedan - Collision,20000 to 29000,0,400,2,more than 30,none,7 years,No,No,External,more than 5,no change,1 vehicle,31-35,61
 Toyota,Urban,Female,Married,59,Policy Holder,Sedan - Liability,20000 to 29000,0,400,1,more than 30,1,more than 7,No,No,External,none,no change,1 vehicle,51-65,60
-Honda,Urban,Male,Single,17,Policy Holder,Sedan - Liability,more than 69000,0,400,2,more than 30,more than 4,new,No,No,External,none,no change,1 vehicle,0-17,61
+Honda,Urban,Male,Single,16,Policy Holder,Sedan - Liability,more than 69000,0,400,2,more than 30,more than 4,new,No,No,External,none,no change,1 vehicle,0-17,61
 Chevrolet,Urban,Female,Married,37,Third Party,Sedan - All Perils,20000 to 29000,0,400,1,more than 30,none,6 years,No,No,External,none,no change,1 vehicle,36-40,3
 Toyota,Urban,Male,Married,65,Policy Holder,Sedan - All Perils,20000 to 29000,1,400,4,more than 30,more than 4,more than 7,No,No,External,more than 5,no change,1 vehicle,65+,60
 Chevrolet,Rural,Male,Single,28,Policy Holder,Sedan - Collision,20000 to 29000,0,400,1,more than 30,none,5 years,No,No,External,none,no change,1 vehicle,26-30,61
@@ -9760,7 +9760,7 @@ Accura,Rural,Male,Married,30,Policy Holder,Sedan - Liability,30000 to 39000,0,40
 Honda,Urban,Male,Married,32,Policy Holder,Sedan - Liability,more than 69000,0,400,2,more than 30,2 to 4,6 years,No,No,External,1 to 2,no change,1 vehicle,31-35,61
 Toyota,Urban,Male,Single,52,Policy Holder,Sedan - All Perils,20000 to 29000,0,400,1,more than 30,none,more than 7,No,No,External,more than 5,no change,1 vehicle,51-65,60
 Chevrolet,Urban,Male,Married,56,Third Party,Sedan - Collision,20000 to 29000,0,400,1,more than 30,2 to 4,more than 7,No,No,External,1 to 2,no change,1 vehicle,51-65,31
-Honda,Urban,Male,Single,16,Policy Holder,Sedan - Liability,more than 69000,0,400,3,more than 30,none,new,No,No,External,none,no change,1 vehicle,0-17,61
+Honda,Urban,Male,Single,17,Policy Holder,Sedan - Liability,more than 69000,0,400,3,more than 30,none,new,No,No,External,none,no change,1 vehicle,0-17,61
 Toyota,Urban,Male,Married,35,Policy Holder,Sedan - Liability,30000 to 39000,0,400,1,more than 30,2 to 4,6 years,No,No,External,none,no change,1 vehicle,36-40,60
 Honda,Urban,Male,Married,43,Third Party,Sedan - Liability,20000 to 29000,0,400,1,more than 30,2 to 4,7 years,No,No,External,3 to 5,no change,1 vehicle,41-50,60
 Honda,Urban,Male,Married,49,Policy Holder,Sedan - Collision,20000 to 29000,0,700,1,more than 30,1,7 years,No,No,External,none,4 to 8 years,2 vehicles,41-50,60
@@ -9790,7 +9790,7 @@ Toyota,Urban,Male,Single,21,Policy Holder,Sedan - All Perils,less than 20000,0,4
 VW,Urban,Male,Single,40,Third Party,Sedan - All Perils,30000 to 39000,0,400,4,more than 30,1,7 years,No,No,External,more than 5,no change,1 vehicle,41-50,3
 Chevrolet,Urban,Male,Married,26,Policy Holder,Sedan - Collision,30000 to 39000,0,400,2,more than 30,1,7 years,No,No,External,none,no change,1 vehicle,26-30,60
 Accura,Urban,Male,Married,55,Policy Holder,Sedan - Collision,20000 to 29000,0,400,2,more than 30,2 to 4,6 years,No,No,External,1 to 2,no change,1 vehicle,51-65,4
-Honda,Urban,Male,Single,17,Policy Holder,Sedan - Liability,more than 69000,0,400,2,more than 30,2 to 4,new,No,No,External,none,2 to 3 years,1 vehicle,0-17,60
+Honda,Urban,Male,Single,16,Policy Holder,Sedan - Liability,more than 69000,0,400,2,more than 30,2 to 4,new,No,No,External,none,2 to 3 years,1 vehicle,0-17,60
 Pontiac,Urban,Male,Married,45,Policy Holder,Sedan - Liability,20000 to 29000,0,400,4,more than 30,more than 4,7 years,No,No,External,1 to 2,no change,1 vehicle,41-50,3
 Pontiac,Urban,Male,Married,30,Policy Holder,Sedan - Liability,20000 to 29000,0,400,4,more than 30,1,5 years,Yes,No,External,1 to 2,no change,1 vehicle,31-35,60
 Toyota,Urban,Female,Married,42,Third Party,Sedan - Collision,less than 20000,0,400,2,more than 30,none,7 years,No,No,External,3 to 5,no change,1 vehicle,41-50,60
@@ -10114,7 +10114,7 @@ Pontiac,Urban,Male,Single,51,Policy Holder,Utility - All Perils,more than 69000,
 Nisson,Urban,Male,Married,56,Policy Holder,Sedan - Collision,40000 to 59000,0,400,1,8 to 15,none,more than 7,No,No,External,none,no change,1 vehicle,51-65,61
 Toyota,Urban,Male,Married,58,Policy Holder,Sedan - Liability,20000 to 29000,0,400,4,more than 30,2 to 4,7 years,No,No,External,none,no change,1 vehicle,51-65,60
 Pontiac,Urban,Male,Single,31,Policy Holder,Sedan - Liability,20000 to 29000,0,400,4,more than 30,more than 4,5 years,No,No,External,more than 5,no change,1 vehicle,31-35,60
-Honda,Urban,Male,Single,16,Policy Holder,Utility - All Perils,more than 69000,1,400,1,more than 30,none,new,No,No,External,none,no change,1 vehicle,0-17,60
+Honda,Urban,Male,Single,17,Policy Holder,Utility - All Perils,more than 69000,1,400,1,more than 30,none,new,No,No,External,none,no change,1 vehicle,0-17,60
 Pontiac,Urban,Male,Single,27,Third Party,Sedan - Liability,30000 to 39000,0,400,1,more than 30,1,6 years,No,No,External,more than 5,no change,1 vehicle,26-30,63
 Toyota,Urban,Male,Married,42,Policy Holder,Sedan - All Perils,20000 to 29000,0,400,2,more than 30,none,7 years,Yes,No,External,none,no change,1 vehicle,41-50,27
 Honda,Urban,Male,Married,49,Policy Holder,Sedan - Liability,20000 to 29000,0,400,3,more than 30,2 to 4,more than 7,No,No,External,none,no change,1 vehicle,41-50,60
@@ -10274,7 +10274,7 @@ Pontiac,Urban,Male,Single,28,Policy Holder,Sedan - Collision,30000 to 39000,0,40
 Pontiac,Urban,Male,Married,27,Policy Holder,Sedan - Collision,20000 to 29000,0,400,4,more than 30,none,5 years,No,No,External,1 to 2,no change,1 vehicle,26-30,60
 Pontiac,Urban,Male,Married,49,Third Party,Sedan - All Perils,20000 to 29000,0,400,2,more than 30,1,more than 7,No,No,External,more than 5,no change,1 vehicle,41-50,62
 Chevrolet,Urban,Male,Married,55,Third Party,Sedan - Liability,40000 to 59000,0,400,1,more than 30,none,6 years,No,No,External,more than 5,no change,1 vehicle,51-65,60
-Honda,Rural,Male,Single,16,Policy Holder,Sedan - Liability,more than 69000,0,400,3,more than 30,1,new,No,No,External,none,no change,1 vehicle,0-17,62
+Honda,Rural,Male,Single,17,Policy Holder,Sedan - Liability,more than 69000,0,400,3,more than 30,1,new,No,No,External,none,no change,1 vehicle,0-17,62
 Toyota,Urban,Female,Single,29,Third Party,Sedan - Collision,20000 to 29000,0,400,2,more than 30,1,6 years,No,No,External,none,no change,1 vehicle,26-30,15
 Pontiac,Urban,Male,Single,31,Third Party,Sedan - Collision,20000 to 29000,0,400,3,more than 30,none,6 years,No,No,External,3 to 5,no change,1 vehicle,31-35,60
 Ford,Urban,Male,Married,64,Policy Holder,Sedan - All Perils,60000 to 69000,0,400,3,more than 30,none,more than 7,No,No,External,none,no change,1 vehicle,51-65,60
@@ -10302,9 +10302,9 @@ Pontiac,Urban,Male,Married,46,Policy Holder,Sedan - All Perils,20000 to 29000,0,
 Saab,Urban,Male,Married,32,Policy Holder,Sedan - Liability,20000 to 29000,0,400,4,more than 30,1,7 years,No,No,External,1 to 2,no change,1 vehicle,31-35,60
 Pontiac,Urban,Male,Married,64,Policy Holder,Sedan - Liability,30000 to 39000,0,500,3,more than 30,2 to 4,7 years,No,No,External,none,2 to 3 years,1 vehicle,51-65,61
 Pontiac,Urban,Male,Married,34,Policy Holder,Sedan - Collision,20000 to 29000,0,400,2,more than 30,1,6 years,No,No,External,1 to 2,no change,1 vehicle,31-35,60
-Honda,Urban,Male,Single,17,Policy Holder,Sedan - Liability,more than 69000,0,400,3,more than 30,1,new,No,No,External,none,no change,1 vehicle,0-17,60
+Honda,Urban,Male,Single,16,Policy Holder,Sedan - Liability,more than 69000,0,400,3,more than 30,1,new,No,No,External,none,no change,1 vehicle,0-17,60
 Pontiac,Urban,Male,Single,30,Policy Holder,Sedan - All Perils,less than 20000,0,400,2,more than 30,none,7 years,No,Yes,External,none,no change,1 vehicle,31-35,61
-Honda,Rural,Male,Single,16,Policy Holder,Sedan - All Perils,more than 69000,0,400,2,more than 30,1,new,No,No,External,none,no change,1 vehicle,0-17,34
+Honda,Rural,Male,Single,17,Policy Holder,Sedan - All Perils,more than 69000,0,400,2,more than 30,1,new,No,No,External,none,no change,1 vehicle,0-17,34
 Toyota,Urban,Female,Single,26,Policy Holder,Sedan - Collision,20000 to 29000,0,400,2,more than 30,1,5 years,No,No,External,none,no change,1 vehicle,26-30,60
 Chevrolet,Urban,Male,Married,41,Policy Holder,Sedan - Liability,20000 to 29000,0,400,4,more than 30,more than 4,7 years,No,No,External,none,no change,1 vehicle,41-50,60
 Toyota,Urban,Male,Married,65,Policy Holder,Sedan - All Perils,20000 to 29000,0,400,1,more than 30,none,more than 7,No,No,External,none,no change,1 vehicle,65+,61
@@ -10391,7 +10391,7 @@ Honda,Urban,Male,Married,52,Policy Holder,Sedan - Liability,20000 to 29000,0,400
 Toyota,Urban,Male,Single,27,Policy Holder,Sedan - Liability,30000 to 39000,0,400,2,more than 30,1,7 years,No,No,External,more than 5,no change,1 vehicle,26-30,60
 Honda,Urban,Male,Married,48,Policy Holder,Sedan - Collision,20000 to 29000,0,400,1,more than 30,2 to 4,more than 7,No,No,External,more than 5,no change,1 vehicle,41-50,60
 Mazda,Rural,Male,Single,30,Policy Holder,Sedan - Collision,20000 to 29000,1,400,3,more than 30,2 to 4,7 years,No,No,External,none,no change,1 vehicle,31-35,2
-Honda,Urban,Male,Single,16,Policy Holder,Sedan - Collision,more than 69000,0,400,3,more than 30,none,new,No,No,External,none,no change,1 vehicle,0-17,61
+Honda,Urban,Male,Single,17,Policy Holder,Sedan - Collision,more than 69000,0,400,3,more than 30,none,new,No,No,External,none,no change,1 vehicle,0-17,61
 Pontiac,Urban,Male,Single,35,Policy Holder,Sedan - Collision,20000 to 29000,0,400,3,more than 30,1,5 years,No,No,External,none,no change,1 vehicle,36-40,60
 Mazda,Urban,Male,Married,44,Policy Holder,Sedan - Collision,30000 to 39000,0,400,1,more than 30,2 to 4,7 years,No,No,External,3 to 5,4 to 8 years,2 vehicles,41-50,60
 Honda,Urban,Male,Married,33,Third Party,Sedan - Liability,20000 to 29000,0,400,1,more than 30,1,7 years,No,No,External,none,no change,1 vehicle,31-35,61
@@ -10483,7 +10483,7 @@ Toyota,Urban,Female,Single,33,Policy Holder,Sedan - All Perils,20000 to 29000,0,
 Honda,Urban,Male,Single,26,Policy Holder,Sedan - Collision,20000 to 29000,0,400,3,more than 30,1,6 years,No,No,External,none,no change,1 vehicle,26-30,62
 Pontiac,Urban,Female,Single,34,Policy Holder,Sedan - All Perils,20000 to 29000,0,400,1,more than 30,1,6 years,No,No,External,3 to 5,no change,1 vehicle,31-35,61
 Mazda,Rural,Male,Single,32,Policy Holder,Sedan - Liability,30000 to 39000,0,400,3,more than 30,2 to 4,7 years,No,No,External,none,no change,1 vehicle,31-35,61
-Honda,Urban,Male,Single,16,Policy Holder,Sedan - Collision,more than 69000,0,400,3,more than 30,2 to 4,new,No,No,External,none,no change,1 vehicle,0-17,61
+Honda,Urban,Male,Single,17,Policy Holder,Sedan - Collision,more than 69000,0,400,3,more than 30,2 to 4,new,No,No,External,none,no change,1 vehicle,0-17,61
 Accura,Rural,Male,Married,34,Policy Holder,Sedan - Collision,20000 to 29000,0,400,3,more than 30,2 to 4,6 years,No,No,External,none,no change,1 vehicle,31-35,62
 Pontiac,Urban,Male,Married,47,Third Party,Sedan - All Perils,30000 to 39000,0,400,4,more than 30,none,more than 7,No,No,External,none,no change,1 vehicle,41-50,60
 Mazda,Urban,Male,Married,39,Policy Holder,Sedan - Collision,20000 to 29000,0,400,2,more than 30,2 to 4,7 years,No,No,External,none,no change,1 vehicle,36-40,60
@@ -10589,7 +10589,7 @@ Toyota,Urban,Male,Married,34,Policy Holder,Sedan - Collision,30000 to 39000,0,40
 Mercury,Urban,Male,Married,37,Policy Holder,Sedan - All Perils,20000 to 29000,0,400,2,more than 30,none,7 years,No,No,External,more than 5,no change,1 vehicle,36-40,60
 Accura,Rural,Male,Married,43,Policy Holder,Sedan - Liability,30000 to 39000,0,400,2,more than 30,more than 4,7 years,No,No,External,3 to 5,no change,1 vehicle,41-50,60
 Honda,Urban,Male,Single,34,Third Party,Sedan - Collision,20000 to 29000,0,400,2,more than 30,2 to 4,6 years,No,No,External,more than 5,no change,1 vehicle,31-35,61
-Honda,Urban,Male,Single,17,Policy Holder,Sedan - Liability,more than 69000,0,400,3,more than 30,2 to 4,new,No,No,External,none,no change,1 vehicle,0-17,4
+Honda,Urban,Male,Single,16,Policy Holder,Sedan - Liability,more than 69000,0,400,3,more than 30,2 to 4,new,No,No,External,none,no change,1 vehicle,0-17,4
 Chevrolet,Urban,Female,Married,71,Policy Holder,Sedan - Liability,20000 to 29000,0,400,4,more than 30,2 to 4,more than 7,No,No,External,more than 5,no change,1 vehicle,65+,61
 Honda,Urban,Male,Married,29,Policy Holder,Sedan - Collision,20000 to 29000,0,400,3,more than 30,2 to 4,7 years,No,No,External,more than 5,no change,1 vehicle,26-30,61
 Toyota,Rural,Male,Married,43,Policy Holder,Sedan - Liability,20000 to 29000,0,400,3,more than 30,none,6 years,No,No,External,none,no change,1 vehicle,41-50,60
@@ -10750,7 +10750,7 @@ Toyota,Urban,Male,Married,39,Policy Holder,Sedan - Collision,20000 to 29000,1,40
 Toyota,Rural,Female,Married,43,Policy Holder,Sedan - All Perils,less than 20000,0,400,2,more than 30,none,7 years,No,No,External,more than 5,no change,1 vehicle,41-50,2
 Mazda,Urban,Male,Married,44,Policy Holder,Sedan - Liability,20000 to 29000,0,400,4,more than 30,2 to 4,more than 7,No,No,External,1 to 2,no change,1 vehicle,41-50,3
 Mazda,Urban,Female,Single,30,Third Party,Sedan - Liability,20000 to 29000,0,400,1,more than 30,2 to 4,6 years,No,No,External,none,no change,1 vehicle,31-35,61
-Honda,Urban,Male,Single,17,Third Party,Sedan - Collision,more than 69000,0,400,1,more than 30,2 to 4,new,No,No,External,none,4 to 8 years,2 vehicles,0-17,60
+Honda,Urban,Male,Single,16,Third Party,Sedan - Collision,more than 69000,0,400,1,more than 30,2 to 4,new,No,No,External,none,4 to 8 years,2 vehicles,0-17,60
 Mazda,Urban,Male,Married,41,Policy Holder,Sedan - Liability,20000 to 29000,0,400,4,more than 30,none,7 years,No,No,External,3 to 5,no change,1 vehicle,41-50,60
 Pontiac,Urban,Male,Married,38,Policy Holder,Sedan - All Perils,less than 20000,0,400,2,more than 30,none,more than 7,No,No,External,none,no change,1 vehicle,36-40,6
 Toyota,Urban,Male,Married,29,Third Party,Sedan - Liability,20000 to 29000,0,400,4,more than 30,2 to 4,6 years,No,No,External,none,no change,1 vehicle,26-30,60
@@ -10782,9 +10782,9 @@ Chevrolet,Rural,Male,Married,31,Policy Holder,Sedan - All Perils,more than 69000
 Pontiac,Urban,Male,Married,60,Policy Holder,Sedan - All Perils,20000 to 29000,0,400,3,more than 30,1,7 years,No,No,External,3 to 5,no change,1 vehicle,51-65,61
 Pontiac,Urban,Female,Widow,54,Policy Holder,Sedan - Liability,20000 to 29000,0,400,1,more than 30,2 to 4,7 years,No,No,External,none,no change,1 vehicle,51-65,3
 Toyota,Urban,Male,Married,61,Policy Holder,Sedan - Collision,20000 to 29000,0,400,3,more than 30,1,more than 7,No,No,External,none,no change,3 to 4,51-65,62
-Honda,Urban,Male,Single,17,Third Party,Sedan - All Perils,more than 69000,0,400,2,more than 30,1,new,No,Yes,External,none,no change,1 vehicle,0-17,1
+Honda,Urban,Male,Single,16,Third Party,Sedan - All Perils,more than 69000,0,400,2,more than 30,1,new,No,Yes,External,none,no change,1 vehicle,0-17,1
 Ford,Urban,Male,Married,54,Third Party,Sedan - Collision,40000 to 59000,0,400,1,more than 30,more than 4,more than 7,Yes,No,External,3 to 5,no change,1 vehicle,51-65,38
-Honda,Urban,Male,Single,16,Policy Holder,Sedan - All Perils,more than 69000,0,400,1,more than 30,none,new,No,No,External,none,no change,1 vehicle,0-17,28
+Honda,Urban,Male,Single,17,Policy Holder,Sedan - All Perils,more than 69000,0,400,1,more than 30,none,new,No,No,External,none,no change,1 vehicle,0-17,28
 Mazda,Urban,Female,Married,40,Policy Holder,Sedan - Liability,20000 to 29000,0,400,2,more than 30,2 to 4,6 years,No,No,External,1 to 2,no change,1 vehicle,41-50,60
 Mazda,Urban,Male,Married,45,Policy Holder,Sedan - Liability,30000 to 39000,0,700,3,more than 30,2 to 4,7 years,No,No,External,more than 5,no change,1 vehicle,41-50,60
 Pontiac,Urban,Male,Married,51,Policy Holder,Sedan - All Perils,less than 20000,0,400,4,more than 30,2 to 4,more than 7,No,No,External,1 to 2,no change,1 vehicle,51-65,60
@@ -11032,7 +11032,7 @@ Chevrolet,Urban,Male,Married,37,Third Party,Sedan - All Perils,30000 to 39000,0,
 Mazda,Urban,Male,Married,61,Policy Holder,Sedan - Collision,30000 to 39000,0,400,3,more than 30,1,more than 7,No,No,External,3 to 5,no change,1 vehicle,51-65,60
 Chevrolet,Urban,Male,Single,32,Third Party,Sedan - All Perils,20000 to 29000,0,400,4,more than 30,1,6 years,No,No,External,none,no change,1 vehicle,31-35,62
 Pontiac,Urban,Male,Married,64,Policy Holder,Utility - Collision,more than 69000,1,400,4,more than 30,2 to 4,more than 7,No,No,External,more than 5,no change,1 vehicle,51-65,61
-Honda,Urban,Male,Single,16,Policy Holder,Sedan - Liability,more than 69000,0,400,4,more than 30,2 to 4,new,No,No,External,none,no change,1 vehicle,0-17,1
+Honda,Urban,Male,Single,17,Policy Holder,Sedan - Liability,more than 69000,0,400,4,more than 30,2 to 4,new,No,No,External,none,no change,1 vehicle,0-17,1
 Pontiac,Urban,Male,Married,39,Policy Holder,Sedan - Liability,30000 to 39000,0,400,2,more than 30,more than 4,7 years,No,No,External,none,no change,1 vehicle,36-40,62
 Pontiac,Urban,Male,Married,57,Policy Holder,Sedan - Liability,20000 to 29000,0,700,1,more than 30,more than 4,7 years,No,No,External,none,no change,1 vehicle,51-65,62
 Toyota,Urban,Male,Single,36,Third Party,Sedan - Collision,more than 69000,0,400,1,more than 30,none,more than 7,No,No,External,more than 5,no change,1 vehicle,36-40,60
@@ -11123,7 +11123,7 @@ Pontiac,Urban,Male,Single,41,Policy Holder,Sedan - All Perils,20000 to 29000,1,4
 Mazda,Urban,Male,Married,49,Policy Holder,Sedan - All Perils,20000 to 29000,0,400,4,more than 30,none,7 years,No,No,External,3 to 5,no change,1 vehicle,41-50,60
 Pontiac,Urban,Female,Single,37,Policy Holder,Sedan - All Perils,less than 20000,1,400,4,more than 30,none,7 years,No,No,External,1 to 2,no change,1 vehicle,36-40,1
 Chevrolet,Urban,Male,Married,46,Policy Holder,Sedan - Liability,30000 to 39000,0,400,4,more than 30,more than 4,7 years,No,No,External,more than 5,no change,1 vehicle,41-50,61
-Honda,Rural,Male,Single,16,Policy Holder,Sedan - Collision,more than 69000,0,400,3,more than 30,none,new,No,No,External,none,no change,1 vehicle,0-17,30
+Honda,Rural,Male,Single,17,Policy Holder,Sedan - Collision,more than 69000,0,400,3,more than 30,none,new,No,No,External,none,no change,1 vehicle,0-17,30
 Honda,Urban,Male,Married,61,Policy Holder,Sedan - Liability,less than 20000,0,400,2,more than 30,1,7 years,No,No,External,none,no change,1 vehicle,51-65,61
 Pontiac,Urban,Male,Married,41,Policy Holder,Sedan - Liability,20000 to 29000,0,400,1,more than 30,2 to 4,4 years,No,No,External,more than 5,no change,1 vehicle,41-50,61
 Pontiac,Urban,Male,Married,55,Third Party,Sedan - Liability,30000 to 39000,0,400,2,more than 30,1,more than 7,No,No,External,1 to 2,no change,1 vehicle,51-65,60
@@ -11235,7 +11235,7 @@ Mazda,Urban,Male,Married,51,Policy Holder,Sedan - Collision,20000 to 29000,0,400
 Toyota,Urban,Male,Single,33,Third Party,Sedan - Liability,20000 to 29000,0,400,4,more than 30,2 to 4,6 years,No,No,External,1 to 2,no change,3 to 4,31-35,60
 Honda,Urban,Male,Single,17,Policy Holder,Sedan - Liability,more than 69000,0,400,4,more than 30,2 to 4,new,No,No,External,none,4 to 8 years,2 vehicles,0-17,1
 Honda,Urban,Male,Single,17,Policy Holder,Sport - All Perils,more than 69000,0,400,2,more than 30,none,new,No,No,External,none,no change,1 vehicle,0-17,36
-Honda,Rural,Male,Single,17,Policy Holder,Sedan - All Perils,more than 69000,0,400,3,more than 30,none,new,No,No,External,none,no change,1 vehicle,0-17,41
+Honda,Rural,Male,Single,16,Policy Holder,Sedan - All Perils,more than 69000,0,400,3,more than 30,none,new,No,No,External,none,no change,1 vehicle,0-17,41
 Chevrolet,Urban,Male,Married,62,Policy Holder,Sedan - Liability,30000 to 39000,0,400,4,more than 30,none,more than 7,No,No,External,more than 5,no change,1 vehicle,51-65,61
 Chevrolet,Urban,Male,Married,22,Policy Holder,Sedan - Liability,20000 to 29000,0,400,1,more than 30,2 to 4,5 years,No,No,External,none,no change,1 vehicle,21-25,11
 Lexus,Urban,Male,Married,51,Policy Holder,Sedan - Collision,more than 69000,0,400,2,more than 30,1,more than 7,No,No,External,1 to 2,no change,1 vehicle,51-65,2
@@ -11558,7 +11558,7 @@ Mercury,Urban,Female,Married,29,Policy Holder,Sedan - Collision,more than 69000,
 Honda,Urban,Male,Married,27,Policy Holder,Sedan - Liability,20000 to 29000,0,400,3,more than 30,2 to 4,6 years,No,No,External,more than 5,1 year,1 vehicle,26-30,3
 Toyota,Urban,Male,Married,48,Policy Holder,Sedan - All Perils,less than 20000,0,400,3,more than 30,none,more than 7,No,No,External,none,no change,1 vehicle,41-50,61
 Pontiac,Urban,Male,Married,37,Policy Holder,Sedan - Collision,30000 to 39000,0,400,4,more than 30,2 to 4,7 years,No,No,External,none,no change,1 vehicle,36-40,5
-Honda,Urban,Male,Single,16,Policy Holder,Sedan - All Perils,more than 69000,0,400,1,more than 30,none,new,No,No,External,none,no change,1 vehicle,0-17,60
+Honda,Urban,Male,Single,17,Policy Holder,Sedan - All Perils,more than 69000,0,400,1,more than 30,none,new,No,No,External,none,no change,1 vehicle,0-17,60
 Ford,Urban,Male,Married,56,Policy Holder,Sedan - Liability,30000 to 39000,0,400,4,more than 30,none,more than 7,No,No,External,none,no change,1 vehicle,51-65,61
 Honda,Urban,Male,Married,44,Policy Holder,Sedan - All Perils,20000 to 29000,0,400,3,more than 30,none,6 years,No,No,External,none,no change,3 to 4,41-50,60
 Chevrolet,Urban,Female,Single,40,Policy Holder,Sedan - Liability,30000 to 39000,0,700,3,more than 30,2 to 4,7 years,No,No,External,more than 5,no change,1 vehicle,41-50,61
@@ -11875,8 +11875,8 @@ Chevrolet,Urban,Male,Married,36,Policy Holder,Sedan - Liability,30000 to 39000,0
 Pontiac,Urban,Male,Married,55,Policy Holder,Sedan - Liability,30000 to 39000,0,400,1,more than 30,more than 4,more than 7,No,No,External,1 to 2,no change,1 vehicle,51-65,60
 Pontiac,Rural,Male,Married,26,Policy Holder,Sedan - All Perils,20000 to 29000,0,400,4,more than 30,2 to 4,6 years,No,No,External,3 to 5,no change,1 vehicle,26-30,60
 Toyota,Urban,Male,Married,52,Policy Holder,Sedan - All Perils,less than 20000,0,400,1,more than 30,none,more than 7,No,No,External,none,no change,1 vehicle,51-65,5
-Honda,Rural,Male,Single,17,Policy Holder,Sedan - Collision,more than 69000,0,400,2,more than 30,1,new,No,No,External,none,no change,1 vehicle,0-17,61
-Honda,Urban,Male,Single,17,Policy Holder,Sedan - Liability,more than 69000,0,400,4,more than 30,more than 4,new,No,No,External,none,no change,1 vehicle,0-17,60
+Honda,Rural,Male,Single,16,Policy Holder,Sedan - Collision,more than 69000,0,400,2,more than 30,1,new,No,No,External,none,no change,1 vehicle,0-17,61
+Honda,Urban,Male,Single,16,Policy Holder,Sedan - Liability,more than 69000,0,400,4,more than 30,more than 4,new,No,No,External,none,no change,1 vehicle,0-17,60
 Honda,Urban,Male,Married,52,Policy Holder,Sedan - Collision,20000 to 29000,0,400,3,more than 30,2 to 4,more than 7,No,No,External,none,no change,1 vehicle,51-65,61
 Honda,Urban,Female,Single,27,Policy Holder,Sedan - Collision,20000 to 29000,0,400,2,more than 30,1,6 years,No,No,External,none,no change,1 vehicle,26-30,61
 Toyota,Urban,Female,Married,31,Policy Holder,Sedan - Liability,30000 to 39000,0,400,1,more than 30,none,7 years,No,No,External,more than 5,no change,1 vehicle,31-35,60
@@ -11948,7 +11948,7 @@ Toyota,Urban,Male,Married,35,Third Party,Sedan - Collision,20000 to 29000,0,400,
 Honda,Urban,Male,Married,47,Third Party,Sedan - Liability,20000 to 29000,0,400,3,more than 30,none,more than 7,No,No,External,more than 5,no change,1 vehicle,41-50,60
 Chevrolet,Urban,Male,Married,35,Policy Holder,Sedan - All Perils,30000 to 39000,0,400,1,more than 30,2 to 4,7 years,Yes,No,External,more than 5,no change,1 vehicle,36-40,60
 Chevrolet,Urban,Male,Married,45,Third Party,Sedan - Collision,20000 to 29000,0,400,2,more than 30,1,7 years,No,No,External,more than 5,4 to 8 years,2 vehicles,41-50,61
-Honda,Urban,Male,Single,17,Policy Holder,Sedan - All Perils,more than 69000,0,400,1,more than 30,none,new,No,No,External,none,no change,1 vehicle,0-17,61
+Honda,Urban,Male,Single,16,Policy Holder,Sedan - All Perils,more than 69000,0,400,1,more than 30,none,new,No,No,External,none,no change,1 vehicle,0-17,61
 Mazda,Urban,Male,Single,28,Policy Holder,Sedan - Collision,30000 to 39000,0,400,3,more than 30,2 to 4,6 years,No,No,External,3 to 5,no change,1 vehicle,26-30,61
 Pontiac,Urban,Female,Single,29,Policy Holder,Sedan - Collision,20000 to 29000,0,400,2,more than 30,none,6 years,No,No,External,none,no change,1 vehicle,26-30,60
 Pontiac,Urban,Male,Single,23,Policy Holder,Sedan - Liability,20000 to 29000,0,400,2,more than 30,2 to 4,5 years,No,No,External,more than 5,no change,1 vehicle,21-25,60
@@ -12028,8 +12028,8 @@ Toyota,Urban,Male,Married,56,Policy Holder,Sedan - Liability,20000 to 29000,0,40
 Mazda,Urban,Female,Divorced,51,Policy Holder,Sedan - Collision,20000 to 29000,0,400,1,more than 30,more than 4,7 years,No,No,External,none,no change,1 vehicle,51-65,61
 Pontiac,Urban,Male,Married,47,Third Party,Sedan - All Perils,30000 to 39000,0,700,3,more than 30,none,more than 7,No,No,External,none,no change,1 vehicle,41-50,62
 Pontiac,Urban,Male,Married,30,Policy Holder,Sedan - Liability,30000 to 39000,0,400,1,more than 30,2 to 4,7 years,No,No,External,none,no change,1 vehicle,31-35,61
-Honda,Urban,Male,Single,17,Policy Holder,Sedan - Liability,more than 69000,0,400,2,more than 30,more than 4,new,No,No,External,none,no change,1 vehicle,0-17,60
-Honda,Urban,Male,Single,17,Policy Holder,Sedan - All Perils,more than 69000,0,400,3,more than 30,none,new,No,No,External,none,no change,1 vehicle,0-17,62
+Honda,Urban,Male,Single,16,Policy Holder,Sedan - Liability,more than 69000,0,400,2,more than 30,more than 4,new,No,No,External,none,no change,1 vehicle,0-17,60
+Honda,Urban,Male,Single,16,Policy Holder,Sedan - All Perils,more than 69000,0,400,3,more than 30,none,new,No,No,External,none,no change,1 vehicle,0-17,62
 Chevrolet,Urban,Male,Single,35,Third Party,Sedan - Liability,30000 to 39000,0,400,2,more than 30,more than 4,7 years,No,No,External,none,no change,1 vehicle,36-40,61
 Toyota,Urban,Male,Married,50,Policy Holder,Sedan - Liability,20000 to 29000,0,400,4,more than 30,2 to 4,7 years,No,No,External,1 to 2,4 to 8 years,2 vehicles,51-65,60
 Toyota,Urban,Male,Married,60,Third Party,Sedan - Collision,20000 to 29000,0,400,4,more than 30,none,5 years,No,No,External,none,no change,1 vehicle,51-65,60
@@ -12176,8 +12176,8 @@ Toyota,Urban,Male,Single,18,Policy Holder,Sedan - All Perils,less than 20000,1,4
 Pontiac,Urban,Female,Single,47,Policy Holder,Sedan - Liability,30000 to 39000,0,400,1,more than 30,none,7 years,No,No,External,3 to 5,no change,1 vehicle,41-50,60
 Toyota,Urban,Female,Married,52,Policy Holder,Sedan - Collision,20000 to 29000,0,400,4,more than 30,2 to 4,more than 7,No,No,External,3 to 5,no change,1 vehicle,51-65,63
 Mazda,Urban,Male,Single,24,Policy Holder,Sport - Collision,more than 69000,0,400,4,more than 30,1,4 years,No,No,External,none,no change,3 to 4,21-25,64
-Honda,Rural,Male,Single,16,Policy Holder,Sedan - All Perils,more than 69000,0,400,2,more than 30,1,new,No,No,External,none,no change,1 vehicle,0-17,12
-Honda,Rural,Male,Single,17,Policy Holder,Sedan - All Perils,more than 69000,0,400,3,more than 30,none,new,No,No,External,none,no change,1 vehicle,0-17,11
+Honda,Rural,Male,Single,17,Policy Holder,Sedan - All Perils,more than 69000,0,400,2,more than 30,1,new,No,No,External,none,no change,1 vehicle,0-17,12
+Honda,Rural,Male,Single,16,Policy Holder,Sedan - All Perils,more than 69000,0,400,3,more than 30,none,new,No,No,External,none,no change,1 vehicle,0-17,11
 VW,Urban,Female,Married,43,Third Party,Sedan - All Perils,30000 to 39000,0,400,1,more than 30,none,7 years,No,No,External,more than 5,4 to 8 years,2 vehicles,41-50,61
 Toyota,Urban,Male,Single,28,Policy Holder,Sedan - All Perils,20000 to 29000,0,400,2,more than 30,more than 4,6 years,No,No,External,more than 5,no change,1 vehicle,26-30,19
 Mazda,Urban,Male,Married,42,Policy Holder,Sedan - Collision,20000 to 29000,1,400,1,more than 30,2 to 4,7 years,No,No,External,more than 5,no change,1 vehicle,41-50,62
@@ -12435,10 +12435,10 @@ Toyota,Urban,Female,Single,25,Policy Holder,Sedan - Liability,20000 to 29000,0,4
 Chevrolet,Urban,Male,Married,31,Third Party,Sedan - All Perils,more than 69000,0,400,4,more than 30,2 to 4,6 years,No,No,External,3 to 5,no change,1 vehicle,31-35,60
 Pontiac,Urban,Male,Single,46,Policy Holder,Sedan - All Perils,30000 to 39000,0,400,2,more than 30,none,more than 7,Yes,Yes,External,none,no change,1 vehicle,41-50,60
 Honda,Urban,Male,Married,62,Third Party,Sedan - All Perils,more than 69000,0,400,4,more than 30,none,new,No,No,External,none,no change,1 vehicle,51-65,60
-Honda,Urban,Male,Single,17,Policy Holder,Sedan - Collision,more than 69000,0,400,2,more than 30,none,new,No,No,External,none,no change,1 vehicle,0-17,15
+Honda,Urban,Male,Single,16,Policy Holder,Sedan - Collision,more than 69000,0,400,2,more than 30,none,new,No,No,External,none,no change,1 vehicle,0-17,15
 Honda,Urban,Male,Single,16,Policy Holder,Sedan - All Perils,more than 69000,0,400,4,more than 30,1,new,Yes,No,External,none,no change,1 vehicle,0-17,62
 Ford,Urban,Male,Married,30,Third Party,Sedan - Collision,30000 to 39000,0,400,1,more than 30,2 to 4,7 years,No,No,External,3 to 5,no change,1 vehicle,31-35,11
-Honda,Urban,Male,Single,17,Policy Holder,Sport - Collision,more than 69000,0,400,2,more than 30,2 to 4,new,No,No,External,none,no change,1 vehicle,0-17,18
+Honda,Urban,Male,Single,16,Policy Holder,Sport - Collision,more than 69000,0,400,2,more than 30,2 to 4,new,No,No,External,none,no change,1 vehicle,0-17,18
 Ford,Urban,Male,Single,29,Third Party,Sedan - Collision,less than 20000,0,400,2,more than 30,1,7 years,No,No,External,1 to 2,no change,1 vehicle,26-30,60
 Toyota,Rural,Male,Married,41,Policy Holder,Sedan - Collision,20000 to 29000,0,400,2,more than 30,2 to 4,7 years,No,No,External,none,no change,1 vehicle,41-50,60
 Toyota,Urban,Male,Married,27,Policy Holder,Sedan - Collision,20000 to 29000,0,400,1,more than 30,1,7 years,No,No,External,3 to 5,no change,1 vehicle,26-30,60
@@ -12870,7 +12870,7 @@ Toyota,Urban,Male,Single,33,Policy Holder,Sedan - Collision,20000 to 29000,0,400
 Chevrolet,Urban,Male,Married,33,Third Party,Sedan - All Perils,20000 to 29000,0,400,1,more than 30,2 to 4,7 years,No,No,External,none,no change,1 vehicle,31-35,61
 Pontiac,Urban,Male,Married,42,Third Party,Sedan - Liability,30000 to 39000,0,400,4,more than 30,2 to 4,7 years,No,No,External,more than 5,no change,1 vehicle,41-50,5
 Toyota,Urban,Male,Married,76,Policy Holder,Sedan - Collision,30000 to 39000,0,400,3,more than 30,2 to 4,more than 7,No,No,External,3 to 5,no change,1 vehicle,65+,62
-Honda,Rural,Male,Single,16,Third Party,Sedan - All Perils,more than 69000,0,400,1,more than 30,more than 4,new,No,No,External,none,no change,1 vehicle,0-17,60
+Honda,Rural,Male,Single,17,Third Party,Sedan - All Perils,more than 69000,0,400,1,more than 30,more than 4,new,No,No,External,none,no change,1 vehicle,0-17,60
 Mazda,Urban,Male,Married,74,Third Party,Sedan - All Perils,20000 to 29000,0,400,1,more than 30,1,more than 7,No,No,External,more than 5,4 to 8 years,2 vehicles,65+,2
 VW,Urban,Male,Married,38,Third Party,Sedan - Collision,40000 to 59000,0,400,4,more than 30,1,more than 7,No,No,External,none,no change,3 to 4,36-40,60
 Chevrolet,Urban,Female,Single,27,Policy Holder,Sedan - Liability,20000 to 29000,0,400,1,more than 30,2 to 4,6 years,No,No,External,3 to 5,no change,1 vehicle,26-30,60
@@ -13417,7 +13417,7 @@ Pontiac,Urban,Male,Single,36,Policy Holder,Sedan - Liability,20000 to 29000,0,40
 Pontiac,Urban,Male,Married,36,Policy Holder,Sedan - Collision,30000 to 39000,0,400,2,more than 30,2 to 4,7 years,No,No,External,more than 5,no change,1 vehicle,36-40,60
 Chevrolet,Rural,Male,Married,28,Policy Holder,Utility - All Perils,more than 69000,0,400,4,more than 30,2 to 4,6 years,No,No,External,3 to 5,no change,1 vehicle,26-30,13
 Chevrolet,Urban,Male,Married,47,Policy Holder,Sedan - Liability,more than 69000,0,400,4,more than 30,more than 4,6 years,No,No,External,more than 5,no change,1 vehicle,41-50,60
-Honda,Urban,Male,Single,17,Policy Holder,Sedan - All Perils,more than 69000,0,400,3,more than 30,more than 4,new,No,No,External,none,4 to 8 years,2 vehicles,0-17,60
+Honda,Urban,Male,Single,16,Policy Holder,Sedan - All Perils,more than 69000,0,400,3,more than 30,more than 4,new,No,No,External,none,4 to 8 years,2 vehicles,0-17,60
 Pontiac,Urban,Male,Married,35,Third Party,Sedan - Collision,20000 to 29000,0,400,2,more than 30,more than 4,6 years,No,No,External,more than 5,no change,1 vehicle,36-40,60
 Honda,Urban,Male,Married,26,Policy Holder,Sedan - Liability,20000 to 29000,0,400,2,more than 30,2 to 4,6 years,No,No,External,3 to 5,no change,1 vehicle,26-30,61
 Mazda,Urban,Male,Single,55,Policy Holder,Sedan - Liability,20000 to 29000,0,400,1,more than 30,more than 4,7 years,No,No,External,1 to 2,no change,1 vehicle,51-65,10
@@ -13487,7 +13487,7 @@ Pontiac,Rural,Male,Married,63,Third Party,Sedan - Collision,20000 to 29000,0,700
 Dodge,Urban,Female,Married,27,Policy Holder,Sedan - Collision,20000 to 29000,0,400,1,more than 30,none,6 years,No,No,External,none,no change,1 vehicle,26-30,60
 Pontiac,Urban,Male,Single,24,Policy Holder,Sedan - Liability,20000 to 29000,0,400,4,more than 30,1,5 years,No,No,External,1 to 2,no change,1 vehicle,21-25,60
 Pontiac,Urban,Female,Single,27,Policy Holder,Sedan - Collision,20000 to 29000,1,400,1,more than 30,none,6 years,No,No,External,none,no change,1 vehicle,26-30,61
-Honda,Rural,Male,Single,17,Policy Holder,Sedan - Collision,more than 69000,0,400,2,more than 30,1,new,No,No,External,none,no change,3 to 4,0-17,6
+Honda,Rural,Male,Single,16,Policy Holder,Sedan - Collision,more than 69000,0,400,2,more than 30,1,new,No,No,External,none,no change,3 to 4,0-17,6
 Pontiac,Urban,Male,Single,37,Policy Holder,Sedan - All Perils,20000 to 29000,0,400,4,more than 30,1,7 years,No,No,External,1 to 2,no change,1 vehicle,36-40,1
 Pontiac,Urban,Male,Married,49,Policy Holder,Sedan - All Perils,20000 to 29000,0,400,1,more than 30,1,more than 7,No,No,External,more than 5,no change,1 vehicle,41-50,1
 Pontiac,Urban,Male,Married,28,Policy Holder,Sedan - All Perils,20000 to 29000,0,400,4,more than 30,2 to 4,6 years,No,No,External,1 to 2,no change,1 vehicle,26-30,63
@@ -13551,7 +13551,7 @@ Mazda,Urban,Male,Married,43,Third Party,Sedan - All Perils,20000 to 29000,0,400,
 Toyota,Urban,Male,Married,34,Policy Holder,Sedan - All Perils,20000 to 29000,0,400,4,more than 30,2 to 4,7 years,No,No,External,none,no change,1 vehicle,31-35,61
 Mazda,Urban,Male,Married,38,Third Party,Sedan - Collision,20000 to 29000,0,400,2,more than 30,1,7 years,No,No,External,more than 5,no change,1 vehicle,36-40,60
 Pontiac,Urban,Male,Married,44,Policy Holder,Sedan - Collision,30000 to 39000,0,400,1,more than 30,none,7 years,No,No,External,1 to 2,no change,1 vehicle,41-50,2
-Honda,Urban,Male,Single,17,Policy Holder,Sedan - All Perils,more than 69000,0,400,4,more than 30,none,new,No,No,External,none,no change,1 vehicle,0-17,61
+Honda,Urban,Male,Single,16,Policy Holder,Sedan - All Perils,more than 69000,0,400,4,more than 30,none,new,No,No,External,none,no change,1 vehicle,0-17,61
 Honda,Urban,Male,Married,39,Policy Holder,Sedan - All Perils,20000 to 29000,0,400,4,more than 30,2 to 4,7 years,No,No,External,more than 5,no change,1 vehicle,36-40,61
 Toyota,Urban,Male,Married,34,Third Party,Sedan - Collision,20000 to 29000,0,400,1,more than 30,2 to 4,6 years,No,No,External,1 to 2,no change,1 vehicle,31-35,60
 Pontiac,Urban,Male,Single,28,Third Party,Sedan - All Perils,20000 to 29000,0,400,3,more than 30,none,6 years,No,No,External,none,no change,1 vehicle,26-30,60
@@ -13712,7 +13712,7 @@ Toyota,Urban,Male,Married,52,Policy Holder,Sedan - Liability,20000 to 29000,0,40
 Toyota,Urban,Female,Married,43,Policy Holder,Sedan - Collision,20000 to 29000,0,400,2,more than 30,1,7 years,No,No,External,3 to 5,no change,1 vehicle,41-50,60
 Pontiac,Urban,Male,Married,49,Third Party,Sedan - All Perils,30000 to 39000,0,400,3,more than 30,1,7 years,No,No,External,none,no change,1 vehicle,41-50,60
 Pontiac,Urban,Male,Single,41,Policy Holder,Sedan - Collision,20000 to 29000,1,400,3,more than 30,none,more than 7,No,No,External,1 to 2,4 to 8 years,2 vehicles,41-50,60
-Honda,Urban,Male,Single,17,Policy Holder,Sedan - All Perils,more than 69000,0,400,2,more than 30,none,new,No,No,External,none,no change,1 vehicle,0-17,60
+Honda,Urban,Male,Single,16,Policy Holder,Sedan - All Perils,more than 69000,0,400,2,more than 30,none,new,No,No,External,none,no change,1 vehicle,0-17,60
 Pontiac,Urban,Male,Single,64,Third Party,Sedan - All Perils,less than 20000,0,400,1,more than 30,none,7 years,No,No,External,none,no change,1 vehicle,51-65,61
 Pontiac,Urban,Male,Married,58,Policy Holder,Utility - All Perils,more than 69000,0,400,4,more than 30,2 to 4,more than 7,No,No,External,more than 5,no change,1 vehicle,51-65,60
 Honda,Urban,Male,Single,32,Policy Holder,Sedan - Liability,20000 to 29000,0,400,4,more than 30,1,5 years,No,No,External,1 to 2,no change,1 vehicle,31-35,1
@@ -13750,7 +13750,7 @@ Honda,Urban,Male,Single,56,Third Party,Sedan - Liability,20000 to 29000,0,400,3,
 Mazda,Urban,Male,Married,43,Policy Holder,Sedan - All Perils,less than 20000,0,400,2,more than 30,2 to 4,7 years,No,No,External,1 to 2,no change,1 vehicle,41-50,61
 Pontiac,Urban,Male,Married,31,Third Party,Sedan - All Perils,20000 to 29000,0,400,4,more than 30,none,7 years,No,No,External,3 to 5,no change,1 vehicle,31-35,2
 Chevrolet,Urban,Male,Married,34,Policy Holder,Sedan - All Perils,more than 69000,0,400,4,more than 30,none,6 years,No,No,External,more than 5,no change,1 vehicle,31-35,1
-Honda,Urban,Male,Single,17,Policy Holder,Sedan - Liability,more than 69000,0,400,2,more than 30,2 to 4,new,No,No,External,none,no change,1 vehicle,0-17,60
+Honda,Urban,Male,Single,16,Policy Holder,Sedan - Liability,more than 69000,0,400,2,more than 30,2 to 4,new,No,No,External,none,no change,1 vehicle,0-17,60
 Ford,Urban,Male,Married,28,Policy Holder,Sedan - Liability,40000 to 59000,0,400,1,more than 30,2 to 4,7 years,No,No,External,none,no change,1 vehicle,26-30,60
 Toyota,Urban,Male,Single,35,Policy Holder,Sedan - Collision,20000 to 29000,0,400,2,more than 30,none,6 years,No,No,External,more than 5,no change,1 vehicle,36-40,60
 Toyota,Rural,Female,Single,48,Policy Holder,Sedan - Liability,20000 to 29000,0,400,4,more than 30,none,more than 7,No,No,External,1 to 2,4 to 8 years,2 vehicles,41-50,60
@@ -13873,8 +13873,8 @@ Honda,Urban,Male,Married,28,Third Party,Sedan - Liability,20000 to 29000,0,400,2
 Toyota,Urban,Female,Single,29,Policy Holder,Sedan - Liability,20000 to 29000,0,500,3,more than 30,1,6 years,No,No,External,none,2 to 3 years,1 vehicle,26-30,2
 Honda,Urban,Male,Single,17,Policy Holder,Sedan - Liability,more than 69000,0,400,2,more than 30,more than 4,new,No,No,External,none,no change,1 vehicle,0-17,60
 Honda,Urban,Male,Single,33,Third Party,Sedan - All Perils,20000 to 29000,0,400,1,more than 30,1,5 years,No,No,External,none,no change,1 vehicle,31-35,1
-Honda,Urban,Male,Single,17,Policy Holder,Sedan - Liability,more than 69000,0,400,1,more than 30,more than 4,new,No,No,External,none,no change,1 vehicle,0-17,60
-Honda,Rural,Male,Single,16,Policy Holder,Sedan - Collision,more than 69000,0,400,3,more than 30,2 to 4,new,Yes,No,External,none,no change,1 vehicle,0-17,61
+Honda,Urban,Male,Single,16,Policy Holder,Sedan - Liability,more than 69000,0,400,1,more than 30,more than 4,new,No,No,External,none,no change,1 vehicle,0-17,60
+Honda,Rural,Male,Single,17,Policy Holder,Sedan - Collision,more than 69000,0,400,3,more than 30,2 to 4,new,Yes,No,External,none,no change,1 vehicle,0-17,61
 Chevrolet,Urban,Male,Single,26,Policy Holder,Sedan - Liability,more than 69000,0,400,1,more than 30,2 to 4,6 years,No,No,Internal,more than 5,no change,1 vehicle,26-30,63
 Toyota,Urban,Male,Married,27,Third Party,Sedan - All Perils,30000 to 39000,0,400,1,more than 30,1,6 years,No,No,External,none,no change,1 vehicle,26-30,60
 Mazda,Urban,Male,Single,35,Third Party,Sedan - Collision,20000 to 29000,0,400,3,more than 30,1,6 years,No,No,External,none,no change,1 vehicle,36-40,60
@@ -13890,7 +13890,7 @@ Accura,Rural,Male,Married,32,Third Party,Sedan - All Perils,30000 to 39000,0,400
 Toyota,Rural,Male,Married,72,Policy Holder,Sedan - All Perils,20000 to 29000,0,400,3,more than 30,none,more than 7,No,No,External,3 to 5,no change,1 vehicle,65+,61
 Pontiac,Urban,Female,Married,41,Third Party,Sedan - Collision,less than 20000,0,400,3,more than 30,none,7 years,No,No,External,none,no change,1 vehicle,41-50,61
 Pontiac,Urban,Male,Single,26,Policy Holder,Sedan - All Perils,less than 20000,0,400,1,more than 30,2 to 4,7 years,No,No,External,more than 5,no change,1 vehicle,26-30,2
-Honda,Urban,Male,Single,16,Policy Holder,Sedan - Liability,more than 69000,0,400,2,more than 30,more than 4,new,No,No,External,none,no change,1 vehicle,0-17,60
+Honda,Urban,Male,Single,17,Policy Holder,Sedan - Liability,more than 69000,0,400,2,more than 30,more than 4,new,No,No,External,none,no change,1 vehicle,0-17,60
 Honda,Urban,Male,Married,29,Policy Holder,Sedan - All Perils,20000 to 29000,0,400,3,more than 30,2 to 4,6 years,No,No,External,none,no change,1 vehicle,26-30,4
 Toyota,Urban,Male,Married,57,Third Party,Sedan - All Perils,20000 to 29000,0,400,3,more than 30,none,more than 7,No,No,External,none,no change,1 vehicle,51-65,4
 Mazda,Urban,Male,Married,31,Policy Holder,Sedan - Collision,20000 to 29000,0,400,2,more than 30,1,7 years,No,No,External,none,no change,1 vehicle,31-35,4
@@ -13903,7 +13903,7 @@ Honda,Rural,Male,Single,28,Policy Holder,Sedan - Collision,20000 to 29000,0,400,
 Pontiac,Urban,Male,Married,49,Third Party,Sedan - Liability,20000 to 29000,0,400,1,more than 30,2 to 4,5 years,No,No,External,none,4 to 8 years,2 vehicles,41-50,61
 Accura,Urban,Male,Single,49,Third Party,Sedan - Collision,30000 to 39000,0,400,2,more than 30,none,more than 7,No,No,External,none,no change,1 vehicle,41-50,60
 Chevrolet,Urban,Male,Single,27,Third Party,Sedan - Collision,30000 to 39000,0,400,4,more than 30,2 to 4,7 years,No,No,External,1 to 2,no change,1 vehicle,26-30,61
-Honda,Rural,Male,Single,16,Policy Holder,Sedan - Liability,more than 69000,0,400,2,more than 30,none,new,No,No,External,none,no change,1 vehicle,0-17,60
+Honda,Rural,Male,Single,17,Policy Holder,Sedan - Liability,more than 69000,0,400,2,more than 30,none,new,No,No,External,none,no change,1 vehicle,0-17,60
 Saturn,Rural,Male,Married,37,Policy Holder,Sedan - Collision,20000 to 29000,0,400,2,more than 30,1,7 years,No,No,External,none,no change,1 vehicle,36-40,2
 Honda,Urban,Male,Single,25,Policy Holder,Sedan - Collision,20000 to 29000,0,400,2,more than 30,2 to 4,6 years,No,No,External,3 to 5,no change,1 vehicle,26-30,3
 Pontiac,Urban,Male,Divorced,53,Policy Holder,Sedan - Collision,20000 to 29000,0,400,1,more than 30,2 to 4,7 years,No,No,External,3 to 5,no change,1 vehicle,51-65,61
@@ -13981,7 +13981,7 @@ Honda,Urban,Male,Married,53,Third Party,Sedan - Collision,20000 to 29000,0,400,2
 Honda,Urban,Male,Single,17,Policy Holder,Sedan - Liability,more than 69000,0,400,1,more than 30,2 to 4,new,No,No,External,none,no change,1 vehicle,0-17,61
 Mazda,Urban,Male,Single,26,Third Party,Sedan - Collision,20000 to 29000,0,400,1,more than 30,1,6 years,No,No,External,1 to 2,no change,3 to 4,26-30,2
 Pontiac,Urban,Male,Married,42,Policy Holder,Sedan - Collision,20000 to 29000,0,400,2,more than 30,2 to 4,7 years,No,No,External,more than 5,no change,1 vehicle,41-50,4
-Honda,Urban,Male,Single,16,Policy Holder,Sedan - All Perils,more than 69000,0,400,3,more than 30,1,new,No,No,External,none,no change,1 vehicle,0-17,60
+Honda,Urban,Male,Single,17,Policy Holder,Sedan - All Perils,more than 69000,0,400,3,more than 30,1,new,No,No,External,none,no change,1 vehicle,0-17,60
 Ford,Urban,Male,Married,43,Policy Holder,Sedan - All Perils,20000 to 29000,0,400,3,more than 30,none,7 years,No,No,External,none,no change,1 vehicle,41-50,61
 Ford,Urban,Male,Married,65,Policy Holder,Sedan - Liability,more than 69000,0,400,2,more than 30,1,more than 7,No,No,External,more than 5,no change,1 vehicle,65+,60
 Mazda,Urban,Male,Married,44,Policy Holder,Sedan - Liability,30000 to 39000,0,400,4,more than 30,2 to 4,more than 7,No,No,External,more than 5,4 to 8 years,2 vehicles,41-50,61
@@ -13996,7 +13996,7 @@ VW,Urban,Male,Single,29,Policy Holder,Sedan - Collision,30000 to 39000,0,400,2,m
 Chevrolet,Urban,Male,Single,35,Policy Holder,Sedan - Liability,30000 to 39000,0,400,3,more than 30,2 to 4,6 years,No,No,External,more than 5,no change,1 vehicle,36-40,60
 Accura,Urban,Male,Married,61,Policy Holder,Utility - All Perils,more than 69000,0,400,4,more than 30,2 to 4,more than 7,No,No,External,more than 5,no change,1 vehicle,51-65,8
 Pontiac,Urban,Male,Married,35,Policy Holder,Sedan - All Perils,20000 to 29000,0,400,3,more than 30,none,7 years,No,No,External,none,no change,1 vehicle,36-40,7
-Honda,Urban,Male,Single,17,Policy Holder,Sedan - All Perils,more than 69000,0,400,4,more than 30,none,new,No,Yes,External,none,no change,1 vehicle,0-17,6
+Honda,Urban,Male,Single,16,Policy Holder,Sedan - All Perils,more than 69000,0,400,4,more than 30,none,new,No,Yes,External,none,no change,1 vehicle,0-17,6
 Pontiac,Urban,Male,Married,40,Third Party,Sedan - Collision,20000 to 29000,0,400,1,more than 30,2 to 4,7 years,No,No,External,1 to 2,no change,1 vehicle,41-50,62
 Toyota,Rural,Male,Single,33,Policy Holder,Sedan - Collision,30000 to 39000,0,400,2,more than 30,2 to 4,6 years,No,No,External,none,no change,1 vehicle,31-35,6
 Toyota,Urban,Male,Single,33,Policy Holder,Sedan - Liability,30000 to 39000,0,400,3,more than 30,1,7 years,No,No,External,more than 5,no change,1 vehicle,31-35,62
@@ -14011,12 +14011,12 @@ Pontiac,Urban,Male,Married,39,Policy Holder,Sedan - Collision,30000 to 39000,0,4
 Accura,Urban,Male,Married,32,Policy Holder,Utility - All Perils,more than 69000,1,400,1,more than 30,none,6 years,No,No,External,none,no change,1 vehicle,31-35,61
 Pontiac,Urban,Male,Married,28,Third Party,Sedan - Liability,20000 to 29000,0,400,1,more than 30,more than 4,7 years,No,No,External,none,no change,1 vehicle,26-30,61
 Chevrolet,Urban,Male,Married,52,Policy Holder,Utility - Collision,more than 69000,0,400,3,more than 30,2 to 4,6 years,No,No,External,none,no change,1 vehicle,51-65,61
-Honda,Urban,Male,Single,17,Policy Holder,Sedan - Liability,more than 69000,0,400,4,more than 30,2 to 4,new,No,No,External,none,no change,1 vehicle,0-17,61
+Honda,Urban,Male,Single,16,Policy Holder,Sedan - Liability,more than 69000,0,400,4,more than 30,2 to 4,new,No,No,External,none,no change,1 vehicle,0-17,61
 Pontiac,Urban,Male,Single,26,Policy Holder,Sedan - All Perils,20000 to 29000,0,400,3,more than 30,2 to 4,3 years,No,No,External,none,1 year,1 vehicle,26-30,61
 Pontiac,Rural,Female,Married,42,Policy Holder,Sedan - All Perils,less than 20000,1,400,3,more than 30,none,6 years,No,No,External,none,no change,1 vehicle,41-50,61
 Ford,Urban,Male,Married,47,Third Party,Sedan - Collision,30000 to 39000,0,400,4,more than 30,1,more than 7,No,No,External,more than 5,no change,1 vehicle,41-50,61
 Toyota,Urban,Male,Married,56,Policy Holder,Sedan - All Perils,20000 to 29000,0,400,3,more than 30,none,more than 7,No,No,External,none,no change,1 vehicle,51-65,61
-Honda,Urban,Male,Single,17,Policy Holder,Sedan - All Perils,more than 69000,0,400,2,more than 30,1,new,No,No,External,none,no change,1 vehicle,0-17,61
+Honda,Urban,Male,Single,16,Policy Holder,Sedan - All Perils,more than 69000,0,400,2,more than 30,1,new,No,No,External,none,no change,1 vehicle,0-17,61
 Pontiac,Urban,Male,Married,53,Third Party,Sedan - All Perils,less than 20000,0,400,2,more than 30,none,more than 7,No,No,External,none,no change,1 vehicle,51-65,2
 Toyota,Urban,Male,Single,35,Policy Holder,Sedan - All Perils,20000 to 29000,1,400,4,more than 30,none,7 years,No,No,External,none,no change,1 vehicle,36-40,62
 Ford,Urban,Male,Married,39,Policy Holder,Sedan - All Perils,30000 to 39000,0,400,4,more than 30,more than 4,6 years,No,No,External,none,no change,1 vehicle,36-40,60
@@ -14246,7 +14246,7 @@ Pontiac,Urban,Female,Married,34,Policy Holder,Sedan - All Perils,less than 20000
 Chevrolet,Rural,Male,Married,35,Policy Holder,Sedan - Collision,20000 to 29000,0,400,4,more than 30,2 to 4,6 years,No,No,External,more than 5,no change,1 vehicle,36-40,61
 Mazda,Urban,Female,Married,56,Policy Holder,Sedan - Liability,30000 to 39000,0,400,2,more than 30,1,3 years,No,No,External,more than 5,no change,1 vehicle,51-65,2
 Honda,Urban,Male,Single,33,Policy Holder,Sedan - Liability,20000 to 29000,0,400,4,8 to 15,none,6 years,No,No,External,none,no change,1 vehicle,31-35,60
-Honda,Urban,Male,Single,17,Policy Holder,Sedan - Collision,more than 69000,1,400,2,more than 30,none,new,No,No,External,none,no change,1 vehicle,0-17,2
+Honda,Urban,Male,Single,16,Policy Holder,Sedan - Collision,more than 69000,1,400,2,more than 30,none,new,No,No,External,none,no change,1 vehicle,0-17,2
 Pontiac,Urban,Male,Married,64,Third Party,Sedan - All Perils,30000 to 39000,0,400,3,more than 30,1,7 years,No,No,External,none,no change,1 vehicle,51-65,1
 Pontiac,Urban,Male,Married,34,Policy Holder,Sedan - Collision,20000 to 29000,0,400,4,more than 30,1,7 years,No,No,External,1 to 2,no change,1 vehicle,31-35,60
 Toyota,Urban,Male,Married,40,Policy Holder,Sedan - All Perils,less than 20000,0,400,4,more than 30,none,7 years,No,No,External,1 to 2,no change,1 vehicle,41-50,2
@@ -14397,7 +14397,7 @@ Mazda,Urban,Male,Married,43,Policy Holder,Sedan - Collision,more than 69000,0,40
 Honda,Urban,Female,Married,54,Policy Holder,Sedan - Liability,20000 to 29000,0,400,2,more than 30,2 to 4,more than 7,No,No,External,1 to 2,no change,1 vehicle,51-65,5
 Mazda,Urban,Male,Married,28,Policy Holder,Sedan - Collision,20000 to 29000,0,400,3,more than 30,2 to 4,6 years,No,No,External,1 to 2,no change,1 vehicle,26-30,60
 Chevrolet,Urban,Male,Married,56,Policy Holder,Utility - Collision,more than 69000,0,400,4,more than 30,more than 4,more than 7,No,No,External,more than 5,no change,1 vehicle,51-65,11
-Honda,Urban,Male,Single,17,Policy Holder,Sedan - All Perils,more than 69000,0,400,2,more than 30,none,new,No,No,External,none,no change,1 vehicle,0-17,6
+Honda,Urban,Male,Single,16,Policy Holder,Sedan - All Perils,more than 69000,0,400,2,more than 30,none,new,No,No,External,none,no change,1 vehicle,0-17,6
 Honda,Urban,Female,Single,32,Third Party,Sedan - All Perils,20000 to 29000,0,400,4,more than 30,none,5 years,No,No,External,none,no change,1 vehicle,31-35,3
 Chevrolet,Urban,Female,Married,31,Third Party,Sedan - Collision,20000 to 29000,0,400,4,more than 30,1,6 years,No,No,External,none,no change,1 vehicle,31-35,61
 Pontiac,Urban,Male,Married,40,Policy Holder,Sedan - All Perils,less than 20000,0,400,4,more than 30,none,more than 7,No,No,External,none,no change,1 vehicle,41-50,61
@@ -14476,7 +14476,7 @@ Toyota,Urban,Male,Married,28,Policy Holder,Sedan - All Perils,20000 to 29000,0,4
 VW,Urban,Female,Divorced,52,Policy Holder,Sedan - Liability,more than 69000,0,400,4,more than 30,2 to 4,7 years,No,No,External,1 to 2,no change,1 vehicle,51-65,60
 Chevrolet,Urban,Male,Married,41,Policy Holder,Sedan - All Perils,30000 to 39000,0,400,4,more than 30,1,7 years,No,No,External,1 to 2,no change,1 vehicle,41-50,61
 Honda,Urban,Male,Married,37,Policy Holder,Sedan - Liability,20000 to 29000,0,700,1,more than 30,2 to 4,7 years,No,No,External,none,no change,1 vehicle,36-40,62
-Honda,Urban,Male,Single,16,Policy Holder,Sedan - Liability,more than 69000,0,400,2,more than 30,more than 4,new,No,No,External,none,no change,1 vehicle,0-17,60
+Honda,Urban,Male,Single,17,Policy Holder,Sedan - Liability,more than 69000,0,400,2,more than 30,more than 4,new,No,No,External,none,no change,1 vehicle,0-17,60
 Chevrolet,Urban,Male,Married,59,Policy Holder,Sedan - Liability,30000 to 39000,0,400,2,more than 30,more than 4,more than 7,No,No,External,1 to 2,no change,1 vehicle,51-65,2
 Chevrolet,Urban,Male,Single,30,Third Party,Sedan - Collision,20000 to 29000,0,400,1,more than 30,none,6 years,No,No,External,3 to 5,no change,1 vehicle,31-35,61
 Honda,Urban,Male,Married,27,Policy Holder,Sedan - Collision,more than 69000,0,400,2,more than 30,none,6 years,No,No,External,3 to 5,no change,1 vehicle,26-30,62
@@ -14581,8 +14581,8 @@ Pontiac,Urban,Male,Single,31,Policy Holder,Sedan - Collision,20000 to 29000,1,40
 Accura,Urban,Male,Married,53,Third Party,Sedan - All Perils,30000 to 39000,0,400,1,more than 30,none,7 years,No,No,External,none,no change,1 vehicle,51-65,1
 Pontiac,Rural,Male,Married,53,Policy Holder,Sedan - Collision,30000 to 39000,0,400,1,more than 30,2 to 4,6 years,No,No,External,more than 5,no change,1 vehicle,51-65,60
 Saturn,Urban,Male,Married,55,Policy Holder,Sedan - Collision,40000 to 59000,0,400,1,more than 30,2 to 4,more than 7,No,No,External,more than 5,no change,1 vehicle,51-65,2
-Honda,Rural,Male,Single,16,Policy Holder,Sedan - Liability,more than 69000,0,400,3,more than 30,none,new,No,No,External,none,no change,1 vehicle,0-17,2
-Honda,Urban,Male,Single,16,Policy Holder,Utility - All Perils,more than 69000,0,400,4,more than 30,none,new,No,No,External,none,no change,1 vehicle,0-17,41
+Honda,Rural,Male,Single,17,Policy Holder,Sedan - Liability,more than 69000,0,400,3,more than 30,none,new,No,No,External,none,no change,1 vehicle,0-17,2
+Honda,Urban,Male,Single,17,Policy Holder,Utility - All Perils,more than 69000,0,400,4,more than 30,none,new,No,No,External,none,no change,1 vehicle,0-17,41
 Pontiac,Urban,Male,Married,29,Policy Holder,Sedan - Liability,20000 to 29000,0,400,3,more than 30,none,6 years,No,No,External,none,no change,1 vehicle,26-30,60
 Pontiac,Urban,Male,Single,31,Third Party,Sedan - All Perils,less than 20000,1,500,1,more than 30,none,6 years,No,No,External,more than 5,2 to 3 years,1 vehicle,31-35,61
 Pontiac,Urban,Male,Married,37,Policy Holder,Sedan - Collision,30000 to 39000,0,400,2,more than 30,none,7 years,No,No,External,more than 5,no change,1 vehicle,36-40,4
@@ -14889,7 +14889,7 @@ Toyota,Urban,Male,Married,56,Third Party,Sedan - All Perils,20000 to 29000,0,400
 Pontiac,Urban,Male,Married,40,Third Party,Sedan - Collision,20000 to 29000,0,400,3,more than 30,1,6 years,No,No,External,1 to 2,no change,1 vehicle,41-50,60
 Pontiac,Urban,Male,Married,31,Third Party,Sedan - All Perils,20000 to 29000,0,400,3,more than 30,2 to 4,6 years,No,No,External,more than 5,4 to 8 years,2 vehicles,31-35,62
 Mazda,Urban,Female,Single,58,Policy Holder,Sedan - Collision,less than 20000,0,400,3,more than 30,1,7 years,No,No,External,none,no change,1 vehicle,51-65,60
-Honda,Urban,Male,Single,17,Policy Holder,Sedan - Collision,more than 69000,0,400,1,more than 30,none,new,No,No,External,none,no change,1 vehicle,0-17,60
+Honda,Urban,Male,Single,16,Policy Holder,Sedan - Collision,more than 69000,0,400,1,more than 30,none,new,No,No,External,none,no change,1 vehicle,0-17,60
 Mazda,Urban,Male,Single,32,Policy Holder,Sedan - Liability,20000 to 29000,0,500,4,more than 30,more than 4,6 years,No,No,External,more than 5,2 to 3 years,1 vehicle,31-35,60
 VW,Urban,Male,Married,44,Policy Holder,Sedan - All Perils,more than 69000,0,400,1,more than 30,more than 4,6 years,No,No,External,none,no change,1 vehicle,41-50,61
 Toyota,Urban,Male,Married,36,Third Party,Sedan - All Perils,20000 to 29000,0,400,3,more than 30,1,7 years,No,No,External,more than 5,no change,1 vehicle,36-40,60
@@ -14936,7 +14936,7 @@ Pontiac,Urban,Male,Married,52,Third Party,Sedan - All Perils,20000 to 29000,0,40
 Pontiac,Urban,Male,Married,34,Policy Holder,Sedan - Collision,30000 to 39000,0,400,3,more than 30,none,7 years,No,No,External,more than 5,no change,1 vehicle,31-35,2
 Ford,Urban,Male,Married,42,Policy Holder,Sedan - All Perils,40000 to 59000,0,400,4,more than 30,more than 4,7 years,No,No,External,none,no change,1 vehicle,41-50,60
 Toyota,Urban,Male,Married,39,Policy Holder,Sedan - All Perils,more than 69000,0,400,2,more than 30,2 to 4,more than 7,No,No,External,none,no change,1 vehicle,36-40,60
-Honda,Rural,Male,Single,17,Policy Holder,Sedan - Liability,more than 69000,0,400,4,more than 30,2 to 4,new,No,No,External,none,no change,1 vehicle,0-17,2
+Honda,Rural,Male,Single,16,Policy Holder,Sedan - Liability,more than 69000,0,400,4,more than 30,2 to 4,new,No,No,External,none,no change,1 vehicle,0-17,2
 Toyota,Urban,Male,Single,35,Third Party,Sedan - All Perils,20000 to 29000,0,400,1,more than 30,2 to 4,6 years,No,No,External,none,no change,1 vehicle,36-40,5
 Toyota,Urban,Male,Married,41,Policy Holder,Sedan - Liability,20000 to 29000,0,400,3,more than 30,1,6 years,No,No,External,none,no change,1 vehicle,41-50,60
 Pontiac,Urban,Female,Married,29,Policy Holder,Sedan - Collision,20000 to 29000,0,400,4,more than 30,none,7 years,No,No,External,1 to 2,no change,1 vehicle,26-30,60
@@ -15241,7 +15241,7 @@ Chevrolet,Urban,Female,Married,31,Third Party,Sedan - All Perils,more than 69000
 Ford,Urban,Male,Married,41,Policy Holder,Sedan - Liability,30000 to 39000,0,400,2,more than 30,1,6 years,No,No,External,1 to 2,no change,1 vehicle,41-50,2
 Mazda,Rural,Male,Married,32,Third Party,Sedan - Collision,20000 to 29000,0,400,3,more than 30,none,5 years,No,No,External,3 to 5,no change,1 vehicle,31-35,61
 Chevrolet,Urban,Male,Single,18,Policy Holder,Sedan - All Perils,20000 to 29000,0,400,4,more than 30,more than 4,4 years,No,No,External,more than 5,no change,1 vehicle,18-20,1
-Honda,Urban,Male,Single,17,Policy Holder,Sedan - Liability,more than 69000,0,400,3,more than 30,none,new,No,No,External,none,no change,1 vehicle,0-17,61
+Honda,Urban,Male,Single,16,Policy Holder,Sedan - Liability,more than 69000,0,400,3,more than 30,none,new,No,No,External,none,no change,1 vehicle,0-17,61
 Honda,Urban,Male,Single,31,Policy Holder,Sedan - Collision,20000 to 29000,0,400,2,more than 30,none,7 years,No,No,External,1 to 2,no change,1 vehicle,31-35,61
 Mazda,Urban,Male,Single,29,Policy Holder,Sedan - All Perils,20000 to 29000,0,400,4,more than 30,1,7 years,No,No,External,3 to 5,no change,1 vehicle,26-30,63
 Chevrolet,Urban,Male,Married,36,Third Party,Sedan - All Perils,30000 to 39000,0,400,1,more than 30,2 to 4,5 years,No,No,External,none,4 to 8 years,2 vehicles,36-40,60
@@ -15260,7 +15260,7 @@ Chevrolet,Rural,Male,Married,53,Policy Holder,Sedan - Collision,more than 69000,
 Chevrolet,Urban,Male,Married,52,Policy Holder,Sedan - Liability,20000 to 29000,0,400,3,more than 30,1,7 years,No,No,External,1 to 2,no change,1 vehicle,51-65,1
 Honda,Urban,Male,Married,55,Third Party,Sport - Collision,more than 69000,0,400,3,more than 30,1,more than 7,No,No,External,none,no change,1 vehicle,51-65,60
 Toyota,Urban,Male,Married,37,Third Party,Sedan - Collision,20000 to 29000,0,400,2,more than 30,none,more than 7,No,No,External,none,no change,1 vehicle,36-40,1
-Honda,Urban,Male,Single,17,Policy Holder,Sedan - Liability,more than 69000,0,400,3,more than 30,more than 4,new,No,No,External,none,no change,1 vehicle,0-17,60
+Honda,Urban,Male,Single,16,Policy Holder,Sedan - Liability,more than 69000,0,400,3,more than 30,more than 4,new,No,No,External,none,no change,1 vehicle,0-17,60
 Pontiac,Urban,Male,Single,33,Policy Holder,Sedan - All Perils,20000 to 29000,0,400,4,more than 30,1,7 years,Yes,No,External,more than 5,no change,1 vehicle,31-35,62
 Toyota,Urban,Male,Married,49,Third Party,Sedan - Collision,20000 to 29000,0,400,1,more than 30,2 to 4,7 years,No,No,External,1 to 2,no change,1 vehicle,41-50,60
 Chevrolet,Urban,Male,Married,45,Policy Holder,Sedan - Liability,30000 to 39000,0,400,3,more than 30,more than 4,7 years,No,No,External,none,no change,1 vehicle,41-50,17
@@ -15377,7 +15377,7 @@ Pontiac,Urban,Female,Single,33,Policy Holder,Sedan - Collision,20000 to 29000,1,
 Ford,Urban,Male,Married,46,Third Party,Sedan - Collision,30000 to 39000,0,700,1,more than 30,more than 4,7 years,No,No,External,1 to 2,no change,1 vehicle,41-50,60
 Chevrolet,Urban,Male,Married,34,Policy Holder,Utility - Liability,more than 69000,0,400,1,more than 30,none,5 years,No,No,External,none,no change,1 vehicle,31-35,60
 Toyota,Urban,Male,Married,40,Policy Holder,Sedan - Collision,less than 20000,0,400,2,more than 30,2 to 4,6 years,No,No,External,none,no change,1 vehicle,41-50,6
-Honda,Urban,Male,Single,16,Policy Holder,Utility - All Perils,more than 69000,0,400,3,more than 30,more than 4,new,No,No,External,none,1 year,1 vehicle,0-17,60
+Honda,Urban,Male,Single,17,Policy Holder,Utility - All Perils,more than 69000,0,400,3,more than 30,more than 4,new,No,No,External,none,1 year,1 vehicle,0-17,60
 Pontiac,Urban,Male,Married,32,Policy Holder,Sedan - Liability,less than 20000,0,400,4,more than 30,none,7 years,No,No,External,1 to 2,no change,1 vehicle,31-35,8
 Honda,Urban,Male,Single,41,Policy Holder,Sedan - All Perils,20000 to 29000,0,400,4,more than 30,2 to 4,7 years,No,No,External,none,no change,1 vehicle,41-50,6
 Mazda,Urban,Male,Divorced,39,Policy Holder,Sedan - All Perils,30000 to 39000,0,400,4,more than 30,2 to 4,5 years,No,No,External,none,no change,1 vehicle,36-40,5
@@ -15390,7 +15390,7 @@ Toyota,Urban,Male,Married,50,Policy Holder,Sedan - Collision,20000 to 29000,0,40
 Chevrolet,Rural,Male,Married,62,Policy Holder,Sedan - Liability,20000 to 29000,0,400,3,more than 30,none,7 years,No,No,External,3 to 5,no change,1 vehicle,51-65,60
 Mazda,Urban,Female,Married,31,Policy Holder,Sedan - Collision,20000 to 29000,0,400,2,more than 30,1,6 years,No,No,External,none,no change,1 vehicle,31-35,60
 Pontiac,Urban,Female,Married,67,Policy Holder,Sedan - Collision,20000 to 29000,0,400,4,more than 30,2 to 4,7 years,No,No,External,1 to 2,no change,1 vehicle,65+,60
-Honda,Urban,Male,Single,17,Third Party,Sedan - All Perils,more than 69000,0,400,3,more than 30,none,new,No,No,External,none,no change,1 vehicle,0-17,61
+Honda,Urban,Male,Single,16,Third Party,Sedan - All Perils,more than 69000,0,400,3,more than 30,none,new,No,No,External,none,no change,1 vehicle,0-17,61
 Mazda,Urban,Male,Married,39,Policy Holder,Sedan - Collision,20000 to 29000,0,400,4,more than 30,2 to 4,7 years,No,No,External,1 to 2,4 to 8 years,2 vehicles,36-40,61
 Pontiac,Urban,Male,Married,27,Policy Holder,Sedan - Liability,20000 to 29000,0,400,1,more than 30,2 to 4,6 years,No,No,External,more than 5,no change,1 vehicle,26-30,61
 VW,Urban,Male,Married,35,Third Party,Sedan - Collision,30000 to 39000,0,400,3,none,2 to 4,7 years,Yes,No,External,none,no change,1 vehicle,36-40,4
