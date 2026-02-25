@@ -13,6 +13,7 @@ ordinal_cols = ['VehiclePrice', 'Days_Policy_Accident', 'PastNumberOfClaims',
                 'NumberOfCars', 'DriverRating', 'Deductible']
 binary_cols = ['AccidentArea', 'Sex', 'Fault', 'PoliceReportFiled', 'WitnessPresent', 'AgentType']
 scale_cols = ['Age', 'delay_weeks']
+Fraud_col = ['FraudFound_P']
 
 
 # -----------------------------
