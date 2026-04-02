@@ -1,4 +1,6 @@
 # Environnement virtuel
 vehicleenv/
-env/
 .venv/
+config.py
+.env
+secrets.json
