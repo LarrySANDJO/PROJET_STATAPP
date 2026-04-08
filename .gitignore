@@ -2,5 +2,7 @@
 vehicleenv/
 .venv/
 config.py
+Notebooks/config.py
 .env
 secrets.json
+.env.example
